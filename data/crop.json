@@ -528,21 +528,5 @@
     "mShop": 4,
     "mNameShop": "Queen Bee Shop",
     "mStock": "1"
-  },
-  {
-    "mId": 33,
-    "mName": "Sunflower",
-    "mNameIcon": "sunflower.webp",
-    "mTier": "Divine",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "N/A",
-    "mPrice_Rb": "199",
-    "mSell_value": "135,375",
-    "mObtainable_way": "The Sunflower is a limited divine multi-harvest crop introduced during the Bizzy Bee Event in Grow a Garden.\nIt grows one piece of produce at a time. It is currently the rarest obtainable seed from the Flower Seed Pack.\nThe Sunflower seed can be obtained at a 0.5% chance from the Flower Seed Pack, which can be purchased from the Honey Shop with  10 Honey or  199 Roblux.",
-    "mTrivia": "The Sunflower is the second type of sunflower in the game, the first one being Candy Sunflower.\nThe Sunflower fruit takes approximately 30 minutes to grow.\nThe Sunflower seed is visually very similar to both the Pumpkin and the Mango seeds, being a similar shade of light orange.\nUpon release, the Sunflower had the highest base price in the game at 200,000, but was reduced down to 135,000, on par with the pre-nerf Moon Mango and the Mushroom respectively.",
-    "mShop": 4,
-    "mNameShop": "Flower Seed Pack",
-    "mStock": "N/A"
   }
 ]
