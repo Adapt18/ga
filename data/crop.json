@@ -560,21 +560,5 @@
     "mShop": 1,
     "mNameShop": "Sam's Shop",
     "mStock": "1"
-  },
-  {
-    "mId": 35,
-    "mName": "Ember Lily",
-    "mNameIcon": "emberlily.webp",
-    "mTier": "Prismatic",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "15,000,000",
-    "mPrice_Rb": "779",
-    "mSell_value": "50,000",
-    "mObtainable_way": "The Ember Lily seed can be obtained by:\nPurchasing for 15,000,000 Coins or 779 Roblux in the Seed Shop.\nLucky Harvest\nStolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab\nRarely gotten from the Super Seed",
-    "mTrivia": "The Ember Lily is one of the two Prismatic crops in the game.\nThe Ember Lily seed has the 2nd highest cost to purchase, behind Moon Mango and tied with Celestiberry.\nThe Ember Lily's appearance is based on the real-life Ember Lily flower.\nThe chance to be in the Seed Shop is 1/5.000 (0.02%) - which means a predicted 1 to 2 in-stock every day.\nThere is a bug where the Red Fox cannot steal an Ember Lily Seed, even though it is a Seed Shop item.\nThe Ember Lilies have a kg average of 10.60 kg",
-    "mShop": 1,
-    "mNameShop": "Sam's Shop",
-    "mStock": "1"
   }
 ]
