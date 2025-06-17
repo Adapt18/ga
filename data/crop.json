@@ -544,21 +544,5 @@
     "mShop": 4,
     "mNameShop": "Flower Seed Pack",
     "mStock": "N/A"
-  },
-  {
-    "mId": 34,
-    "mName": "Beanstalk",
-    "mNameIcon": "beanstalk.webp",
-    "mTier": "Prismatic",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "10,000,000",
-    "mPrice_Rb": "715",
-    "mSell_value": "18,050",
-    "mObtainable_way": "The Beanstalk seed can be purchased for  10,000,000 or  715 from the Seed Shop.",
-    "mTrivia": "The Beanstalk was the first Prismatic crop to be released in-game.\n- There was a bug when the Beanstalk was first released, where if a player purchased it with Robux, it would instead give them a Dragon Fruit seed.\n- The in-game Beanstalk is very similar in appearance to the titular beanstalk from Jack and The Beanstalk, being large spiraling plants that sprout podded beans.\n- The chance to be in the Seed Shop is 1/3,333. (0.03%)",
-    "mShop": 1,
-    "mNameShop": "Sam's Shop",
-    "mStock": "1"
   }
 ]
