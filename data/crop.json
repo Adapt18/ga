@@ -512,21 +512,5 @@
     "mShop": 1,
     "mNameShop": "Sam's Shop",
     "mStock": "1"
-  },
-  {
-    "mId": 32,
-    "mName": "Hive Fruit",
-    "mNameIcon": "hive_fruit.webp",
-    "mTier": "Divine",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "40 Honey",
-    "mPrice_Rb": "599",
-    "mSell_value": "45,125",
-    "mObtainable_way": "The Hive Fruit is a limited-time divine crop which was introduced in the Bizzy Bee Event in Grow a Garden.\nThe Hive Fruit seed can be obtained exclusively from the Honey Shop by trading.",
-    "mTrivia": "Its unique tree structure requires strategic garden planning to maximize yield.\nWhen the pollinated mutation is applied to a Hive Fruit it has a chance to send out bees which can in turn pollinate other crops.\nIt is one of the 2 plants that are purchasable in the Honey Shop.\nThe Hive Fruit originally had a minimum value of  4,500 Sheckles before being buffed to around  45,000 Sheckles two days after release.",
-    "mShop": 4,
-    "mNameShop": "Queen Bee Shop",
-    "mStock": "1"
   }
 ]
