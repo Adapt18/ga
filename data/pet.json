@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "data": [
     {
     "mId": 1,
@@ -363,28 +363,6 @@
 	"mPassive": "Every ~5 minutes, one random crop will turn gold.",
 	"mGeneral": "The Dragonfly is a Divine pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a 1% chance.",
     "mTrivia": "Once every ~5 minutes, the Dragonfly will turn a random crop Gold.\nIt is the first Divine pet to be released into the game, followed by the Night Owl, Raccoon and Blood Owl.\nWhen being held by the player, the Dragonfly is not in their hand, and rather few studs away from hand and has their head at ground. This is most likely a visual bug as pet flies normally once placed."
-  },
-  {
-    "mId": 33,
-    "mName": "Queen Bee",
-    "mNameIcon": "queenbee.webp",
-    "mTier": "Divine",
-    "mObtaining_method": "Bee Egg",
-    "mHatch_chance": "1%",
-	"mPassive": "Every ~25 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nEvery ~30 Minutes, a random pet will refresh its cooldown.",
-	"mGeneral": "The Queen Bee is a Divine pet added in the Bizzy Bee Event update. It can be obtained in the Bee Egg. It has 65,000 hunger.",
-    "mTrivia": "Every ~25 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nEvery ~30 Minutes, a random pet will refresh its cooldown."
-  },
-  {
-    "mId": 34,
-    "mName": "Disco Bee",
-    "mNameIcon": "discobee.webp",
-    "mTier": "Divine",
-    "mObtaining_method": "Anti Bee Egg",
-    "mHatch_chance": "0.25%",
-    "mPassive": "Every 20m, 12% chance a nearby fruit becomes Disco!",
-    "mGeneral": "The Disco Bee can be obtained from the Anti Bee Egg, which can be bought from the Limited Time Shop for  149 or crafted at the Bizzy Bear for:\n5 Honey + 0.36kg Pollinated Strawberry: 1x Egg\n13 Honey + 3.6kg Pollinated Nectarine: 1x Egg\n28 Honey + 1.65kg HoneyGlazed Rose: 1x Egg\n37 Honey + 15.8kg HoneyGlazed Beanstalk: 2x Egg",
-    "mTrivia": "Once every 15 minutes, the Disco Bee will have a 12% chance to add Disco Mutations to a fruit.\nIt is the only pet that is able to give out the Disco Mutation currently, as it is not possible to get it through any other means outside of a Disco Event caused by an admin."
   }
   ]
 }
