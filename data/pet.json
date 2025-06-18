@@ -1,5 +1,7 @@
-[
-  {
+{
+  "version": 9,
+  "data": [
+    {
     "mId": 1,
     "mName": "Bunny",
     "mNameIcon": "bunny.webp",
@@ -384,4 +386,5 @@
     "mGeneral": "The Disco Bee can be obtained from the Anti Bee Egg, which can be bought from the Limited Time Shop for  149 or crafted at the Bizzy Bear for:\n5 Honey + 0.36kg Pollinated Strawberry: 1x Egg\n13 Honey + 3.6kg Pollinated Nectarine: 1x Egg\n28 Honey + 1.65kg HoneyGlazed Rose: 1x Egg\n37 Honey + 15.8kg HoneyGlazed Beanstalk: 2x Egg",
     "mTrivia": "Once every 15 minutes, the Disco Bee will have a 12% chance to add Disco Mutations to a fruit.\nIt is the only pet that is able to give out the Disco Mutation currently, as it is not possible to get it through any other means outside of a Disco Event caused by an admin."
   }
-]
+  ]
+}
