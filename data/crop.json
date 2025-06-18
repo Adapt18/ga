@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "data": [
     {
     "mId": 1,
@@ -529,38 +529,6 @@
     "mTrivia": "Its unique tree structure requires strategic garden planning to maximize yield.\nWhen the pollinated mutation is applied to a Hive Fruit it has a chance to send out bees which can in turn pollinate other crops.\nIt is one of the 2 plants that are purchasable in the Honey Shop.\nThe Hive Fruit originally had a minimum value of  4,500 Sheckles before being buffed to around  45,000 Sheckles two days after release.",
     "mShop": 4,
     "mNameShop": "Queen Bee Shop",
-    "mStock": "1"
-  },
-  {
-    "mId": 33,
-    "mName": "Sunflower",
-    "mNameIcon": "sunflower.webp",
-    "mTier": "Divine",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "N/A",
-    "mPrice_Rb": "199",
-    "mSell_value": "135,375",
-    "mObtainable_way": "The Sunflower is a limited divine multi-harvest crop introduced during the Bizzy Bee Event in Grow a Garden.\nIt grows one piece of produce at a time. It is currently the rarest obtainable seed from the Flower Seed Pack.\nThe Sunflower seed can be obtained at a 0.5% chance from the Flower Seed Pack, which can be purchased from the Honey Shop with  10 Honey or  199 Roblux.",
-    "mTrivia": "The Sunflower is the second type of sunflower in the game, the first one being Candy Sunflower.\nThe Sunflower fruit takes approximately 30 minutes to grow.\nThe Sunflower seed is visually very similar to both the Pumpkin and the Mango seeds, being a similar shade of light orange.\nUpon release, the Sunflower had the highest base price in the game at 200,000, but was reduced down to 135,000, on par with the pre-nerf Moon Mango and the Mushroom respectively.",
-    "mShop": 4,
-    "mNameShop": "Flower Seed Pack",
-    "mStock": "N/A"
-  },
-  {
-    "mId": 34,
-    "mName": "Beanstalk",
-    "mNameIcon": "beanstalk.webp",
-    "mTier": "Prismatic",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "10,000,000",
-    "mPrice_Rb": "715",
-    "mSell_value": "18,050",
-    "mObtainable_way": "The Beanstalk seed can be purchased for  10,000,000 or  715 from the Seed Shop.",
-    "mTrivia": "The Beanstalk was the first Prismatic crop to be released in-game.\n- There was a bug when the Beanstalk was first released, where if a player purchased it with Robux, it would instead give them a Dragon Fruit seed.\n- The in-game Beanstalk is very similar in appearance to the titular beanstalk from Jack and The Beanstalk, being large spiraling plants that sprout podded beans.\n- The chance to be in the Seed Shop is 1/3,333. (0.03%)",
-    "mShop": 1,
-    "mNameShop": "Sam's Shop",
     "mStock": "1"
   }
   ]
