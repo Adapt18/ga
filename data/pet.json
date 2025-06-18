@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "data": [
     {
     "mId": 1,
@@ -121,17 +121,6 @@
 	"mPassive": "Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.",
 	"mGeneral": "The Pig is an Uncommon pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.",
     "mTrivia": "The Pig has a passive trait which allows it to emit a 15 second aura every 118 seconds that grants a 2x chance for the nearest plant within 15 studs to grow mutated fruits. This trait can only affect fruits that have not fully grown."
-  },
-  {
-    "mId": 11,
-    "mName": "Rooster",
-    "mNameIcon": "rooster.webp",
-    "mTier": "Rare",
-    "mObtaining_method": "Rare Egg",
-    "mHatch_chance": "16.67%",
-	"mPassive": "Increases egg hatch speed by ~20%.",
-	"mGeneral": "The Rooster is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.",
-    "mTrivia": "The Rooster has a passive trait that increases egg hatch speed by ~20%."
   },
   {
     "mId": 12,
