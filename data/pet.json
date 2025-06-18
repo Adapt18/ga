@@ -1,19 +1,8 @@
 {
-  "version": 11,
+  "version": 12,
   "data": [
-    {
-    "mId": 1,
-    "mName": "Bunny",
-    "mNameIcon": "bunny.webp",
-    "mTier": "Common",
-    "mObtaining_method": "Common Egg",
-    "mHatch_chance": "33.33%",
-	"mPassive": "Every 40s, eats a carrot at a 1.5x value bonus.",
-	"mGeneral": "The Bunny is a Common Pet added in the Animal Update. It can be obtained by hatching the Common Egg with a chance of 33.33%. The Bunny has 1,100 hunger.",
-    "mTrivia": "- Every 40 seconds, the Bunny searches for a carrot or chocolate carrot on the garden and eats it, automatically selling it at a marked up price of 1.5x value. The sell value multiplier increases as the Bunny ages.\n- If no carrots are planted in the garden, Bunnies will wander around aimlessly."
-  },
   {
-    "mId": 2,
+    "mId": 1,
     "mName": "Dog",
     "mNameIcon": "dog.webp",
     "mTier": "Common",
