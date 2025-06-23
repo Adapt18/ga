@@ -1,0 +1,77 @@
+{
+  "mTrivia": "Thunderstorms have a lightning frequency around 2-3 seconds.\nThe alert of the volcano weather is a nod to Natural Disaster Survival\nAdmins have the ability to manually create weather, though it is only done on special occasions such as ~20 minutes before an update.\nThe first two hours after the Lunar Glow Event was released, Night occurred every 20 minutes. It was later changed to once per hour.\nAfter the Blood Moon Event was released, the first two night events were manually changed to blood moons by an admin.\nAfter the poorly received cosmetics update, the Night and Blood moon weather events were added back until the next update as an apology.\nAs part of the Bizzier Bees update, the Night, Blood Moon, and Meteor Shower weathers were all made into permanent events that would appear every 4 hours.\nMost weather events last approximately 3-5 minutes, with the exceptions of Night (10 minutes), Bee Swarm (10 minutes) and Blood Moon (10 minutes, used to be 15 minutes before friendship update).\nAccording to Playtime Luck Chart, the longer the player stays in-game, the better chance is there for players' fruits to get weather mutations like chilled, frozen, wet, shocked, etc. It can also be increased by the Luck Event.\nSheckle Rain, Jandel Storm, Laser Storm, and Sun God are the only weather types that don't have an icon.\nThe chances of different weather are not yet confirmed, though by observation:\nRain is the most common weather in the game, appearing about every 20 minutes.\nFrost appears less frequently than Rain, appearing once about every hour to 2 hours.\nMeteor showers are the rarest natural weather type, only occurring once in a few nights.\nDuring a Monster Mash event, the figure behind the DJ Booth is JhaiLatte, a developer of the game.\nIt takes around 46 seconds during Bee swarm for the bee to pollinate a fruit (Varies depending on how far the targeted fruit is.)\nOn June 7, 2025, Jandel has stated that the \"It's Raining Tacos\" song played during Disco events will be retired and replaced by a new song.\nOn June 14, 2025, the Disco event made its first appearance with the \"O I I A I Remix\"\nOn June 21, 2025, the Disco event's background song was changed back to \"It's Raining Tacos\"\nDuring the Blackhole event, the low gravity can allow players to scale abnormally large plants that are usually impossible to climb.\nThe volcano event is based off the volcano disaster from Natural Disaster Survival, as the volcano and lava models are directly from that game.\nJandel said he got permission from stickmasterluke, the owner of Natural Disaster Survival, to use the volcano model",
+  "weather": [
+    {
+      "mId": 1,
+      "mName": "Rain",
+      "mNameIcon": "rain.webp",
+      "mTier": "Standard",
+      "mEffect": "Increases crop growth speed by 50%.\n50% chance to apply the Wet mutation.\nCan combine with Chilled to create Frozen.",
+      "mDetails": ""
+    },
+    {
+      "mId": 2,
+      "mName": "Thunderstorm",
+      "mNameIcon": "thunderstorm.webp",
+      "mTier": "Standard",
+      "mEffect": "Increases growth speed by 50%.\n50% chance to apply Wet.\nLightning strikes can apply Shocked mutation.",
+      "mDetails": ""
+    },
+    {
+      "mId": 3,
+      "mName": "Frost",
+      "mNameIcon": "frost.webp",
+      "mTier": "Standard",
+      "mEffect": "Increases growth speed by 50%.\nChance to apply Chilled.\nCombines with Wet to create Frozen.\nTriggers shivering animation for players, along with a shivering sound effect.",
+      "mDetails": "25% chance to replace Rain."
+    },
+    {
+      "mId": 4,
+      "mName": "Blood Moon",
+      "mNameIcon": "bloodmoon.webp",
+      "mTier": "Standard",
+      "mEffect": "Gives crops a glowing purple hue.\nChance to apply Moonlit.\n6 crops become Moonlit per night (once every 40 seconds over 4 minutes).",
+      "mDetails": "Placing a Night Staff will increase Moonlit crop yield by the amount of charges it has.\nAppears every 4 hours and occurs on the 30th minute of the hour. Lasts 10 minutes.\nSoundtrack: Clair De Lune."
+    },
+    {
+      "mId": 5,
+      "mName": "Night",
+      "mNameIcon": "night.webp",
+      "mTier": "Standard",
+      "mEffect": "Gives crops a glowing red hue.\nChance to apply Bloodlit.",
+      "mDetails": "Default: 6 crops become Bloodlit per cycle (once every 40 seconds over 4 minutes).\nPlacing a Night Staff will increase Bloodlit crop yield by the amount of charges it has.\n33.33% chance to replace Night for that cycle.\nLasts 10 minutes. During the Lunar Glow Event, Blood Moon lasted for 15 minutes.\nBoth sky and moon turn red."
+    },
+    {
+      "mId": 6,
+      "mName": "Meteor Shower",
+      "mNameIcon": "meteorshower.webp",
+      "mTier": "Standard",
+      "mEffect": "Meteors fall from the sky.\nCrops hit by meteors gain Celestial mutation.",
+      "mDetails": "Use Star Caller to direct meteors to crops.\nDuration: ~5 minutes."
+    },
+    {
+      "mId": 7,
+      "mName": "Windy",
+      "mNameIcon": "windy.webp",
+      "mTier": "Standard",
+      "mEffect": "Gives crops a slightly noticeable crescent wind effect.\nCrops have a chance to become Windstruck during the event.",
+      "mDetails": "Will make the players camera have a white-ish tint.\nWill make wind particle effects fly around the map."
+    },
+    {
+      "mId": 8,
+      "mName": "Gale",
+      "mNameIcon": "gale.webp",
+      "mTier": "Standard",
+      "mEffect": "Crops have a higher chance to become Windstruck during the event.\nPlayers will be blown by strong wind currents.",
+      "mDetails": "Will make the players camera have a white-ish tint.\nMakes large wind particle effects fly around the map."
+    },
+    {
+      "mId": 9,
+      "mName": "Tornado",
+      "mNameIcon": "tornado.webp",
+      "mTier": "Standard",
+      "mEffect": "Gives crops the Twisted mutation.",
+      "mDetails": "A tornado spawns at the center of the map. It moves around the map, granting the twisted mutation to the crops it crosses. Multiple tornadoes may also spawn in."
+    }
+  ]
+}
