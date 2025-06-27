@@ -1,12 +1,12 @@
 {
-  "version": 10,
+  "version": 11,
   "weather": [
     {
       "mId": 1,
       "mName": "Rain",
       "mNameIcon": "rain.webp",
       "mTier": "Standard",
-      "mEffect": "•Increases crop growth speed by 50%.\n•50% chance to apply the Wet mutation.\n•Can combine with Chilled to create Frozen.",
+      "mEffect": "• Increases crop growth speed by 50%.\n• 50% chance to apply the Wet mutation.\n• Can combine with Chilled to create Frozen.",
       "mDetails": ""
     },
     {
@@ -14,7 +14,7 @@
       "mName": "Thunderstorm",
       "mNameIcon": "thunderstorm.webp",
       "mTier": "Standard",
-      "mEffect": "•Increases growth speed by 50%.\n•50% chance to apply Wet.\n•Lightning strikes can apply Shocked mutation.",
+      "mEffect": "• Increases growth speed by 50%.\n• 50% chance to apply Wet.\n• Lightning strikes can apply Shocked mutation.",
       "mDetails": ""
     },
     {
@@ -22,56 +22,56 @@
       "mName": "Frost",
       "mNameIcon": "frost.webp",
       "mTier": "Standard",
-      "mEffect": "•Increases growth speed by 50%.\n•Chance to apply Chilled.\n•Combines with Wet to create Frozen.\n•Triggers shivering animation for players, along with a shivering sound effect.",
-      "mDetails": "•25% chance to replace Rain."
+      "mEffect": "• Increases growth speed by 50%.\n• Chance to apply Chilled.\n• Combines with Wet to create Frozen.\n• Triggers shivering animation for players, along with a shivering sound effect.",
+      "mDetails": "• 25% chance to replace Rain."
     },
     {
       "mId": 4,
       "mName": "Blood Moon",
       "mNameIcon": "bloodmoon.webp",
       "mTier": "Standard",
-      "mEffect": "•Gives crops a glowing purple hue.\n•Chance to apply Moonlit.\n•6 crops become Moonlit per night (once every 40 seconds over 4 minutes).",
-      "mDetails": "•Placing a Night Staff will increase Moonlit crop yield by the amount of charges it has.\n•Appears every 4 hours and occurs on the 30th minute of the hour. Lasts 10 minutes.\n•Soundtrack: Clair De Lune."
+      "mEffect": "• Gives crops a glowing purple hue.\n• Chance to apply Moonlit.\n• 6 crops become Moonlit per night (once every 40 seconds over 4 minutes).",
+      "mDetails": "• Placing a Night Staff will increase Moonlit crop yield by the amount of charges it has.\n• Appears every 4 hours and occurs on the 30th minute of the hour. Lasts 10 minutes.\n• Soundtrack: Clair De Lune."
     },
     {
       "mId": 5,
       "mName": "Night",
       "mNameIcon": "night.webp",
       "mTier": "Standard",
-      "mEffect": "•Gives crops a glowing red hue.\n•Chance to apply Bloodlit.",
-      "mDetails": "•Default: 6 crops become Bloodlit per cycle (once every 40 seconds over 4 minutes).\n•Placing a Night Staff will increase Bloodlit crop yield by the amount of charges it has.\n•33.33% chance to replace Night for that cycle.\n•Lasts 10 minutes. During the Lunar Glow Event, Blood Moon lasted for 15 minutes.\n•Both sky and moon turn red."
+      "mEffect": "• Gives crops a glowing red hue.\n• Chance to apply Bloodlit.",
+      "mDetails": "• Default: 6 crops become Bloodlit per cycle (once every 40 seconds over 4 minutes).\n• Placing a Night Staff will increase Bloodlit crop yield by the amount of charges it has.\n• 33.33% chance to replace Night for that cycle.\n• Lasts 10 minutes. During the Lunar Glow Event, Blood Moon lasted for 15 minutes.\n• Both sky and moon turn red."
     },
     {
       "mId": 6,
       "mName": "Meteor Shower",
       "mNameIcon": "meteorshower.webp",
       "mTier": "Standard",
-      "mEffect": "•Meteors fall from the sky.\n•Crops hit by meteors gain Celestial mutation.",
-      "mDetails": "•Use Star Caller to direct meteors to crops.\n•Duration: ~5 minutes."
+      "mEffect": "• Meteors fall from the sky.\n• Crops hit by meteors gain Celestial mutation.",
+      "mDetails": "• Use Star Caller to direct meteors to crops.\n• Duration: ~5 minutes."
     },
     {
       "mId": 7,
       "mName": "Windy",
       "mNameIcon": "windy.webp",
       "mTier": "Standard",
-      "mEffect": "•Gives crops a slightly noticeable crescent wind effect.\n•Crops have a chance to become Windstruck during the event.",
-      "mDetails": "•Will make the players camera have a white-ish tint.\n•Will make wind particle effects fly around the map."
+      "mEffect": "• Gives crops a slightly noticeable crescent wind effect.\n• Crops have a chance to become Windstruck during the event.",
+      "mDetails": "• Will make the players camera have a white-ish tint.\n• Will make wind particle effects fly around the map."
     },
     {
       "mId": 8,
       "mName": "Gale",
       "mNameIcon": "gale.webp",
       "mTier": "Standard",
-      "mEffect": "•Crops have a higher chance to become Windstruck during the event.\n•Players will be blown by strong wind currents.",
-      "mDetails": "•Will make the players camera have a white-ish tint.\n•Makes large wind particle effects fly around the map."
+      "mEffect": "• Crops have a higher chance to become Windstruck during the event.\n• Players will be blown by strong wind currents.",
+      "mDetails": "• Will make the players camera have a white-ish tint.\n• Makes large wind particle effects fly around the map."
     },
     {
       "mId": 9,
       "mName": "Tornado",
       "mNameIcon": "tornado.webp",
       "mTier": "Standard",
-      "mEffect": "•Gives crops the Twisted mutation.",
-      "mDetails": "•A tornado spawns at the center of the map. It moves around the map, granting the twisted mutation to the crops it crosses. Multiple tornadoes may also spawn in."
+      "mEffect": "• Gives crops the Twisted mutation.",
+      "mDetails": "• A tornado spawns at the center of the map. It moves around the map, granting the twisted mutation to the crops it crosses. Multiple tornadoes may also spawn in."
     }
   ]
 }
