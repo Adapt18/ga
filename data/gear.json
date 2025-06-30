@@ -1,0 +1,248 @@
+[
+  {
+    "mId": 1,
+    "mName": "Watering Can",
+    "mNameIcon": "wateringcan.webp",
+    "mTier": "Common",
+    "mPrice": "50,000",
+    "mPrice_Rb": "39",
+    "mUse": "Speeds up crop growth",
+    "mStock": "1-4",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 2,
+    "mName": "Trowel",
+    "mNameIcon": "trowel.webp",
+    "mTier": "Uncommon",
+    "mPrice": "100,000",
+    "mPrice_Rb": "49",
+    "mUse": "Realign crops",
+    "mStock": "1-3",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 3,
+    "mName": "Recall Wrench",
+    "mNameIcon": "recallwrench.webp",
+    "mTier": "Uncommon",
+    "mPrice": "150,000",
+    "mPrice_Rb": "59",
+    "mUse": "Teleports the user to the Gear Shop",
+    "mStock": "1-3",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 4,
+    "mName": "Basic Sprinkler",
+    "mNameIcon": "basicsprinkler.webp",
+    "mTier": "Rare",
+    "mPrice": "25,000",
+    "mPrice_Rb": "79",
+    "mUse": "Increases growth speed and harvest size of crops within its radius.",
+    "mStock": "1-5",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 5,
+    "mName": "Advanced Sprinkler",
+    "mNameIcon": "dvancedsprinkler.webp",
+    "mTier": "Legendary",
+    "mPrice": "50,000",
+    "mPrice_Rb": "99",
+    "mUse": "Increases growth speed and mutation chance of crops within its radius.",
+    "mStock": "1-2",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 6,
+    "mName": "Godly Sprinkler",
+    "mNameIcon": "godlysprinkler.webp",
+    "mTier": "Mythical",
+    "mPrice": "120,000",
+    "mPrice_Rb": "149",
+    "mUse": "Increases growth speed, mutation chance and harvest size of crops within its radius.",
+    "mStock": "1-2",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 7,
+    "mName": "Chocolate Sprinkler",
+    "mNameIcon": "chocolatesprinkler.webp",
+    "mTier": "Mythical",
+    "mPrice": "500,000",
+    "mPrice_Rb": "199",
+    "mUse": "Multi-harvest fruit within its area of effect are covered in chocolate.",
+    "mStock": "1-2",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 8,
+    "mName": "Magnifying Glass",
+    "mNameIcon": "magnifyingglass.webp",
+    "mTier": "Mythical",
+    "mPrice": "10,000,000",
+    "mPrice_Rb": "99",
+    "mUse": "Inspects plants to reveal the value without collecting them.",
+    "mStock": "1",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 9,
+    "mName": "Master Sprinkler",
+    "mNameIcon": "mastersprinkler.webp",
+    "mTier": "Divine",
+    "mPrice": "10,000,000",
+    "mPrice_Rb": "199",
+    "mUse": "Greatly increases growth speed, mutation chance and harvest size of crops within its radius.",
+    "mStock": "1-2",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 10,
+    "mName": "Cleaning Spray",
+    "mNameIcon": "cleaningspray.webp",
+    "mTier": "Divine",
+    "mPrice": "15,000,000",
+    "mPrice_Rb": "139",
+    "mUse": "Removes all mutations from the selected crop.",
+    "mStock": "1-10",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 11,
+    "mName": "Favorite Tool",
+    "mNameIcon": "favoritetool.webp",
+    "mTier": "Divine",
+    "mPrice": "20,000,000",
+    "mPrice_Rb": "119",
+    "mUse": "Prevents selected crops from being picked up by the user.",
+    "mStock": "1-3",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 12,
+    "mName": "Harvest Tool",
+    "mNameIcon": "harvesttool.webp",
+    "mTier": "Divine",
+    "mPrice": "30,000,000",
+    "mPrice_Rb": "149",
+    "mUse": "Harvests all fruit from the selected plant.",
+    "mStock": "1-3",
+    "mObtainable": "Yes"
+  }
+,
+  {
+    "mId": 13,
+    "mName": "Friendship Pot",
+    "mNameIcon": "friendshippot.webp",
+    "mTier": "Divine",
+    "mPrice": "15,000,000",
+    "mPrice_Rb": "39",
+    "mUse": "A flower pot to share with a friend.",
+    "mStock": "1",
+    "mObtainable": "Yes"
+  }
+,
+  {
+    "mId": 14,
+    "mName": "Honey Sprinkler",
+    "mNameIcon": "honeysprinkler.webp",
+    "mTier": "Divine",
+    "mPrice": "20 Honey",
+    "mPrice_Rb": "N/A",
+    "mUse": "Applies the Honey Glazed mutation to crops within its radius.",
+    "mStock": "1",
+    "mObtainable": "Yes"
+  }
+,
+  {
+    "mId": 15,
+    "mName": "Lightning Rod",
+    "mNameIcon": "lightningrod.webp",
+    "mTier": "Craftables",
+    "mPrice": "1x Basic Sprinkler + 1x Advanced Sprinkler + 1x Godly Sprinkler +  500,000 Coins",
+    "mPrice_Rb": "179",
+    "mUse": "Redirects lightning strikes from its vicinity to exact position in the user's garden.",
+    "mStock": "Craft-able",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 16,
+    "mName": "Berry Blusher Sprinkler",
+    "mNameIcon": "berryblushersprinkler.webp",
+    "mTier": "Craftables",
+    "mPrice": "1x Grape +1x Blueberry + 1x Strawberry + 1x Godly Sprinkler",
+    "mPrice_Rb": "229",
+    "mUse": "Greatly increases the size bonus for Grapes, Blueberries, Strawberries, Raspberries and Celestiberries. Lasts 1.5 minutes.",
+    "mStock": "Crafted",
+    "mObtainable": "Yes"
+  }
+,
+  {
+    "mId": 17,
+    "mName": "Flower Froster Sprinkler",
+    "mNameIcon": "flowerfrostersprinkler.webp",
+    "mTier": "Craftables",
+    "mPrice": "1x Orange Tulip + 1x Daffodil + 1x Advanced Sprinkler + 1x Basic Sprinkler",
+    "mPrice_Rb": "229",
+    "mUse": "Freezes Flower type plants. Lasts for 2.5 minutes.",
+    "mStock": "Crafted",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 18,
+    "mName": "Spice Spritzer Sprinkler",
+    "mNameIcon": "spicespritzersprinkler.webp",
+    "mTier": "Craftables",
+    "mPrice": "1x Pepper + 1x Ember Lily + 1x Cacao + 1x Master Sprinkler",
+    "mPrice_Rb": "229",
+    "mUse": "Greatly increase variant chance for Cacao, Pepper and Papaya. Lasts 2.5 minutes.",
+    "mStock": "Crafted",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 19,
+    "mName": "Stalk Sprout Sprinkler",
+    "mNameIcon": "stalksproutsprinkler.webp",
+    "mTier": "Craftables",
+    "mPrice": "1x Bamboo + 1x Beanstalk + 1x Mushroom + 1x Advanced Sprinkler",
+    "mPrice_Rb": "229",
+    "mUse": "Greatly increases the sizes of Mushrooms, Bamboo, and Beanstalk and can also make them get the wet mutation. Lasts 2 minutes.",
+    "mStock": "Crafted",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 20,
+    "mName": "Sweet Soaker Sprinkler",
+    "mNameIcon": "sweetsoakersprinkler.webp",
+    "mTier": "Craftables",
+    "mPrice": "3x Watermelon + Master Sprinkler",
+    "mPrice_Rb": "229",
+    "mUse": "Increases size bonus for Watermelon, Pumpkin, and Moon Melon. Lasts 5 minutes.",
+    "mStock": "Crafted",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 21,
+    "mName": "Tropical Mist Sprinkler",
+    "mNameIcon": "tropicalmistsprinkler.webp",
+    "mTier": "Craftables",
+    "mPrice": "1x Coconut + 1x Dragon Fruit + 1x Mango + 1x Godly Sprinkler",
+    "mPrice_Rb": "229",
+    "mUse": "Increases growth speed and size bonus for Coconut, Dragon Fruit, Mango, Cacao & Watermelon. Lasts 4 minutes.",
+    "mStock": "Crafted",
+    "mObtainable": "Yes"
+  },
+  {
+    "mId": 22,
+    "mName": "Reclaimer",
+    "mNameIcon": "reclaimer.webp",
+    "mTier": "Craftables",
+    "mPrice": "1x Common Egg + 1x Harvest Tool + 500,000 Coins",
+    "mPrice_Rb": "129",
+    "mUse": "Reclaims plants, turning them into seeds. 3 use.",
+    "mStock": "Crafted",
+    "mObtainable": "Yes"
+  }
+]
