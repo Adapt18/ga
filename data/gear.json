@@ -1,7 +1,6 @@
 {
   "version": 1,
   "data": [
-    [
   {
     "mId": 1,
     "mName": "Watering Can",
@@ -249,5 +248,4 @@
     "mObtainable": "Yes"
   }
 ]
-  ]
 }
