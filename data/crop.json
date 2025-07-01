@@ -1,7 +1,8 @@
 {
   "version": 1,
   "data": [
-    {
+    [
+  {
     "mId": 1,
     "mName": "Carrot",
     "mNameIcon": "carrot.webp",
@@ -11,7 +12,7 @@
     "mPrice": "10",
     "mPrice_Rb": "7",
     "mSell_value": "18",
-    "mObtainable_way": "1. Has a 100% chance to be in stock in Sam's Shop. A user can purchase a seed for 10 Coins or 7 Roblux.\n2. Lucky Harvest\n3. Red Fox steal\n4. Snail, yield a seed when harvest\n5. Dog and Golden Lab dig up",
+    "mObtainable_way": "Carrot seed can be obtained by the following ways:\n1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 10 Coins or 7 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Often dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "This is the first crop that anyone can plant and buy in-game\n.The Carrot takes about 6.5 seconds to fully grow, which is really quick\n.The Easter Event 2025 variant of this crop is the Chocolate Carrot\n.The Carrot can be eaten by a Bunny and the Black Bunny.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -27,8 +28,8 @@
     "mPrice": "50",
     "mPrice_Rb": "21",
     "mSell_value": "14",
-    "mObtainable_way": "1. Has a 100% chance to be in stock in Sam's Shop. A user can purchase a seed for 50 Coins or 21 Roblux.\n3. Lucky Harvest\n4. Red Fox steal\n5. Snail, yield a seed when harvest\n6. Dog and Golden Lab dig up",
-    "mTrivia": "- Strawberry takes 85 seconds for the crop to grow and produces its berries in 5 to 8 seconds.\n- A Strawberry's max wield is 4.\n- In the past, buying a Strawberry seed for  21 would instead give you a Cherry Blossom seed. This is not possible anymore.",
+    "mObtainable_way": "Strawberry seed could be obtained by the following ways:\n1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 50 Coins or 21 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mTrivia": "- Strawberry takes 10 seconds for the crop to grow and produces its berries in 5 to 8 seconds.\n- A Strawberry's max wield is 5.\n- In the past, buying a Strawberry seed for 21 Roblux, would instead give the player a Cherry Blossom seed. This issue has since been patched.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
     "mStock": "1-6"
@@ -43,7 +44,7 @@
     "mPrice": "10,000",
     "mPrice_Rb": "99",
     "mSell_value": "9,928",
-    "mObtainable_way": "The Chocolate Carrot seed was previously obtained in the following ways:\n1. Chocolate Carrot seed had a 100% chance to be in stock in Poppy's Easter Shop. A user could purchase a seed for 10,000 or  99.\nThe Chocolate Carrot seed can still be obtained in the following ways:\n1. Gaining enough points during the Summer Harvest Event.",
+    "mObtainable_way": "The Chocolate Carrot seed was previously obtained in the following ways:\n1. Chocolate Carrot seed had a 100% chance to be in stock in Poppy's Easter Shop. A user could purchase a seed for 10,000 Coins or 99 Roblux.\nThe Chocolate Carrot seed can still be obtained in the following ways:\n1. Gaining enough points during the Summer Harvest Event.",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -66,7 +67,7 @@
     "mStock": "1-5"
   },
   {
-    "mId": 4,
+    "mId": 5,
     "mName": "Wild Carrot",
     "mNameIcon": "wildcarrot.webp",
     "mTier": "Uncommon",
@@ -82,7 +83,7 @@
     "mStock": "1-5"
   },
   {
-    "mId": 5,
+    "mId": 6,
     "mName": "Rose",
     "mNameIcon": "rose.webp",
     "mTier": "Uncommon",
@@ -98,7 +99,7 @@
     "mStock": "N/A"
   },
   {
-    "mId": 6,
+    "mId": 7,
     "mName": "Tomato",
     "mNameIcon": "tomato.webp",
     "mTier": "Rare",
@@ -114,7 +115,7 @@
     "mStock": "1-3"
   },
   {
-    "mId": 7,
+    "mId": 8,
     "mName": "Cauliflower",
     "mNameIcon": "cauliflower.webp",
     "mTier": "Rare",
@@ -130,7 +131,39 @@
     "mStock": "1-4"
   },
   {
-    "mId": 8,
+    "mId": 9,
+    "mName": "Delphinium",
+    "mNameIcon": "delphinium.webp",
+    "mTier": "Rare",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "2 Summer Coin",
+    "mPrice_Rb": "99",
+    "mSell_value": "21,660",
+    "mObtainable_way": "The player can get the delphinium at the new summer seed shop for  2. Summer coins are obtainable by participating in the Summer Harvest.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Summer Shop",
+    "mStock": "1-6"
+  },
+  {
+    "mId": 10,
+    "mName": "Peace Lily",
+    "mNameIcon": "peacelily.webp",
+    "mTier": "Rare",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "Craftable, requiring\nRafflesia Seed\nCauliflower Seed\n 3 Summer Coin",
+    "mPrice_Rb": "129",
+    "mSell_value": "22,000",
+    "mObtainable_way": "The Peace Lily can be crafted with the following:\n- 1 Rafflesia Seed\n- 1 Cauliflower Seed\n - 3 Summer Coin\n- Craft time: 10 minutes\n- Alternatively, it can be purchased for  129.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Summer Shop",
+    "mStock": "1-6"
+  },
+  {
+    "mId": 11,
     "mName": "Pear",
     "mNameIcon": "pear.webp",
     "mTier": "Rare",
@@ -146,7 +179,7 @@
     "mStock": "1-6"
   },
   {
-    "mId": 9,
+    "mId": 12,
     "mName": "Raspberry",
     "mNameIcon": "raspberry.webp",
     "mTier": "Rare",
@@ -162,23 +195,7 @@
     "mStock": "N/A"
   },
   {
-    "mId": 10,
-    "mName": "Pear",
-    "mNameIcon": "pear.webp",
-    "mTier": "Rare",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "N/A",
-    "mPrice_Rb": "N/A",
-    "mSell_value": "500",
-    "mObtainable_way": "The Pear seed can be obtained from the Normal Seed Pack.",
-    "mTrivia": "",
-    "mShop": 2,
-    "mNameShop": "Normal Seed Pack",
-    "mStock": "N/A"
-  },
-  {
-    "mId": 11,
+    "mId": 13,
     "mName": "Watermelon",
     "mNameIcon": "watermelon.webp",
     "mTier": "Legendary",
@@ -194,7 +211,7 @@
     "mStock": "1-6"
   },
   {
-    "mId": 12,
+    "mId": 14,
     "mName": "Pumpkin",
     "mNameIcon": "pumpkin.webp",
     "mTier": "Legendary",
@@ -210,7 +227,7 @@
     "mStock": "1-4"
   },
   {
-    "mId": 13,
+    "mId": 15,
     "mName": "Banana",
     "mNameIcon": "banana.webp",
     "mTier": "Legendary",
@@ -226,7 +243,23 @@
     "mStock": "1-4"
   },
   {
-    "mId": 14,
+    "mId": 16,
+    "mName": "Aloe Vera",
+    "mNameIcon": "aloevera.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "Craftable with\n + Peace Lily Seed\n + Prickly Pear\n+ 18 Summer Coins",
+    "mPrice_Rb": "299",
+    "mSell_value": "62,272",
+    "mObtainable_way": "Aloe Vera can be crafted with the following:\n+ 1 Peace Lily Seed\n+ 1 Prickly Pear\n+ 18 Summer Coins\n+ Crafting Time: 10 minutes or can be purchased for 299 Roblux.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-4"
+  },
+  {
+    "mId": 17,
     "mName": "Avocado",
     "mNameIcon": "avocado.webp",
     "mTier": "Legendary",
@@ -242,7 +275,7 @@
     "mStock": "1-4"
   },
   {
-    "mId": 15,
+    "mId": 18,
     "mName": "Cantaloupe",
     "mNameIcon": "cantaloupe.webp",
     "mTier": "Legendary",
@@ -258,7 +291,23 @@
     "mStock": "1-3"
   },
   {
-    "mId": 16,
+    "mId": 19,
+    "mName": "Rafflesia",
+    "mNameIcon": "rafflesia.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "3,200",
+    "mPrice_Rb": "215",
+    "mSell_value": "3159",
+    "mObtainable_way": "Rafflesia seed can be obtained in the following ways:\n1. Has a 10% (1/10) chance to be in stock in the Seed Shop. A user can purchase a seed for 3,200 Coins or 215 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-3"
+  },
+  {
+    "mId": 20,
     "mName": "Green Apple",
     "mNameIcon": "greenapple.webp",
     "mTier": "Legendary",
@@ -274,23 +323,7 @@
     "mStock": "10-20"
   },
   {
-    "mId": 17,
-    "mName": "Lilac",
-    "mNameIcon": "lilac.webp",
-    "mTier": "Legendary",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "10 Honey (20%)",
-    "mPrice_Rb": "199",
-    "mSell_value": "-8,500",
-    "mObtainable_way": "The Moonflower can be obtainable in the Night Seed Pack for 199 Honey per pack or for free with an 18% chance.",
-    "mTrivia": "The Moonflower may be used as a ladder, similar to Tomato and Bamboo.",
-    "mShop": 3,
-    "mNameShop": "Flower Seed Pack",
-    "mStock": "N/A"
-  },
-  {
-    "mId": 18,
+    "mId": 21,
     "mName": "Peach",
     "mNameIcon": "peach.webp",
     "mTier": "Mythical",
@@ -306,7 +339,7 @@
     "mStock": "N/A"
   },
   {
-    "mId": 19,
+    "mId": 22,
     "mName": "Pineapple",
     "mNameIcon": "pineapple.webp",
     "mTier": "Mythical",
@@ -322,7 +355,7 @@
     "mStock": "N/A"
   },
   {
-    "mId": 20,
+    "mId": 23,
     "mName": "Moon Melon",
     "mNameIcon": "moonmelon.webp",
     "mTier": "Mythical",
@@ -338,7 +371,23 @@
     "mStock": "1-5"
   },
   {
-    "mId": 21,
+    "mId": 24,
+    "mName": "Celestiberry",
+    "mNameIcon": "celestiberry.webp",
+    "mTier": "Mythical",
+    "mObtainable": "Yes, through Summer Harvest rewards",
+    "mMultiharvest": "Yes",
+    "mPrice": "15,000,000",
+    "mPrice_Rb": "599",
+    "mSell_value": "9,025",
+    "mObtainable_way": "The Celestiberry was previously obtained in the following ways:\n1. Purchased during the Night event after Update 1.07.1 in the Twilight Shop for 15,000,000 Coins or 599 Roblux.\nThe Celestiberry can still be obtained from the following ways:\n1. Gaining enough points during the Summer Harvest Event.",
+    "mTrivia": "The Celestiberry was added as part of an apology for the poorly-received Update 1.07.0.\nThe fruit of the Celestiberry share the same model with the fruit of the Raspberry, and the plant shares the same model with the scrapped Crimson Vine Blood Moon Event crop. The only difference is that the Celestiberry models all use shades of blue.\nThe plant is the remastered version of the Crimson Vine.\nThe Celestiberry seed has the 3rd highest price, tied with Ember Lily and behind Moon Mango and Sugar Apple.\nThe Celestiberry is considered a \"Night type\" fruit.\nWhen the Berry Blusher Sprinkler first released, The Celestiberry was not boosted by it along with the Raspberry. This was fixed in a patch.\nThe word \"Celestiberry\" is a compound name, where there are 2 words are combined/mixed into one, those words that are combined into Celestiberry are \"Celestial\" and \"Berry\"",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-5"
+  },
+  {
+    "mId": 25,
     "mName": "Kiwi",
     "mNameIcon": "kiwi.webp",
     "mTier": "Mythical",
@@ -354,7 +403,23 @@
     "mStock": "1-4"
   },
   {
-    "mId": 22,
+    "mId": 26,
+    "mName": "Guanabana",
+    "mNameIcon": "guanabana.webp",
+    "mTier": "Mythical",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "779",
+    "mSell_value": "65,431",
+    "mObtainable_way": "The Guanabana is obtainable through crafting at the Seed Crafting Table at the back of the map.\nThe Guanabana is crafted with:\n1 Aloe Vera Seed\n+ 1 Prickly Pear Seed\n+ 1 Banana\n+ 30 Summer Coins\nCrafting Time: 10 minutes - can also be skipped with 779 Roblux.",
+    "mTrivia": "Even if there is a Guanabana smaller than 3.7kg, its price will still be  65,431.\nThe Guanabana seed shares the same model with the Prickly Pear seed, the only difference being the color.\nThe Guanabana is based on the soursop in real life, which is known as the guanábana in Latin America.\nEven though guanabana is considered a prickly fruit, it is not affected by hedgehogs.",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-4"
+  },
+  {
+    "mId": 27,
     "mName": "Bell Pepper",
     "mNameIcon": "bellpepper.webp",
     "mTier": "Mythical",
@@ -370,7 +435,7 @@
     "mStock": "1-3"
   },
   {
-    "mId": 23,
+    "mId": 28,
     "mName": "Prickly Pear",
     "mNameIcon": "pricklypear.webp",
     "mTier": "Mythical",
@@ -385,9 +450,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1"
   },
-
   {
-    "mId": 24,
+    "mId": 29,
     "mName": "Parasol Flower",
     "mNameIcon": "parasolflower.webp",
     "mTier": "Mythical",
@@ -403,7 +467,7 @@
     "mStock": "N/A"
   },
   {
-    "mId": 25,
+    "mId": 30,
     "mName": "Cactus",
     "mNameIcon": "cactus.webp",
     "mTier": "Mythical",
@@ -419,7 +483,23 @@
     "mStock": "N/A"
   },
   {
-    "mId": 26,
+  "mId": 31,
+  "mName": "Lily Of The Valley",
+  "mNameIcon": "lilyofthevalley.webp",
+  "mTier": "Mythical",
+  "mObtainable": "Yes",
+  "mMultiharvest": "Yes",
+  "mPrice": "12 Summer Coins",
+  "mPrice_Rb": "639",
+  "mSell_value": "44,331",
+  "mObtainable_way": "The intended method of obtainment is by purchasing it from the Summer Shop for 12 Summer Coins.",
+  "mTrivia": "Once fully grown, a player can collect up to 5 fruits at a time.",
+  "mShop": 3,
+  "mNameShop": "Seed Pack",
+  "mStock": "N/A"
+},
+  {
+    "mId": 32,
     "mName": "Dragon Fruit",
     "mNameIcon": "dragonfruit.webp",
     "mTier": "Mythical",
@@ -435,7 +515,7 @@
     "mStock": "N/A"
   },
   {
-    "mId": 27,
+    "mId": 33,
     "mName": "Easter Egg",
     "mNameIcon": "easteregg.webp",
     "mTier": "Mythical",
@@ -451,7 +531,7 @@
     "mStock": "1"
   },
   {
-    "mId": 28,
+    "mId": 34,
     "mName": "Moon Mango",
     "mNameIcon": "moonmango.webp",
     "mTier": "Mythical",
@@ -467,7 +547,23 @@
     "mStock": "1-25"
   },
   {
-    "mId": 29,
+    "mId": 35,
+    "mName": "Mango",
+    "mNameIcon": "mango.webp",
+    "mTier": "Mythical",
+    "mObtainable": "Yes, Normal Seed Pack (12.5%)",
+    "mMultiharvest": "Yes",
+    "mPrice": "100,000",
+    "mPrice_Rb": "580",
+    "mSell_value": "5,866",
+    "mObtainable_way": "The Mango seed was previously obtained in the following ways:\n1. Had a 1%(1/100) chance to be in stock in Seed Shop. Players could have purchased a seed for 100,000 Coins or 580 Roblox.\nThe Mango seed can still be obtained by the following ways:\n1. Lucky Harvest\n2. Normal Seed Pack\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvested\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed (The Squirrel is currently useless, because of a rebalance)",
+    "mTrivia": "A Mango crop takes about eight minutes to fully grow and produces a mango every two minutes.\nThe Mango is one of few plants to have a counter part, being the Moon Mango.\nMango's tree is not static, being the only crop with this feature. It can be due to a mistake.\nThe Mango and the Loquat have an identical seed.",
+    "mShop": 1,
+    "mNameShop": "Summer Harvest",
+    "mStock": "1-25"
+  },
+  {
+    "mId": 36,
     "mName": "Loquat",
     "mNameIcon": "loquat.webp",
     "mTier": "Divine",
@@ -483,7 +579,7 @@
     "mStock": "1"
   },
   {
-    "mId": 30,
+    "mId": 37,
     "mName": "Feijoa",
     "mNameIcon": "feijoa.webp",
     "mTier": "Divine",
@@ -499,7 +595,39 @@
     "mStock": "1"
   },
   {
-    "mId": 31,
+    "mId": 38,
+    "mName": "Pitcher Plant",
+    "mNameIcon": "pitcherplant.webp",
+    "mTier": "Divine",
+    "mObtainable": "Yes - with 0.45% Seed Chance",
+    "mMultiharvest": "Yes",
+    "mPrice": "7,500,000",
+    "mPrice_Rb": "715",
+    "mSell_value": "28,880",
+    "mObtainable_way": "Pitcher Plant seed can be obtained in the following ways:\n1. Has a 0.05% (1/2000) chance to be in stock in the Seed Shop. A user can purchase a seed for 7,500,000 Coins or 715 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Seed Shop",
+    "mStock": "1"
+  },
+  {
+    "mId": 39,
+    "mName": "Traveler Fruit",
+    "mNameIcon": "travelerfruit.webp",
+    "mTier": "Divine",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "32 Summer Coins",
+    "mPrice_Rb": "749",
+    "mSell_value": "53,248",
+    "mObtainable_way": "The obtainment method of a Traveler's Fruit is from the Summer Shop. It is purchasable for 32 Summer Coins.",
+    "mTrivia": "This fruit is based on the Ravenala madagascariensis in real life, which has been given the name \"Traveler's Tree\", thus the name of the in-game fruit.\nTraveler's Fruit plant was first seen at the Week 3 of Bizzy Bee Event leak image.",
+    "mShop": 1,
+    "mNameShop": "Seed Shop",
+    "mStock": "1"
+  },
+  {
+    "mId": 40,
     "mName": "Rosy Delight",
     "mNameIcon": "rosydelight.webp",
     "mTier": "Divine",
@@ -515,23 +643,7 @@
     "mStock": "1"
   },
   {
-    "mId": 32,
-    "mName": "Dragon Pepper",
-    "mNameIcon": "dragonpepper.webp",
-    "mTier": "Divine",
-    "mObtainable": "Yes, Crafters Seed Pack 0.5%",
-    "mMultiharvest": "Yes (Multiple fruits per yield)",
-    "mPrice": "N/A",
-    "mPrice_Rb": "N/A",
-    "mSell_value": "135",
-    "mObtainable_way": "The Dragon Pepper seed can be obtained in the following ways:\n1. Crafters Seed Pack 0.5% (Currently obtainable this way)\n2. Exotic Crafters Seed Pack 0.5% (No longer obtainable this way)\n3. Rainbow Sack 7% (No longer obtainable this way)",
-    "mTrivia": "- The Dragon Pepper is the second Pepper-typе plant to be added.\n- Both the plant's name and design is a combination of 2 different plants, which are Dragon Fruit and Pepper.\n- When fully grown, the Dragon Pepper can produce 4-6 crops per yield.",
-    "mShop": 4,
-    "mNameShop": "Crafters Seed Pack",
-    "mStock": "N/A"
-  },
-  {
-    "mId": 33,
+    "mId": 41,
     "mName": "Pepper",
     "mNameIcon": "pepper.webp",
     "mTier": "Divine",
@@ -547,7 +659,7 @@
     "mStock": "1"
   },
   {
-    "mId": 34,
+    "mId": 42,
     "mName": "Cacao",
     "mNameIcon": "cacao.webp",
     "mTier": "Divine",
@@ -563,7 +675,7 @@
     "mStock": "1"
   },
   {
-    "mId": 35,
+    "mId": 43,
     "mName": "Sugar Apple",
     "mNameIcon": "sugarapple.webp",
     "mTier": "Prismatic",
@@ -579,7 +691,7 @@
     "mStock": "1"
   },
   {
-    "mId": 36,
+    "mId": 44,
     "mName": "Ember Lily",
     "mNameIcon": "emberlily.webp",
     "mTier": "Prismatic",
@@ -595,7 +707,7 @@
     "mStock": "1"
   },
   {
-    "mId": 37,
+    "mId": 45,
     "mName": "Elephant Ears",
     "mNameIcon": "elephantears.webp",
     "mTier": "Prismatic",
@@ -610,5 +722,6 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1"
   }
+]
   ]
 }
