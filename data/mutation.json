@@ -1,4 +1,7 @@
-[
+{
+  "version": 1,
+  "data": [
+	  [
   {
     "mId": 1,
     "mName": "Wet",
@@ -144,3 +147,5 @@
 	"mDescription": "Similar to Shocked Mutation, it makes the sunflower yielding the Dawnbound Mutation glow in a neon yellow. After the first time the Sun God event was spawned, Jandel has changed the original neon-white colour of the mutation to the neon-yellow."
   }
 ]
+  ]
+}
