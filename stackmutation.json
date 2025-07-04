@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "data": [
+  {
+    "mId": 1,
+    "mName": "Shocked + Frozen",
+    "mCalculation": "1x • (1x + 99x + 9x)",
+    "mMultiple": "109x"
+  },
+  {
+    "mId": 2,
+    "mName": "Shocked + Frozen + Choc/Moonlit",
+    "mCalculation": "1x • (1x + 99x + 9x + 1x)",
+    "mMultiple": "200x"
+  },
+  {
+    "mId": 3,
+    "mName": "Golden + Wet/Chilled/Choc/Moonlit",
+    "mCalculation": "20x • (1x + 1x)",
+    "mMultiple": "40x"
+  },
+  {
+    "mId": 4,
+    "mName": "Golden + Frozen",
+    "mCalculation": "20x • (1x + 9x)",
+    "mMultiple": "200x"
+  },
+  {
+    "mId": 5,
+    "mName": "Golden + Shocked",
+    "mCalculation": "20x • (1x + 99x)",
+    "mMultiple": "2000x"
+  },
+  {
+    "mId": 6,
+    "mName": "Golden + Shocked + Frozen",
+    "mCalculation": "20x • (1x + 99x + 9x)",
+    "mMultiple": "2,180x"
+  },
+  {
+    "mId": 7,
+    "mName": "Golden + Frozen + Choc/Moonlit",
+    "mCalculation": "20x • (10x + 2x)",
+    "mMultiple": "240x"
+  },
+  {
+    "mId": 8,
+    "mName": "Golden + Shocked + Wet/Chilled/Choc/Moonlit",
+    "mCalculation": "20x • (1x + 99x + 1x)",
+    "mMultiple": "2,020x"
+  },
+  {
+    "mId": 9,
+    "mName": "Golden + Shocked + Frozen + Choc/Moonlit",
+    "mCalculation": "20x • (1x + 99x + 9x + 1x)",
+    "mMultiple": "2,200x"
+  },
+  {
+    "mId": 10,
+    "mName": "Rainbow + Wet/Chilled/Choc/Moonlit",
+    "mCalculation": "50x • (1x + 1x)",
+    "mMultiple": "100x"
+  },
+  {
+    "mId": 11,
+    "mName": "Rainbow + Frozen",
+    "mCalculation": "50x • (1x + 9x)",
+    "mMultiple": "500x"
+  },
+  {
+    "mId": 12,
+    "mName": "Rainbow + Shocked",
+    "mCalculation": "50x • (1x + 99x)",
+    "mMultiple": "5,000x"
+  },
+  {
+    "mId": 13,
+    "mName": "Rainbow + Shocked + Frozen",
+    "mCalculation": "50x • (1x + 99x + 9x)",
+    "mMultiple": "5,450x"
+  },
+  {
+    "mId": 14,
+    "mName": "Rainbow + Frozen + Choc/Moonlit",
+    "mCalculation": "50x • (1x + 9x + 1x)",
+    "mMultiple": "550x"
+  },
+  {
+    "mId": 15,
+    "mName": "Rainbow + Shocked + Wet/Chilled/Choc/Moonlit",
+    "mCalculation": "50x • (1x + 99x + 1x)",
+    "mMultiple": "5,050x"
+  },
+  {
+    "mId": 16,
+    "mName": "Rainbow + Shocked + Frozen + Choc/Moonlit",
+    "mCalculation": "50x • (1x + 99x + 9x + 1x)",
+    "mMultiple": "5,500x"
+  },
+  {
+    "mId": 17,
+    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit",
+    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x)",
+    "mMultiple": "5,550x"
+  },
+  {
+    "mId": 18,
+    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial",
+    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x + 124x + 119x)",
+    "mMultiple": "17,700x"
+  },
+  {
+    "mId": 19,
+    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly",
+    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x + 124x + 119x + 3x + 24x + 4x + 2x + 4x + 134x + 4x)",
+    "mMultiple": "26,450x"
+  },
+  {
+    "mId": 20,
+    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly + Dawnbound (Note: Can only be obtained on a Sunflower)",
+    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x + 124x + 119x + 3x + 24x + 4x + 2x + 4x + 134x + 4x + 149x)",
+    "mMultiple": "33,900x"
+  }
+ ]
+}
