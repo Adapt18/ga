@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "weather": [
+  "data": [
     {
       "mId": 1,
       "mName": "Rain",
