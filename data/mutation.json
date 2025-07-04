@@ -1,0 +1,146 @@
+[
+  {
+    "mId": 1,
+    "mName": "Wet",
+    "mNameIcon": "wet.webp",
+    "mMultiple": "x2",
+    "mObtainment": "During Rain and Thunderstorm, or from a small chance from Sprinklers.",
+	"mDescription": "Plants with this mutation will be dripping with water particles."
+  },
+  {
+    "mId": 2,
+    "mName": "Chilled",
+    "mNameIcon": "chilled.webp",
+    "mMultiple": "x2",
+    "mObtainment": "During Frost, or by Polar Bear.",
+	"mDescription": "Plants with this mutation will be slightly bluish with frost particles."
+  },
+  {
+    "mId": 3,
+    "mName": "Choc",
+    "mNameIcon": "choc.webp",
+    "mMultiple": "x2",
+    "mObtainment": "By placing a Chocolate Sprinkler or by during Chocolate Rain",
+	"mDescription": "Plants with this mutation will become brown, same color as chocolate."
+  },
+  {
+    "mId": 4,
+    "mName": "Moonlit",
+    "mNameIcon": "moonlit.webp",
+    "mMultiple": "x2",
+    "mObtainment": "During Night, 6 plants will be moonlit every 2 minutes during the 10 minute period.",
+	"mDescription": "Plants with this mutation will be shining and purple in colour."
+  },
+  {
+    "mId": 5,
+    "mName": "Pollinated",
+    "mNameIcon": "pollinated.webp",
+    "mMultiple": "x3",
+    "mObtainment": "During Bee Swarm, or by certain bee pets (Bee, Honey Bee, Petal Bee, Queen Bee)",
+	"mDescription": "Plants with this mutation will be shining and yellow in color, with distinct yellow gas-like particles coming off of them."
+  },
+  {
+    "mId": 6,
+    "mName": "Bloodlit",
+    "mNameIcon": "bloodlit.webp",
+    "mMultiple": "x4",
+    "mObtainment": "During Blood Moon, which only appears during the Blood Moon Event.",
+	"mDescription": "Plants with this mutation will be shining and red in colour."
+  },
+  {
+    "mId": 7,
+    "mName": "Plasma",
+    "mNameIcon": "plasma.webp",
+    "mMultiple": "x5",
+    "mObtainment": "During the Laser Storm, which can only be spawned by admins.",
+	"mDescription": "Plants with this mutation will be shining a static, pinkish purple color with red flashing glints."
+  },
+  {
+    "mId": 8,
+    "mName": "HoneyGlazed",
+    "mNameIcon": "honeyglazed.webp",
+    "mMultiple": "x5",
+    "mObtainment": "Placing a Honey Sprinkler, or by Bear Bee.",
+	"mDescription": "Plants with this mutation will have a yellow fog surrounding it and will be dripping in yellow liquid."
+  },
+  {
+    "mId": 9,
+    "mName": "Heavenly",
+    "mNameIcon": "heavenly.webp",
+    "mMultiple": "x5",
+    "mObtainment": "During the honoured one Jandel event, which can only be spawned by admins.",
+	"mDescription": "Plants with this mutation will have golden, shining stars of light emitting from the base of the plant."
+  },
+  {
+    "mId": 10,
+    "mName": "Frozen",
+    "mNameIcon": "frozen.webp",
+    "mMultiple": "x10",
+    "mObtainment": "If a crop has both Wet and Chilled Mutations or by Polar Bear.",
+	"mDescription": "Plants with this mutation will be encased in an ice block."
+  },
+  {
+    "mId": 11,
+    "mName": "Golden",
+    "mNameIcon": "golden.webp",
+    "mMultiple": "x20",
+    "mObtainment": "1% chance to grow replacing normal variant.\nCrops can get Golden by Dragonfly.",
+	"mDescription": "Plants with this mutation will appear as shining and golden in color."
+  },
+  {
+    "mId": 12,
+    "mName": "Zombified",
+    "mNameIcon": "zombified.webp",
+    "mMultiple": "x25",
+    "mObtainment": "Crops have a chance to get zombified by the unobtainable Chicken Zombie.",
+	"mDescription": "Plants with this mutation will have a green fog surrounding it and will be dripping in green liquid."
+  },
+  {
+    "mId": 13,
+    "mName": "Rainbow",
+    "mNameIcon": "rainbow.webp",
+    "mMultiple": "x50",
+    "mObtainment": "0.1% chance to grow replacing normal variant. Crops with 5+ mutations can turn rainbow by Butterfly, while removing all other Mutations on it.",
+	"mDescription": "Plants with this mutation will continuously change colours, emitting yellow particles and a rainbow above it."
+  },
+  {
+    "mId": 14,
+    "mName": "Shocked",
+    "mNameIcon": "shocked.webp",
+    "mMultiple": "x100",
+    "mObtainment": "When crops get struck by a typical lightning bolt from a Thunderstorm or from the Jandel Storm.",
+	"mDescription": "Plants with this mutation will be very neon and glow very brightly, typically it will not have the classic Studded Texture Plants will typically have."
+  },
+  {
+    "mId": 15,
+    "mName": "Celestial",
+    "mNameIcon": "celestial.webp",
+    "mMultiple": "x120",
+    "mObtainment": "Crops get star strucked during Meteor Shower.",
+	"mDescription": "Plants with this mutation will be slightly discolored and sparkling yellow and purple."
+  },
+  {
+    "mId": 16,
+    "mName": "Disco",
+    "mNameIcon": "disco.webp",
+    "mMultiple": "x125",
+    "mObtainment": "During Disco, which can only be spawned by admis. Crops also have a chance to become Disco by Disco Bee.",
+	"mDescription": "Plants with this mutation will be shining and flashing colors in the order red, pink, yellow, green, and blue constantly. It looks like rainbow but the colours are instantly changing, not like rainbow, where the colour slowly fades into a different one."
+  },
+  {
+    "mId": 17,
+    "mName": "Voidtouched",
+    "mNameIcon": "voidtouched.webp",
+    "mMultiple": "x135",
+    "mObtainment": "During the Admin-Only Black Hole Event.",
+	"mDescription": "Plants with this mutation will have purple particles resembling black holes around the model."
+  },
+  {
+    "mId": 18,
+    "mName": "Dawnbound",
+    "mNameIcon": "dawnbound.webp",
+    "mMultiple": "x150",
+    "mObtainment": "During the Sun God Event by holding 4 Sunflower crops infront of the Sun God touching each other, which can only be spawned by admins or can occur naturally by a very low chance.",
+	"mDescription": "Similar to Shocked Mutation, it makes the sunflower yielding the Dawnbound Mutation glow in a neon yellow. After the first time the Sun God event was spawned, Jandel has changed the original neon-white colour of the mutation to the neon-yellow."
+  }
+]
