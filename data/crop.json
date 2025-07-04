@@ -1,7 +1,6 @@
 {
   "version": 1,
   "data": [
-    [
   {
     "mId": 1,
     "mName": "Carrot",
@@ -723,5 +722,4 @@
     "mStock": "1"
   }
 ]
-  ]
 }
