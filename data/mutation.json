@@ -1,7 +1,6 @@
 {
   "version": 1,
   "data": [
-	  [
   {
     "mId": 1,
     "mName": "Wet",
@@ -146,6 +145,5 @@
     "mObtainment": "During the Sun God Event by holding 4 Sunflower crops infront of the Sun God touching each other, which can only be spawned by admins or can occur naturally by a very low chance.",
 	"mDescription": "Similar to Shocked Mutation, it makes the sunflower yielding the Dawnbound Mutation glow in a neon yellow. After the first time the Sun God event was spawned, Jandel has changed the original neon-white colour of the mutation to the neon-yellow."
   }
-]
   ]
 }
