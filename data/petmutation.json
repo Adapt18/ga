@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "data": 
+  [
+  {
+    "mId": 1,
+    "mName": "Shiny",
+    "mNameIcon": "shiny.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Provides an additional 15% boost to the pet's XP per second!",
+    "mBoot": "Pet XP Boost",
+    "mAmount": "+30%",
+    "mChange": "32.15%"
+  },
+  {
+    "mId": 2,
+    "mName": "Inverted",
+    "mNameIcon": "inverted.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Provides an additional 30% boost to the pet's XP per second!",
+    "mBoot": "Pet XP Boost",
+    "mAmount": "+50%",
+    "mChange": "16.08%"
+  }
+,
+  {
+    "mId": 3,
+    "mName": "Frozen",
+    "mNameIcon": "frozen.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every 5-0.5m, 20-30% chance a nearby fruit becomes Frozen!",
+    "mBoot": "Applies Mutations",
+    "mAmount": "",
+    "mChange": "9.65%"
+  },
+  {
+    "mId": 4,
+    "mName": "Windy",
+    "mNameIcon": "windy.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every 300-30m, 20-30% chance a nearby fruit becomes Windstruck!",
+    "mBoot": "Passive Boost",
+    "mAmount": "",
+    "mChange": "9.65%"
+  },
+  {
+    "mId": 5,
+    "mName": "Golden",
+    "mNameIcon": "golden.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Provides a big increase to the pet's passive!",
+    "mBoot": "Passive Boost",
+    "mAmount": "+10%",
+    "mChange": "6.43%"
+  },
+  {
+    "mId": 6,
+    "mName": "Mega",
+    "mNameIcon": "mega.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Pet is very tiny! Has 20% slower hunger rate. Gains 5-30 XP per second.",
+    "mBoot": "Size Modification",
+    "mAmount": "+200%",
+    "mChange": "6.43%"
+  },
+  {
+    "mId": 7,
+    "mName": "Tiny",
+    "mNameIcon": "tiny.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Pet is very tiny! Has 20% slower hunger rate. Gains 5-30 XP per second.",
+    "mBoot": "Size Modification",
+    "mAmount": "-90%",
+    "mChange": "6.43%"
+  },
+  {
+    "mId": 8,
+    "mName": "IronSkin",
+    "mNameIcon": "ironskin.webp",
+    "mObtainable": "Yes",
+    "mPassive": "35-45% chance to recover stolen fruit!",
+    "mBoot": "Stealing Preventer",
+    "mAmount": "",
+    "mChange": "3.22%"
+  },
+  {
+    "mId": 9,
+    "mName": "Radiant",
+    "mNameIcon": "radiant.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every 30-20m, emits sunshine to advance a plant's growth by 24 hours!",
+    "mBoot": "Plant Growth Boost",
+    "mAmount": "",
+    "mChange": "3.22%"
+  },
+  {
+    "mId": 10,
+    "mName": "Rainbow",
+    "mNameIcon": "rainbow.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every 30-20m, emits sunshine to advance a plant's growth by 24 hours!",
+    "mBoot": "Plant Growth Boost",
+    "mAmount": "",
+    "mChange": "3.22%"
+  },
+  {
+    "mId": 11,
+    "mName": "Shocked",
+    "mNameIcon": "shocked.webp",
+    "mObtainable": "Yes",
+    "mPassive": "During a Thunderstorm: Every 60-45s, has a 25-30% chance to attract lightning, shocking nearby fruits!",
+    "mBoot": "Applies Mutations",
+    "mAmount": "",
+    "mChange": "3.22%"
+  },
+  {
+    "mId": 12,
+    "mName": "Ascended",
+    "mNameIcon": "ascended.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every 360-300m, 75-90% chance to apply Dawnbound mutation to a fruit!",
+    "mBoot": "Applies Mutations",
+    "mAmount": "",
+    "mChange": "3.22%"
+  }
+]
+}
