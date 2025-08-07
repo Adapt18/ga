@@ -30,7 +30,7 @@
     "mObtainable": "Yes",
     "mPassive": "Every 5-0.5m, 20-30% chance a nearby fruit becomes Frozen!",
     "mBoot": "Applies Mutations",
-    "mAmount": "",
+    "mAmount": "None",
     "mChange": "9.65%"
   },
   {
@@ -40,7 +40,7 @@
     "mObtainable": "Yes",
     "mPassive": "Every 300-30m, 20-30% chance a nearby fruit becomes Windstruck!",
     "mBoot": "Passive Boost",
-    "mAmount": "",
+    "mAmount": "None",
     "mChange": "9.65%"
   },
   {
@@ -75,52 +75,82 @@
   },
   {
     "mId": 8,
+    "mName": "Tranquil",
+    "mNameIcon": "tranquil.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every ~25 minutes, there is a chance that a nearby fruit finds inner peace, applying the Tranquil mutation!",
+    "mBoot": "Applies Mutation",
+    "mAmount": "None",
+    "mChange": "3.02%"
+  },
+  {
+    "mId": 9,
+    "mName": "Corrupted",
+    "mNameIcon": "corrupted.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every ~25 minutes, a nearby fruit has a chance to embrace to the corruption, applying the Corrupted Mutation!",
+    "mBoot": "Applies Mutation",
+    "mAmount": "None",
+    "mChange": "3.02%"
+  },
+  {
+    "mId": 10,
     "mName": "IronSkin",
     "mNameIcon": "ironskin.webp",
     "mObtainable": "Yes",
     "mPassive": "35-45% chance to recover stolen fruit!",
     "mBoot": "Stealing Preventer",
-    "mAmount": "",
+    "mAmount": "None",
     "mChange": "3.22%"
   },
   {
-    "mId": 9,
+    "mId": 11,
     "mName": "Radiant",
     "mNameIcon": "radiant.webp",
     "mObtainable": "Yes",
     "mPassive": "Every 30-20m, emits sunshine to advance a plant's growth by 24 hours!",
     "mBoot": "Plant Growth Boost",
-    "mAmount": "",
+    "mAmount": "None",
     "mChange": "3.22%"
   },
   {
-    "mId": 10,
+    "mId": 12,
     "mName": "Rainbow",
     "mNameIcon": "rainbow.webp",
     "mObtainable": "Yes",
     "mPassive": "Every 30-20m, emits sunshine to advance a plant's growth by 24 hours!",
     "mBoot": "Plant Growth Boost",
-    "mAmount": "",
+    "mAmount": "None",
     "mChange": "3.22%"
   },
   {
-    "mId": 11,
+    "mId": 13,
     "mName": "Shocked",
     "mNameIcon": "shocked.webp",
     "mObtainable": "Yes",
     "mPassive": "During a Thunderstorm: Every 60-45s, has a 25-30% chance to attract lightning, shocking nearby fruits!",
     "mBoot": "Applies Mutations",
-    "mAmount": "",
+    "mAmount": "None",
     "mChange": "3.22%"
   },
   {
-    "mId": 12,
+    "mId": 14,
+    "mName": "Fried",
+    "mNameIcon": "fried.webp",
+    "mObtainable": "Yes",
+    "mPassive": "Every ~20 minutes, a nearby fruit is sizzled up, applying the Fried mutation!",
+    "mBoot": "Applies Mutations",
+    "mAmount": "None",
+    "mChange": "2.93%"
+  },
+  {
+    "mId": 15,
     "mName": "Ascended",
     "mNameIcon": "ascended.webp",
     "mObtainable": "Yes",
     "mPassive": "Every 360-300m, 75-90% chance to apply Dawnbound mutation to a fruit!",
     "mBoot": "Applies Mutations",
-    "mAmount": "",
+    "mAmount": "None",
     "mChange": "3.22%"
   }
 ]
