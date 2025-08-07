@@ -1,10 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "data": 
   [
   {
     "mId": 1,
-    "mName": "Starfish",
+    "mName": "Starfish(2)",
     "mNameIcon": "starfish.webp",
     "mTier": "Common",
     "mObtainable": "Yes",
