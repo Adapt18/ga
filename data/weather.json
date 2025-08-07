@@ -1,77 +1,120 @@
 {
   "version": 1,
-  "data": [
-    {
-      "mId": 1,
-      "mName": "Rain",
-      "mNameIcon": "rain.webp",
-      "mTier": "Standard",
-      "mEffect": "• Increases crop growth speed by 50%.\n• 50% chance to apply the Wet mutation.\n• Can combine with Chilled to create Frozen.",
-      "mDetails": ""
-    },
-    {
-      "mId": 2,
-      "mName": "Thunderstorm",
-      "mNameIcon": "thunderstorm.webp",
-      "mTier": "Standard",
-      "mEffect": "• Increases growth speed by 50%.\n• 50% chance to apply Wet.\n• Lightning strikes can apply Shocked mutation.",
-      "mDetails": ""
-    },
-    {
-      "mId": 3,
-      "mName": "Frost",
-      "mNameIcon": "frost.webp",
-      "mTier": "Standard",
-      "mEffect": "• Increases growth speed by 50%.\n• Chance to apply Chilled.\n• Combines with Wet to create Frozen.\n• Triggers shivering animation for players, along with a shivering sound effect.",
-      "mDetails": "• 25% chance to replace Rain."
-    },
-    {
-      "mId": 4,
-      "mName": "Blood Moon",
-      "mNameIcon": "bloodmoon.webp",
-      "mTier": "Standard",
-      "mEffect": "• Gives crops a glowing purple hue.\n• Chance to apply Moonlit.\n• 6 crops become Moonlit per night (once every 40 seconds over 4 minutes).",
-      "mDetails": "• Placing a Night Staff will increase Moonlit crop yield by the amount of charges it has.\n• Appears every 4 hours and occurs on the 30th minute of the hour. Lasts 10 minutes.\n• Soundtrack: Clair De Lune."
-    },
-    {
-      "mId": 5,
-      "mName": "Night",
-      "mNameIcon": "night.webp",
-      "mTier": "Standard",
-      "mEffect": "• Gives crops a glowing red hue.\n• Chance to apply Bloodlit.",
-      "mDetails": "• Default: 6 crops become Bloodlit per cycle (once every 40 seconds over 4 minutes).\n• Placing a Night Staff will increase Bloodlit crop yield by the amount of charges it has.\n• 33.33% chance to replace Night for that cycle.\n• Lasts 10 minutes. During the Lunar Glow Event, Blood Moon lasted for 15 minutes.\n• Both sky and moon turn red."
-    },
-    {
-      "mId": 6,
-      "mName": "Meteor Shower",
-      "mNameIcon": "meteorshower.webp",
-      "mTier": "Standard",
-      "mEffect": "• Meteors fall from the sky.\n• Crops hit by meteors gain Celestial mutation.",
-      "mDetails": "• Use Star Caller to direct meteors to crops.\n• Duration: ~5 minutes."
-    },
-    {
-      "mId": 7,
-      "mName": "Windy",
-      "mNameIcon": "windy.webp",
-      "mTier": "Standard",
-      "mEffect": "• Gives crops a slightly noticeable crescent wind effect.\n• Crops have a chance to become Windstruck during the event.",
-      "mDetails": "• Will make the players camera have a white-ish tint.\n• Will make wind particle effects fly around the map."
-    },
-    {
-      "mId": 8,
-      "mName": "Gale",
-      "mNameIcon": "gale.webp",
-      "mTier": "Standard",
-      "mEffect": "• Crops have a higher chance to become Windstruck during the event.\n• Players will be blown by strong wind currents.",
-      "mDetails": "• Will make the players camera have a white-ish tint.\n• Makes large wind particle effects fly around the map."
-    },
-    {
-      "mId": 9,
-      "mName": "Tornado",
-      "mNameIcon": "tornado.webp",
-      "mTier": "Standard",
-      "mEffect": "• Gives crops the Twisted mutation.",
-      "mDetails": "• A tornado spawns at the center of the map. It moves around the map, granting the twisted mutation to the crops it crosses. Multiple tornadoes may also spawn in."
-    }
-  ]
+  "data":
+  [
+  {
+    "mId": 1,
+    "mName": "Rain",
+    "mNameIcon": "rain.webp",
+    "mTier": "Standard",
+    "mEffect": "• Increases crop growth speed by 50%.\n• 50% chance to apply the Wet mutation.\n• Can combine with Chilled to create Frozen.",
+    "mDetails": "A continuous sound of rain hitting the ground is heard along with the background music.\nThe skybox is washed over with grey clouds."
+  },
+  {
+    "mId": 2,
+    "mName": "Thunderstorm",
+    "mNameIcon": "thunderstorm.webp",
+    "mTier": "Standard",
+    "mEffect": "Increases growth speed by 50%.\n50% chance to apply Wet.\nCrops struck by lightning obtain the Shocked mutation.",
+    "mDetails": "Placing a Lightning Rod attracts lightning strikes within the rod's range three times before deletion.\n10% chance to replace Rain."
+  },
+  {
+    "mId": 3,
+    "mName": "Frost",
+    "mNameIcon": "frost.webp",
+    "mTier": "Standard",
+    "mEffect": "Increases growth speed by 50%.\nChance to apply Chilled or Frozen.\nTriggers shivering animation for players, along with a shivering sound effect.",
+    "mDetails": "25% chance to replace Rain.\nWas made unavailable during the Summer Update, but made available again in a soft update before the Zen Update (9pm EST)"
+  },
+  {
+    "mId": 4,
+    "mName": "Blood Moon",
+    "mNameIcon": "bloodmoon.webp",
+    "mTier": "Standard",
+    "mEffect": "Chance to apply the Bloodlit mutation.\nThe Sky-box turns red.",
+    "mDetails": "Default: Six crops become Bloodlit per cycle (once every 40 seconds over 4 minutes).\nPlacing a Night Staff increases Bloodlit crop yield based on the number of charges it has.\n1 in 3 chance to replace Night for that cycle.\nLasts 10 minutes. During the Lunar Glow Event, Blood Moon lasted for 15 minutes.\nBoth the sky and the moon turn red.\nDuring the Lunar Glow Event, the Blood Moon Shop appeared during Blood Night."
+  },
+  {
+    "mId": 5,
+    "mName": "Meteor Shower",
+    "mNameIcon": "meteorshower.webp",
+    "mTier": "Standard",
+    "mEffect": "Meteors fall from the sky.\nCrops hit by meteors obtain the Celestial mutation.",
+    "mDetails": "Placing a Star Caller directs meteors to crops within its range three times before it is deleted.\nDuration: ~5 minutes.\nOnly appears during Blood Moon or Night."
+  },
+  {
+    "mId": 6,
+    "mName": "Crystal Beams",
+    "mNameIcon": "crystalbeams.webp",
+    "mTier": "Standard",
+    "mEffect": "Once all crystals have been activated, crops have a chance to get a few mutations (Known: Celestial, Aurora, Shocked).",
+    "mDetails": "Spawns 8 crystals around the map, players can click each one 5 times to apply various mutations."
+  },
+  {
+    "mId": 7,
+    "mName": "Windy",
+    "mNameIcon": "windy.webp",
+    "mTier": "Standard",
+    "mEffect": "Chance to apply the Windstruck mutation.",
+    "mDetails": "Applies a white tint to the player's camera.\nWill make wind particle effects fly around the map."
+  },
+  {
+    "mId": 8,
+    "mName": "Gale",
+    "mNameIcon": "gale.webp",
+    "mTier": "Standard",
+    "mEffect": "High chance to apply the Windstruck mutation.\nPlayers will be blown by strong wind currents, slowly moving them towards the gear shop area.",
+    "mDetails": "Applies a white tint to the player's camera.\nMakes large wind particle effects fly around the map.\nMakes the player's camera shake slowly."
+  },
+  {
+    "mId": 9,
+    "mName": "Tornado",
+    "mNameIcon": "tornado.webp",
+    "mTier": "Standard",
+    "mEffect": "The sky turns cloudy, and tornadoes spawn around the map.\nCrops struck by a tornado will obtain Twisted mutation.",
+    "mDetails": "Multiple tornadoes may spawn in simultaneously."
+  },
+  {
+    "mId": 10,
+    "mName": "Sandstorm",
+    "mNameIcon": "sandstorm.webp",
+    "mTier": "Standard",
+    "mEffect": "Sand particles fly around the map, adding a yellow-tinted fog and making the ground a sandy-yellow.\nChance to apply the Sandy mutation.",
+    "mDetails": "Makes the player's camera shake slowly."
+  },
+  {
+    "mId": 11,
+    "mName": "Heat Wave",
+    "mNameIcon": "heatwave.webp",
+    "mTier": "Standard",
+    "mEffect": "Crops hit by sun rays obtain the Sundried mutation.",
+    "mDetails": "Placing a Tanning Mirror redirects sun rays to crops 10 times before it is deleted.\nAccompanied by a sound similar to the buzzing of cicadas."
+  }
+,
+  {
+    "mId": 12,
+    "mName": "Sun God",
+    "mNameIcon": "sungod.webp",
+    "mTier": "Standard",
+    "mEffect": "Applies the Dawnbound mutation to four or more sunflowers when presented in front of the Sun God.\nA golden Jandel spreading his arms will appear behind the egg, cosmetics, and gear shops with a golden, god-like aura.",
+    "mDetails": "Speeds up the growth of Sunflower. (requires confirmation)\nHas a low chance to appear any time."
+  }
+,
+  {
+    "mId": 13,
+    "mName": "Tropical Rain",
+    "mNameIcon": "tropicalrain.webp",
+    "mTier": "Standard",
+    "mEffect": "Increases growth speed by 50%.\nChance to apply the Drenched mutation.\nThe sky turns sea green and rain particles fall from the sky.",
+    "mDetails": "Whenever a player walks, a water splash effect can be seen on the ground.\nThe ground is lightly flooded by water.\nSoundtrack: Tropical Breeze -- The Puahia Street Players"
+  },
+  {
+    "mId": 14,
+    "mName": "Drought",
+    "mNameIcon": "drought.webp",
+    "mTier": "Standard",
+    "mEffect": "May possibly give Wiltproof mutation.\nWiltproof may possibly replace Wet and/or Drenched.",
+    "mDetails": ""
+  }
+]
 }
