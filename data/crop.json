@@ -12,7 +12,7 @@
     "mPrice": "10",
     "mPrice_Rb": "7",
     "mSell_value": "18",
-    "mObtainable_way": "Carrot seed can be obtained by the following ways:\n1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 10 Coins or 7 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Often dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Carrot seed can be obtained by the following ways:\n1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 10 Sheckles or 7 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Often dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "This is the first crop that anyone can plant and buy in-game\n.The Carrot takes about 6.5 seconds to fully grow, which is really quick\n.The Easter Event 2025 variant of this crop is the Chocolate Carrot\n.The Carrot can be eaten by a Bunny and the Black Bunny.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -30,7 +30,7 @@
     "mPrice": "50",
     "mPrice_Rb": "21",
     "mSell_value": "14",
-    "mObtainable_way": "Strawberry seed could be obtained by the following ways:\n1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 50 Coins or 21 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Strawberry seed could be obtained by the following ways:\n1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 50 Sheckles or 21 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "- Strawberry takes 10 seconds for the crop to grow and produces its berries in 5 to 8 seconds.\n- A Strawberry's max wield is 5.\n- In the past, buying a Strawberry seed for 21 Roblux, would instead give the player a Cherry Blossom seed. This issue has since been patched.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -48,7 +48,7 @@
     "mPrice": "10,000",
     "mPrice_Rb": "99",
     "mSell_value": "9,928",
-    "mObtainable_way": "The Chocolate Carrot seed was previously obtained in the following ways\n1. Chocolate Carrot seed had a 100% chance to be in stock in Poppy's Easter Shop. A user could purchase a seed for 10,000 Coins or 99 Roblux.\n2. Gaining enough points during the Summer Harvest Event.",
+    "mObtainable_way": "The Chocolate Carrot seed was previously obtained in the following ways\n1. Chocolate Carrot seed had a 100% chance to be in stock in Poppy's Easter Shop. A user could purchase a seed for 10,000 Sheckles or 99 Roblux.\n2. Gaining enough points during the Summer Harvest Event.",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -74,7 +74,6 @@
     "mCoin": "Yes",
     "mRb": "Yes"
   },
-
   {
     "mId": 5,
     "mName": "Blueberry",
@@ -85,7 +84,7 @@
     "mPrice": "400",
     "mPrice_Rb": "49",
     "mSell_value": "18",
-    "mObtainable_way": "1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 400 Coins or 49 Roblux.\n2. Lucky Harvest\n3. Red Fox steal\n4. Snail, yield a seed when harvest\n5. Dog and Golden Lab dig up",
+    "mObtainable_way": "1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 400 Sheckles or 49 Roblux.\n2. Lucky Harvest\n3. Red Fox steal\n4. Snail, yield a seed when harvest\n5. Dog and Golden Lab dig up",
     "mTrivia": "- A Blueberry crop takes 105 seconds to fully grow, and one Blueberry takes approximately 22 seconds.\n- A Blueberry's max yield is 8.\n- The Blueberry is one of the three bush crops, the other two are Raspberry and Celestiberry.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -121,7 +120,7 @@
     "mPrice": "600",
     "mPrice_Rb": "14",
     "mSell_value": "767",
-    "mObtainable_way": "Orange Tulip seed was previously obtained in the following ways:\n1. Has a 33.3% chance (1/3) to be in stock in the Seed Shop. A user can purchase an Orange Tulip seed for 600 Coins or 14 Roblux.\nOrange Tulip seed is still obtainable in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\n5. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Orange Tulip seed was previously obtained in the following ways:\n1. Has a 33.3% chance (1/3) to be in stock in the Seed Shop. A user can purchase an Orange Tulip seed for 600 Sheckles or 14 Roblux.\nOrange Tulip seed is still obtainable in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\n5. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "The Orange Tulip takes about 6 seconds to be fully grown.\nThe Orange Tulip is the fastest growing crop in the entire game.\nIf a player buys the orange tulip then sells it they get more. Now contrast from Beanstalk which the player then gets less.",
     "mShop": 3,
     "mNameShop": "Lucky Harvest",
@@ -131,10 +130,46 @@
   },
   {
     "mId": 8,
+    "mName": "Monoblooma",
+    "mNameIcon": "monoblooma.webp",
+    "mTier": "Uncommon",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "22,000",
+    "mObtainable_way": "The Monoblooma can be obtained from the Zen Seed Pack or Exotic Zen Seed Pack.",
+    "mTrivia": "",
+    "mShop": 3,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "N/A",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 9,
+    "mName": "Dezen",
+    "mNameIcon": "dezen.webp",
+    "mTier": "Uncommon",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "26,398",
+    "mObtainable_way": "The Dezen is obtained through the Kitsune Chest with a 34.5% chance.",
+    "mTrivia": "",
+    "mShop": 3,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "N/A",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 10,
     "mName": "Stonebite",
     "mNameIcon": "stonebite.webp",
     "mTier": "Uncommon",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "No",
     "mPrice": "N/A",
     "mPrice_Rb": "N/A",
@@ -148,7 +183,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 9,
+    "mId": 11,
     "mName": "Red Lollipop",
     "mNameIcon": "redlollipop.webp",
     "mTier": "Uncommon",
@@ -157,7 +192,7 @@
     "mPrice": "45,000",
     "mPrice_Rb": "199",
     "mSell_value": "45,125",
-    "mObtainable_way": "Red Lollipop seed was previously obtained in the following ways:\n1. During the Easter Event 2025, a Red Lollipop seed had a 50% chance to be in stock in Poppy's Easter Shop. A user could purchase a seed for 45,000 Coins or 199 Roblux.",
+    "mObtainable_way": "Red Lollipop seed was previously obtained in the following ways:\n1. During the Easter Event 2025, a Red Lollipop seed had a 50% chance to be in stock in Poppy's Easter Shop. A user could purchase a seed for 45,000 Sheckles or 199 Roblux.",
     "mTrivia": "",
     "mShop": 3,
     "mNameShop": "Lucky Harvest",
@@ -166,7 +201,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 10,
+    "mId": 12,
     "mName": "Nightshade",
     "mNameIcon": "nightshade.webp",
     "mTier": "Uncommon",
@@ -184,7 +219,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 11,
+    "mId": 13,
     "mName": "Crocus",
     "mNameIcon": "crocus.webp",
     "mTier": "Uncommon",
@@ -202,7 +237,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 12,
+    "mId": 14,
     "mName": "Lavender",
     "mNameIcon": "lavender.webp",
     "mTier": "Uncommon",
@@ -220,7 +255,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 13,
+    "mId": 15,
     "mName": "Manuka Flower",
     "mNameIcon": "manukaflower.webp",
     "mTier": "Uncommon",
@@ -238,7 +273,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 14,
+    "mId": 16,
     "mName": "Wild Carrot",
     "mNameIcon": "wildcarrot.webp",
     "mTier": "Uncommon",
@@ -256,7 +291,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 15,
+    "mId": 17,
     "mName": "Tomato",
     "mNameIcon": "tomato.webp",
     "mTier": "Rare",
@@ -265,7 +300,7 @@
     "mPrice": "800",
     "mPrice_Rb": "79",
     "mSell_value": "27",
-    "mObtainable_way": "1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 800 Coins or 79 Roblux.\n2. Lucky Harvest\n3. Red Fox steal\n4. Snail, yield a seed when harvest\n5. Dog and Golden Lab dig up",
+    "mObtainable_way": "1. Has a 100% chance to be in stock in the Seed Shop. A user can purchase a seed for 800 Sheckles or 79 Roblux.\n2. Lucky Harvest\n3. Red Fox steal\n4. Snail, yield a seed when harvest\n5. Dog and Golden Lab dig up",
     "mTrivia": "- A Tomato crop can grow extremely tall and can reach up to an average Coconut tree or higher. When this happens, some Tomatoes may become inaccessible because they are unable to be reached.\n- The taller the Tomato crop is, the more Tomato it can grow on a crop.\n- If a user sells a Tomato that weighs 7kg or greater, you will obtain the GIANT TOMATO badge.\n- The Mushroom Seed is same as the Tomato Seed, but Mushroom has spots.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -274,7 +309,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 16,
+    "mId": 18,
     "mName": "Daffodil",
     "mNameIcon": "daffodil.webp",
     "mTier": "Rare",
@@ -283,7 +318,7 @@
     "mPrice": "1,000",
     "mPrice_Rb": "19",
     "mSell_value": "903",
-    "mObtainable_way": "Daffodil seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 1,000 Coins or 19 Roblux.\nDaffodil seed can also be obtained in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\n5. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Daffodil seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 1,000 Sheckles or 19 Roblux.\nDaffodil seed can also be obtained in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\n5. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -292,7 +327,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 17,
+    "mId": 19,
     "mName": "Cauliflower",
     "mNameIcon": "cauliflower.webp",
     "mTier": "Rare",
@@ -310,7 +345,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 18,
+    "mId": 20,
     "mName": "Raspberry",
     "mNameIcon": "raspberry.webp",
     "mTier": "Rare",
@@ -328,7 +363,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 19,
+    "mId": 21,
     "mName": "Foxglove",
     "mNameIcon": "foxglove.webp",
     "mTier": "Rare",
@@ -346,11 +381,11 @@
     "mRb": "Yes"
   },
   {
-    "mId": 20,
+    "mId": 22,
     "mName": "Peace Lily",
     "mNameIcon": "peacelily.webp",
     "mTier": "Rare",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "No",
     "mPrice": "Craftable: \nRafflesia Seed\n+ Cauliflower Seed\n+ 3 Summer Coins",
     "mPrice_Rb": "129",
@@ -364,7 +399,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 21,
+    "mId": 23,
     "mName": "Paradise Petal",
     "mNameIcon": "paradisepetal.webp",
     "mTier": "Rare",
@@ -382,7 +417,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 22,
+    "mId": 24,
     "mName": "Candy Sunflower",
     "mNameIcon": "candysunflower.webp",
     "mTier": "Rare",
@@ -391,7 +426,7 @@
     "mPrice": "75,000",
     "mPrice_Rb": "279",
     "mSell_value": "72,200",
-    "mObtainable_way": "The Candy Sunflower seed was previously obtained in the following ways:\n1. The Candy Sunflower seed could have been purchased from the 2025 Easter Event shop for 75,000 Coins or 279 Roblux.",
+    "mObtainable_way": "The Candy Sunflower seed was previously obtained in the following ways:\n1. The Candy Sunflower seed could have been purchased from the 2025 Easter Event shop for 75,000 Sheckles or 279 Roblux.",
     "mTrivia": "",
     "mShop": 2,
     "mNameShop": "Normal Seed Pack",
@@ -400,16 +435,16 @@
     "mRb": "Yes"
   },
   {
-    "mId": 23,
+    "mId": 25,
     "mName": "Corn",
     "mNameIcon": "corn.webp",
     "mTier": "Rare",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mMultiharvest": "No",
     "mPrice": "1,200",
     "mPrice_Rb": "135",
     "mSell_value": "36",
-    "mObtainable_way": "Corn seed was previously obtained in the following ways:\n1. Has a 17% chance to be in stock in the Seed Shop. A user can purchase a seed for 1300 Coins or 135 Roblux.\n1. Corn seed can still be obtained in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab",
+    "mObtainable_way": "Corn seed was previously obtained in the following ways:\n1. Has a 17% chance to be in stock in the Seed Shop. A user can purchase a seed for 1300 Sheckles or 135 Roblux.\n1. Corn seed can still be obtained in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab",
     "mTrivia": "It is one of the only crops to produce one fruit per yield, while being multi-harvest.",
     "mShop": 2,
     "mNameShop": "Normal Seed Pack",
@@ -418,7 +453,61 @@
     "mRb": "Yes"
   },
   {
-    "mId": 24,
+    "mId": 26,
+    "mName": "Horsetail",
+    "mNameIcon": "horsetail.webp",
+    "mTier": "Rare",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "199",
+    "mSell_value": "27,075",
+    "mObtainable_way": "The Horsetail Seed can be crafted with following materials:\n1x Daffodil Seed (Formerly, 1x Stonebite Seed)\n1x Bamboo Crop\n1x Corn Crop\n 15,000 Sheckles\nCraft Time: 15 Minutes.\nAlternatively, it can be purchased for  199.",
+    "mTrivia": "",
+    "mShop": 2,
+    "mNameShop": "Normal Seed Pack",
+    "mStock": "N/A",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 27,
+    "mName": "Zenflare",
+    "mNameIcon": "zenflare.webp",
+    "mTier": "Rare",
+    "mObtainable": "No",
+    "mMultiharvest": "No",
+    "mPrice": "6 Chi",
+    "mPrice_Rb": "199",
+    "mSell_value": "22,562",
+    "mObtainable_way": "The Zenflare seed can be purchased for 6 Chi Sheckles or 199 Roblux from the Zen Shop.\nPlayers must grow the Zen Tree once to unlock it.",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\nThe Zenflare Seed image name on Roblox is Spider Lily Seed. The Zenflare Was/Is used for a method to get the Kitsune Chest from the Corrupted Zen Event",
+    "mShop": 2,
+    "mNameShop": "Normal Seed Pack",
+    "mStock": "N/A",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 28,
+    "mName": "Serenity",
+    "mNameIcon": "serenity.webp",
+    "mTier": "Rare",
+    "mObtainable": "No",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "22,562",
+    "mObtainable_way": "Zen Seed Pack 25%\nExotic Zen Seed Pack 25%\nRainbow Sack 25%",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\nThe Zenflare Seed image name on Roblox is Spider Lily Seed. The Zenflare Was/Is used for a method to get the Kitsune Chest from the Corrupted Zen Event",
+    "mShop": 2,
+    "mNameShop": "Normal Seed Pack",
+    "mStock": "N/A",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 29,
     "mName": "Mint",
     "mNameIcon": "mint.webp",
     "mTier": "Rare",
@@ -436,7 +525,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 25,
+    "mId": 30,
     "mName": "Glowshroom",
     "mNameIcon": "glowshroom.webp",
     "mTier": "Rare",
@@ -454,7 +543,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 26,
+    "mId": 31,
     "mName": "Dandelion",
     "mNameIcon": "dandelion.webp",
     "mTier": "Rare",
@@ -472,7 +561,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 27,
+    "mId": 32,
     "mName": "Nectarshade",
     "mNameIcon": "nectarshade.webp",
     "mTier": "Rare",
@@ -490,7 +579,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 28,
+    "mId": 33,
     "mName": "Succulent",
     "mNameIcon": "succulent.webp",
     "mTier": "Rare",
@@ -508,7 +597,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 29,
+    "mId": 34,
     "mName": "Bee Balm",
     "mNameIcon": "beebalm.webp",
     "mTier": "Rare",
@@ -526,7 +615,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 30,
+    "mId": 35,
     "mName": "Pear",
     "mNameIcon": "pear.webp",
     "mTier": "Rare",
@@ -544,7 +633,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 31,
+    "mId": 36,
     "mName": "Delphinium",
     "mNameIcon": "delphinium.webp",
     "mTier": "Rare",
@@ -562,7 +651,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 32,
+    "mId": 37,
     "mName": "Liberty Lily",
     "mNameIcon": "libertylily.webp",
     "mTier": "Rare",
@@ -571,7 +660,7 @@
     "mPrice": "650,000",
     "mPrice_Rb": "519",
     "mSell_value": "27,075",
-    "mObtainable_way": "The Liberty Lily can be purchased for 650,000 Coins or 519 Roblux from the 4th of July Merchant that spawns next to the seed shop.",
+    "mObtainable_way": "The Liberty Lily can be purchased for 650,000 Sheckles or 519 Roblux from the 4th of July Merchant that spawns next to the seed shop.",
     "mTrivia": "When a Liberty Lily finishes growing, a firework sound will go off, equivalent to the sound a firework makes.",
     "mShop": 2,
     "mNameShop": "Normal Seed Pack",
@@ -580,7 +669,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 33,
+    "mId": 38,
     "mName": "Watermelon",
     "mNameIcon": "watermelon.webp",
     "mTier": "Legendary",
@@ -589,7 +678,7 @@
     "mPrice": "2,500",
     "mPrice_Rb": "95",
     "mSell_value": "2,708",
-    "mObtainable_way": "Watermelon seed can be obtained by the following ways:\n1. Has a 13% chance to be in stock in the Seed Shop. A user can purchase a seed for 2,500 Coins or 95 Roblux.\n1. Normal Seed Pack\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Watermelon seed can be obtained by the following ways:\n1. Has a 13% chance to be in stock in the Seed Shop. A user can purchase a seed for 2,500 Sheckles or 95 Roblux.\n1. Normal Seed Pack\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "If a user plants a total of 50 Watermelons, the user will obtain the MELON MADNESS badge.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -598,7 +687,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 34,
+    "mId": 39,
     "mName": "Pumpkin",
     "mNameIcon": "pumpkin.webp",
     "mTier": "Legendary",
@@ -607,7 +696,7 @@
     "mPrice": "3,000",
     "mPrice_Rb": "210",
     "mSell_value": "3,069",
-    "mObtainable_way": "Pumpkin seed was previously obtained in the following ways:\n1. Has a 10% chance to be in stock in the Seed Shop. A user can purchase a seed for 3,000 Coins or 210 Roblux.\nPumpkin seed can still be obtained in the following ways:\n1. Normal Seed Pack\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Pumpkin seed was previously obtained in the following ways:\n1. Has a 10% chance to be in stock in the Seed Shop. A user can purchase a seed for 3,000 Sheckles or 210 Roblux.\nPumpkin seed can still be obtained in the following ways:\n1. Normal Seed Pack\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -616,16 +705,34 @@
     "mRb": "Yes"
   },
   {
-    "mId": 35,
+    "mId": 40,
+    "mName": "Avocado",
+    "mNameIcon": "avocado.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "5,000",
+    "mPrice_Rb": "419",
+    "mSell_value": "316",
+    "mObtainable_way": "The Avocado seed was previously obtained in the following ways:\n1. Has a 2.5% (1 in 40) chance to be in stock in the Seed Shop. A user can purchase a seed for 5,000 Sheckles or 419 Roblux.\nThe Avocado seed can still be obtained in the following ways:\n1. Has a chance to be in stock in the Summer Traveling Merchant. A user can purchase a seed for Sheckles or Robux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-3",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 41,
     "mName": "Green Apple",
     "mNameIcon": "greenapple.webp",
     "mTier": "Legendary",
-    "mObtainable": "Yes (through the Summer Merchant)",
+    "mObtainable": "Yes",
     "mMultiharvest": "Yes",
     "mPrice": "3,500",
     "mPrice_Rb": "399",
     "mSell_value": "271",
-    "mObtainable_way": "The Green Apple seed was previously obtained in the following ways:\n1. Has a 5% (1 in 20) chance to be in stock in the Seed Shop. A user can purchase a seed for 3,500 Coins or 399 Roblux.\nThe Green Apple seed can still be obtained in the following ways:\n1. Has a chance to be in stock in the Summer Traveling Merchant. A user can purchase a seed for  Sheckles or  Robux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "The Green Apple seed was previously obtained in the following ways:\n1. Has a 5% (1 in 20) chance to be in stock in the Seed Shop. A user can purchase a seed for 3,500 Sheckles or 399 Roblux.\nThe Green Apple seed can still be obtained in the following ways:\n1. Has a chance to be in stock in the Summer Traveling Merchant. A user can purchase a seed for  Sheckles or  Robux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -634,16 +741,34 @@
     "mRb": "Yes"
   },
   {
-    "mId": 36,
+    "mId": 42,
+    "mName": "Apple",
+    "mNameIcon": "apple.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "3,250",
+    "mPrice_Rb": "375",
+    "mSell_value": "271",
+    "mObtainable_way": "The Apple seed can be obtained in the following ways:\nHas a 17% chance to be in stock in the Seed Shop. A user can purchase a seed for 3,250 Sheckle or 375 Roblux.\nStolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog, Golden Lab or Shiba Inu\nLucky Harvest\nA small chance to appear in the Forever Pack.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-4",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 43,
     "mName": "Banana",
     "mNameIcon": "banana.webp",
     "mTier": "Legendary",
     "mObtainable": "Yes",
     "mMultiharvest": "Yes",
-    "mPrice": "Seed Chance: 38% (Exotic Seed Pack) with 7,000 Coins",
+    "mPrice": "Seed Chance: 38% (Exotic Seed Pack) with 7,000 Sheckles",
     "mPrice_Rb": "459",
     "mSell_value": "1,579",
-    "mObtainable_way": "Banana seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 7,000 Coins or 459 Roblux.\n1. Lucky Harvest\nStolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab\nExotic Seed Packs with a 38% chance",
+    "mObtainable_way": "Banana seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 7,000 Sheckles or 459 Roblux.\n1. Lucky Harvest\nStolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab\nExotic Seed Packs with a 38% chance",
     "mTrivia": "Banana trees produce up to five fruits per harvest, randomly placing them around the tree.\nBanana is the third crop to ever get a tier downgrade. The first was Raspberry and the second was Daffodil.\nBanana is currently the only fruit to ever have been in a limited seed pack then becoming a seed shop item.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -652,7 +777,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 37,
+    "mId": 44,
     "mName": "Lilac",
     "mNameIcon": "lilac.webp",
     "mTier": "Legendary",
@@ -670,11 +795,48 @@
     "mRb": "Yes"
   },
   {
-    "mId": 38,
+    "mId": 45,
+    "mName": "Taro Flower",
+    "mNameIcon": "taroflower.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "Zen Seed Pack 20%\nExotic Zen Seed Pack 20%\nRainbow Sack 20%",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "108,300",
+    "mObtainable_way": "The Taro Flower can be obtained from the Zen Seed Pack or Exotic Zen Seed Pack.",
+    "mTrivia": "The Lilac grows in a very similar way to a Glowshroom, with smaller off-spring growing around it.\nThe Lilac is a slow growing crop.\nThe Giant Ant gains more hunger points when fed Lilac, as opposed to other fruit.",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-4",
+    "mCoin": "No",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 46,
+    "mName": "Bamboo",
+    "mNameIcon": "bamboo.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "4,000",
+    "mPrice_Rb": "99",
+    "mSell_value": "3,610",
+    "mObtainable_way": "1. The Bamboo has a 20% chance to be in stock in the Seed Shop. A user can purchase a seed for 4,000 Sheckles or 99 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mTrivia": "The Bamboo is the most common legendary seed found in Sam's Shop.\nThe Bamboo can be used as a ladder for tall or overgrown crops.\nIf mutated, there is a small chance the invisible truss becomes visible.\nDuring the Summer Harvest Event, Bamboo was unobtainable from the shop.",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-4",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+
+  {
+    "mId": 47,
     "mName": "Aloe Vera",
     "mNameIcon": "aloevera.webp",
     "mTier": "Legendary",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "No",
     "mPrice": "Craftable with\n + Peace Lily Seed\n + Prickly Pear\n+ 18 Summer Coins",
     "mPrice_Rb": "299",
@@ -688,25 +850,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 39,
-    "mName": "Bamboo",
-    "mNameIcon": "bamboo.webp",
-    "mTier": "Legendary",
-    "mObtainable": "Yes",
-    "mMultiharvest": "Yes",
-    "mPrice": "4,000",
-    "mPrice_Rb": "99",
-    "mSell_value": "3,610",
-    "mObtainable_way": "1. The Bamboo has a 20% chance to be in stock in the Seed Shop. A user can purchase a seed for 4,000 Coins or 99 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
-    "mTrivia": "The Bamboo is the most common legendary seed found in Sam's Shop.\nThe Bamboo can be used as a ladder for tall or overgrown crops.\nIf mutated, there is a small chance the invisible truss becomes visible.\nDuring the Summer Harvest Event, Bamboo was unobtainable from the shop.",
-    "mShop": 1,
-    "mNameShop": "Sam's Shop",
-    "mStock": "1-4",
-    "mCoin": "Yes",
-    "mRb": "Yes"
-  },
-  {
-    "mId": 40,
+    "mId": 48,
     "mName": "Rafflesia",
     "mNameIcon": "rafflesia.webp",
     "mTier": "Legendary",
@@ -715,7 +859,7 @@
     "mPrice": "3,200",
     "mPrice_Rb": "215",
     "mSell_value": "3159",
-    "mObtainable_way": "Rafflesia seed can be obtained in the following ways:\n1. Has a 10% (1/10) chance to be in stock in the Seed Shop. A user can purchase a seed for 3,200 Coins or 215 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Rafflesia seed can be obtained in the following ways:\n1. Has a 10% (1/10) chance to be in stock in the Seed Shop. A user can purchase a seed for 3,200 Sheckles or 215 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -724,11 +868,101 @@
     "mRb": "Yes"
   },
   {
-    "mId": 41,
+    "mId": 49,
+    "mName": "Lingonberry",
+    "mNameIcon": "lingonberry.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "209",
+    "mSell_value": "31,588",
+    "mObtainable_way": "The Lingonberry Seed can be crafted with following materials:\n3x Blueberry Seed\n1x Horsetail Crop\n450,000 Sheckle\nCraft Time: 15 Minutes\nAlternatively, it can be purchased for 209 Roblux.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-3",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 50,
+    "mName": "Soft Sunshine",
+    "mNameIcon": "softsunshine.webp",
+    "mTier": "Legendary",
+    "mObtainable": "No",
+    "mMultiharvest": "No",
+    "mPrice": "20 Chi",
+    "mPrice_Rb": "659",
+    "mSell_value": "40,612",
+    "mObtainable_way": "The Soft Sunshine seed is currently obtained by:\nPurchasing it for 20 Chi Coins or 659 Roblux in the Zen Shop.",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\nThe Soft Sunshine is the third plant that can be bought from the Zen Shop.",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-3",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 51,
+    "mName": "Sakura Bush",
+    "mNameIcon": "sakurabush.webp",
+    "mTier": "Legendary",
+    "mObtainable": "No",
+    "mMultiharvest": "No",
+    "mPrice": "14 Chi",
+    "mPrice_Rb": "489",
+    "mSell_value": "25,789",
+    "mObtainable_way": "The Sakura Bush was previously obtainable from the Tranquil Treasures Shop for 14 Chi Coins. It was also obtainable for 489 Roblux.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-3",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 52,
+    "mName": "Lucky Bamboo",
+    "mNameIcon": "luckybamboo.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "25,789",
+    "mObtainable_way": "The Lucky Bamboo crop is obtained by opening a Kitsune Chest or the Exotic Kitsune Chest both with a 14.5% chance.",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nLucky Bamboo is one of the fourth Bamboo type other than Bamboo, Bendboo, and Boneboo.\nLucky Bamboo is the first Bamboo type that is Multi-Harvest, giving 2 - 4 per yield.",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-3",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 53,
+    "mName": "Enkaku",
+    "mNameIcon": "enkaku.webp",
+    "mTier": "Legendary",
+    "mObtainable": "No",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "55,955",
+    "mObtainable_way": "Players can obtain the Enkaku from the Corrupted Rewards after given the requirement to the Corrupted Zen Channeler in the Corrupted Event with 4.35% chance of being dropped.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Sam's Shop",
+    "mStock": "1-3",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 54,
     "mName": "Horned Dinoshroom",
     "mNameIcon": "horneddinoshroom.webp",
     "mTier": "Legendary",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "No",
     "mPrice": "N/A",
     "mPrice_Rb": "N/A",
@@ -742,29 +976,11 @@
     "mRb": "Yes"
   },
   {
-    "mId": 42,
-    "mName": "Horned Dinoshroom",
-    "mNameIcon": "horneddinoshroom.webp",
-    "mTier": "Legendary",
-    "mObtainable": "Yes",
-    "mMultiharvest": "No",
-    "mPrice": "N/A",
-    "mPrice_Rb": "N/A",
-    "mSell_value": "62,272",
-    "mObtainable_way": "The Horned Dinoshroom seed can be obtained in the following ways:\n1. Ancient Seed Pack 20%\n2. Exotic Ancient Seed Pack 20%\n3. Rainbow Sack 20%",
-    "mTrivia": "",
-    "mShop": 1,
-    "mNameShop": "Sam's Shop",
-    "mStock": "1-3",
-    "mCoin": "Yes",
-    "mRb": "Yes"
-  },
-  {
-    "mId": 43,
+    "mId": 55,
     "mName": "Boneboo",
     "mNameIcon": "boneboo.webp",
     "mTier": "Legendary",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "No",
     "mPrice": "N/A",
     "mPrice_Rb": "N/A",
@@ -778,25 +994,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 44,
-    "mName": "Avocado",
-    "mNameIcon": "avocado.webp",
-    "mTier": "Legendary",
-    "mObtainable": "No",
-    "mMultiharvest": "No",
-    "mPrice": "5,000",
-    "mPrice_Rb": "419",
-    "mSell_value": "316",
-    "mObtainable_way": "The Avocado seed was previously obtained in the following ways:\n1. Has a 2.5% (1 in 40) chance to be in stock in the Seed Shop. A user can purchase a seed for 5,000 Coins or 419 Roblux.\nThe Avocado seed can still be obtained in the following ways:\n1. Has a chance to be in stock in the Summer Traveling Merchant. A user can purchase a seed for Sheckles or Robux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
-    "mTrivia": "",
-    "mShop": 1,
-    "mNameShop": "Sam's Shop",
-    "mStock": "1-3",
-    "mCoin": "Yes",
-    "mRb": "Yes"
-  },
-  {
-    "mId": 45,
+    "mId": 56,
     "mName": "Cranberry",
     "mNameIcon": "cranberry.webp",
     "mTier": "Legendary",
@@ -814,7 +1012,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 46,
+    "mId": 57,
     "mName": "Durian",
     "mNameIcon": "durian.webp",
     "mTier": "Legendary",
@@ -832,7 +1030,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 47,
+    "mId": 58,
     "mName": "Papaya",
     "mNameIcon": "papaya.webp",
     "mTier": "Legendary",
@@ -850,7 +1048,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 48,
+    "mId": 59,
     "mName": "Moonflower",
     "mNameIcon": "moonflower.webp",
     "mTier": "Legendary",
@@ -868,7 +1066,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 49,
+    "mId": 60,
     "mName": "Starfruit",
     "mNameIcon": "starfruit.webp",
     "mTier": "Legendary",
@@ -886,7 +1084,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 50,
+    "mId": 61,
     "mName": "Lumira",
     "mNameIcon": "lumira.webp",
     "mTier": "Legendary",
@@ -904,7 +1102,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 51,
+    "mId": 62,
     "mName": "Violet Corn",
     "mNameIcon": "violetcorn.webp",
     "mTier": "Legendary",
@@ -922,7 +1120,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 52,
+    "mId": 63,
     "mName": "Nectar Thorn",
     "mNameIcon": "nectarthorn.webp",
     "mTier": "Legendary",
@@ -940,7 +1138,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 52,
+    "mId": 64,
     "mName": "Nectar Thorn",
     "mNameIcon": "nectarthorn.webp",
     "mTier": "Legendary",
@@ -958,7 +1156,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 53,
+    "mId": 65,
     "mName": "Cantaloupe",
     "mNameIcon": "cantaloupe.webp",
     "mTier": "Legendary",
@@ -976,25 +1174,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 54,
-    "mName": "Cantaloupe",
-    "mNameIcon": "cantaloupe.webp",
-    "mTier": "Legendary",
-    "mObtainable": "No",
-    "mMultiharvest": "Yes",
-    "mPrice": "150,000",
-    "mPrice_Rb": "N/A",
-    "mSell_value": "30,685",
-    "mObtainable_way": "The Firework Flower can be purchased for  150,000 from the 4th July Event.",
-    "mTrivia": "- Upon harvest, the firework flies into the sky, accompanied by its sound.\n- The Firework Flower is only obtainable on July 4th and is not obtainable after.\n- There is a small chance of a firework flower being able to shoot off fireworks even without being harvested; this is most likely a bug.\n- There has a glitch where the plant says 100% Grown without being able to harvest it.",
-    "mShop": 1,
-    "mNameShop": "Sam's Shop",
-    "mStock": "1-3",
-    "mCoin": "Yes",
-    "mRb": "Yes"
-  },
-  {
-    "mId": 55,
+    "mId": 66,
     "mName": "Peach",
     "mNameIcon": "peach.webp",
     "mTier": "Mythical",
@@ -1012,7 +1192,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 56,
+    "mId": 67,
     "mName": "Pineapple",
     "mNameIcon": "pineapple.webp",
     "mTier": "Mythical",
@@ -1021,7 +1201,7 @@
     "mPrice": "7,500",
     "mPrice_Rb": "475",
     "mSell_value": "1,805",
-    "mObtainable_way": "Pineapple seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 7,500 Coins or 475 Roblux.\n2. Lucky Harvest\n3. Normal Seed Pack\n4. Stolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab",
+    "mObtainable_way": "Pineapple seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 7,500 Sheckles or 475 Roblux.\n2. Lucky Harvest\n3. Normal Seed Pack\n4. Stolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab",
     "mTrivia": "- Pineapple, along with Raspberry, Peach, and Pear, are the only crops exclusive to the Normal Seed Pack. (Outdated as player can now obtain from stock since the Summer Harvest Event, and Raspberry was obtainable during Angry Plant Event)\n- 7th Rarest fruit from stock, succeeded by Kiwi and preceeded by Banana.",
     "mShop": 2,
     "mNameShop": "Normal Seed Pack",
@@ -1030,17 +1210,17 @@
     "mRb": "Yes"
   },
   {
-    "mId": 57,
-    "mName": "Guanabana",
-    "mNameIcon": "guanabana.webp",
+    "mId": 68,
+    "mName": "Amber Spine",
+    "mNameIcon": "amberspine.webp",
     "mTier": "Mythical",
     "mObtainable": "Yes",
     "mMultiharvest": "Yes",
     "mPrice": "N/A",
-    "mPrice_Rb": "779",
-    "mSell_value": "65,431",
-    "mObtainable_way": "The Guanabana is obtainable through crafting at the Seed Crafting Table at the back of the map.\nThe Guanabana is crafted with:\n1 Aloe Vera seed\n + 1 Prickly Pear seed\n + 1 Banana\n + 30 Summer Coins\nCraft Time: 10 minutes\n\nThis crafting time can also be skipped with 779 Roblux.",
-    "mTrivia": "- Even if there is a Guanabana smaller than 3.8kg, its price will still be 63,626 Coins.\n- The Guanabana seed shares the same model with the Prickly Pear seed, the only difference being the color.\n- The Guanabana is based on the soursop in real life, which is known as the guanábana in Latin America.\nEven though guanabana is considered a prickly fruit, it is not affected by hedgehogs.",
+    "mPrice_Rb": "625",
+    "mSell_value": "49,638",
+    "mObtainable_way": "The Amber Spine Seed can be crafted with the following materials:\n1x Cactus Seed\n1x Pumpkin Crop\n1x Horsetail Crop\n 650,000 Sheckle\nCraft Time: 30 Minutes\nAlternatively, it can be purchased for 625 Roblux.",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\nThe Amber Spine's produce has a similar look to Lumira's produce, except it has a transparent glass material and is a darkish orange.\nThe Amber Spine's crop/plant represents a human's Spinal cord.",
     "mShop": 2,
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
@@ -1048,7 +1228,25 @@
     "mRb": "Yes"
   },
   {
-    "mId": 58,
+    "mId": 69,
+    "mName": "Guanabana",
+    "mNameIcon": "guanabana.webp",
+    "mTier": "Mythical",
+    "mObtainable": "No",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "779",
+    "mSell_value": "65,431",
+    "mObtainable_way": "The Guanabana is obtainable through crafting at the Seed Crafting Table at the back of the map.\nThe Guanabana is crafted with:\n1 Aloe Vera seed\n + 1 Prickly Pear seed\n + 1 Banana\n + 30 Summer Sheckles\nCraft Time: 10 minutes\n\nThis crafting time can also be skipped with 779 Roblux.",
+    "mTrivia": "- Even if there is a Guanabana smaller than 3.8kg, its price will still be 63,626 Sheckles.\n- The Guanabana seed shares the same model with the Prickly Pear seed, the only difference being the color.\n- The Guanabana is based on the soursop in real life, which is known as the guanábana in Latin America.\nEven though guanabana is considered a prickly fruit, it is not affected by hedgehogs.",
+    "mShop": 2,
+    "mNameShop": "Normal Seed Pack",
+    "mStock": "N/A",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 70,
     "mName": "Coconut",
     "mNameIcon": "coconut.webp",
     "mTier": "Mythical",
@@ -1057,7 +1255,7 @@
     "mPrice": "6,000",
     "mPrice_Rb": "435",
     "mSell_value": "361",
-    "mObtainable_way": "The Coconut seed can be obtained in the following ways:\n1. Has a 2% (1/50) chance to be in stock in the Seed Shop. A user can purchase a seed for 6,000 Coins or 597 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvested\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed\n7. Reclaimed via the Reclaimer gear\n8. ~3% chance of obtaining after shoveling via Seagull",
+    "mObtainable_way": "The Coconut seed can be obtained in the following ways:\n1. Has a 2% (1/50) chance to be in stock in the Seed Shop. A user can purchase a seed for 6,000 Sheckles or 597 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvested\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed\n7. Reclaimed via the Reclaimer gear\n8. ~3% chance of obtaining after shoveling via Seagull",
     "mTrivia": "A Coconut crop's growth time can take 6 to 12 hours. This is the slowest plant in the game to grow, where 2nd and 3rd are Cocovine and Guanabana respectively.\nThere is a glitch where sometimes 2 coconuts can grow in the same space.\nCoconuts have a base size of roughly 10kg, making them ideal candidates for pollination.\nThere's a visual bug involving the coconut crops, where if the player rejoins the game, all of their size is set to one specific size. This however doesn't change their size upon harvest.",
     "mShop": 2,
     "mNameShop": "Normal Seed Pack",
@@ -1066,7 +1264,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 59,
+    "mId": 71,
     "mName": "Cactus",
     "mNameIcon": "cactus.webp",
     "mTier": "Mythical",
@@ -1075,7 +1273,7 @@
     "mPrice": "15,000",
     "mPrice_Rb": "497",
     "mSell_value": "3,069",
-    "mObtainable_way": "Cactus seed was previously obtained in the following ways:\n1. A Cactus seed has a 3.33% chance (1/30) to be in stock in the Seed Shop. A user can purchase a seed for 15,000 Coins or 497 Roblux.\n2. Cactus seed can still be obtained in the following ways:\n1. Normal Seed Pack\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvested\nRarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Cactus seed was previously obtained in the following ways:\n1. A Cactus seed has a 3.33% chance (1/30) to be in stock in the Seed Shop. A user can purchase a seed for 15,000 Sheckles or 497 Roblux.\n2. Cactus seed can still be obtained in the following ways:\n1. Normal Seed Pack\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvested\nRarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "The Cactus crop generally grows taller than a user's avatar.\nFeeding equation: 7572.12 * 1.035WEIGHT (KG) (points: 24.83kg/17 830 HGR and 112.36kg/364 990 HGR\nThe spikes on the Cactus don't scale with KG, they are merely cosmetic. Nevertheless, the flower on its top scales with KG.",
     "mShop": 3,
     "mNameShop": "Seed Pack",
@@ -1084,7 +1282,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 60,
+    "mId": 72,
     "mName": "Dragon Fruit",
     "mNameIcon": "dragonfruit.webp",
     "mTier": "Mythical",
@@ -1102,7 +1300,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 61,
+    "mId": 73,
     "mName": "Mango",
     "mNameIcon": "mango.webp",
     "mTier": "Mythical",
@@ -1111,7 +1309,7 @@
     "mPrice": "100,000",
     "mPrice_Rb": "580",
     "mSell_value": "5,866",
-    "mObtainable_way": "The Mango seed was previously obtained in the following ways:\n1. Had a 1%(1/100) chance to be in stock in Seed Shop. Players could have purchased a seed for 100,000 Coins or 580 Roblox.\nThe Mango seed can still be obtained by the following ways:\n1. Lucky Harvest\n2. Normal Seed Pack\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvested\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed (The Squirrel is currently useless, because of a rebalance)",
+    "mObtainable_way": "The Mango seed was previously obtained in the following ways:\n1. Had a 1%(1/100) chance to be in stock in Seed Shop. Players could have purchased a seed for 100,000 Sheckles or 580 Roblox.\nThe Mango seed can still be obtained by the following ways:\n1. Lucky Harvest\n2. Normal Seed Pack\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvested\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed (The Squirrel is currently useless, because of a rebalance)",
     "mTrivia": "A Mango crop takes about eight minutes to fully grow and produces a mango every two minutes.\nThe Mango is one of few plants to have a counter part, being the Moon Mango.\nMango's tree is not static, being the only crop with this feature. It can be due to a mistake.\nThe Mango and the Loquat have an identical seed.",
     "mShop": 1,
     "mNameShop": "Summer Harvest",
@@ -1120,7 +1318,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 62,
+    "mId": 74,
     "mName": "Kiwi",
     "mNameIcon": "kiwi.webp",
     "mTier": "Mythical",
@@ -1129,7 +1327,7 @@
     "mPrice": "10,000",
     "mPrice_Rb": "529",
     "mSell_value": "2,482",
-    "mObtainable_way": "Kiwi seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 10,000 Coins or 529 Roblux.\n2. Lucky Harvest\nStolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab",
+    "mObtainable_way": "Kiwi seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 10,000 Sheckles or 529 Roblux.\n2. Lucky Harvest\nStolen by a Red Fox\nSnail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -1138,7 +1336,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 63,
+    "mId": 75,
     "mName": "Bell Pepper",
     "mNameIcon": "bellpepper.webp",
     "mTier": "Mythical",
@@ -1147,7 +1345,7 @@
     "mPrice": "55,000",
     "mPrice_Rb": "589",
     "mSell_value": "4,964",
-    "mObtainable_way": "Has a ???% chance to be in stock in the Seed Shop and can be purchased for 55,000 Coins or 589 Roblux.\n1. Lucky Harvest.\n2. Stolen by a Red Fox.\n3. Snail, yield a seed when harvest.\n4. Rarely dug up by a Dog or Golden Lab.\n5. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Has a ???% chance to be in stock in the Seed Shop and can be purchased for 55,000 Sheckles or 589 Roblux.\n1. Lucky Harvest.\n2. Stolen by a Red Fox.\n3. Snail, yield a seed when harvest.\n4. Rarely dug up by a Dog or Golden Lab.\n5. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -1156,7 +1354,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 64,
+    "mId": 76,
     "mName": "Prickly Pear",
     "mNameIcon": "pricklypear.webp",
     "mTier": "Mythical",
@@ -1165,7 +1363,7 @@
     "mPrice": "555,000",
     "mPrice_Rb": "599",
     "mSell_value": "6,318",
-    "mObtainable_way": "Prickly Pear seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 555,000 Coins or 599 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab\nRarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Prickly Pear seed can be obtained in the following ways:\n1. Has a ???% (???) chance to be in stock in the Seed Shop. A user can purchase a seed for 555,000 Sheckles or 599 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\nRarely dug up by a Dog or Golden Lab\nRarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "The Nectarine tree is quite small, however it produces up to 10 fruits.\nThe Nectarine fruit has the same model as the Peach, but more orange and with a wider middle part.",
     "mShop": 4,
     "mNameShop": "Queen Bee Shop",
@@ -1174,7 +1372,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 65,
+    "mId": 77,
     "mName": "Pink Lily",
     "mNameIcon": "pinklily.webp",
     "mTier": "Mythical",
@@ -1192,7 +1390,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 66,
+    "mId": 78,
     "mName": "Purple Dahlia",
     "mNameIcon": "purpledahlia.webp",
     "mTier": "Mythical",
@@ -1210,11 +1408,65 @@
     "mRb": "Yes"
   },
   {
-    "mId": 67,
+    "mId": 79,
+    "mName": "Hinomai",
+    "mNameIcon": "hinomai.webp",
+    "mTier": "Mythical",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "72,200",
+    "mObtainable_way": "Zen Seed Pack 4.5%\nExotic Zen Seed Pack 4.5%\nRainbow Sack 8%",
+    "mTrivia": "",
+    "mShop": 4,
+    "mNameShop": "Queen Bee Shop",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 79,
+    "mName": "Zen Rocks",
+    "mNameIcon": "zenrocks.webp",
+    "mTier": "Mythical",
+    "mObtainable": "No",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "72,200",
+    "mObtainable_way": "Zen Seed Pack 10%\nExotic Zen Seed Pack 10%\nRainbow Sack 10%",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nAlthough the Zen Rocks are classified as a crop, they are not actually a plant or fungus, but rather a pile of stones, making them the first crop of its kind.",
+    "mShop": 4,
+    "mNameShop": "Queen Bee Shop",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 80,
+    "mName": "Spiked Mango",
+    "mNameIcon": "spikedmango.webp",
+    "mTier": "Mythical",
+    "mObtainable": "No",
+    "mMultiharvest": "No",
+    "mPrice": "75 Chi Coins",
+    "mPrice_Rb": "759",
+    "mSell_value": "60,919",
+    "mObtainable_way": "The Spiked Mango becomes available for purchase in the Zen Event for 75 Chi Coins, once the player has reached Stage 6 of the Channeller's Tree\n\nThe Seed can also be purchased with 759 Roblux.",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nAlthough the Zen Rocks are classified as a crop, they are not actually a plant or fungus, but rather a pile of stones, making them the first crop of its kind.",
+    "mShop": 4,
+    "mNameShop": "Queen Bee Shop",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 81,
     "mName": "Firefly Fern",
     "mNameIcon": "fireflyfern.webp",
     "mTier": "Mythical",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "Yes",
     "mPrice": "Seed chance:\n- Ancient Seed Pack 4.5%\n- Exotic Ancient Seed Pack 4.5%\n- Rainbow Sack 8%\n",
     "mPrice_Rb": "N/A",
@@ -1228,7 +1480,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 68,
+    "mId": 82,
     "mName": "Easter Egg",
     "mNameIcon": "easteregg.webp",
     "mTier": "Mythical",
@@ -1237,7 +1489,7 @@
     "mPrice": "500,000",
     "mPrice_Rb": "699",
     "mSell_value": "2,256",
-    "mObtainable_way": "The Easter Egg seed was previously obtained in the following ways:\n1. The Easter Egg could be bought in the Easter Event 2025 shop for 500,000 Coins or 699 Roblux.\nThe Easter Egg seed can still be obtained in the following ways:\n1.Gaining enough points during the Summer Harvest Event.",
+    "mObtainable_way": "The Easter Egg seed was previously obtained in the following ways:\n1. The Easter Egg could be bought in the Easter Event 2025 shop for 500,000 Sheckles or 699 Roblux.\nThe Easter Egg seed can still be obtained in the following ways:\n1.Gaining enough points during the Summer Harvest Event.",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Summer Event",
@@ -1246,7 +1498,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 69,
+    "mId": 83,
     "mName": "Eggplant",
     "mNameIcon": "eggplant.webp",
     "mTier": "Mythical",
@@ -1264,7 +1516,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 70,
+    "mId": 84,
     "mName": "Passionfruit",
     "mNameIcon": "passionfruit.webp",
     "mTier": "Mythical",
@@ -1282,7 +1534,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 71,
+    "mId": 85,
     "mName": "Lemon",
     "mNameIcon": "lemon.webp",
     "mTier": "Mythical",
@@ -1300,7 +1552,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 72,
+    "mId": 86,
     "mName": "Moonglow",
     "mNameIcon": "moonglow.webp",
     "mTier": "Mythical",
@@ -1318,7 +1570,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 73,
+    "mId": 87,
     "mName": "Moon Melon",
     "mNameIcon": "moonmelon.webp",
     "mTier": "Mythical",
@@ -1336,7 +1588,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 74,
+    "mId": 88,
     "mName": "Blood Banana",
     "mNameIcon": "bloodnanana.webp",
     "mTier": "Mythical",
@@ -1345,7 +1597,7 @@
     "mPrice": "200,000",
     "mPrice_Rb": "599",
     "mSell_value": "5,415",
-    "mObtainable_way": "The Blood Banana seed was previously obtained in the following ways:\n1. Purchased during the Blood Moon in the Blood Moon Shop for 200,000 Coins or 599 Roblux.\n2. Gaining enough points during the Summer Harvest Event.",
+    "mObtainable_way": "The Blood Banana seed was previously obtained in the following ways:\n1. Purchased during the Blood Moon in the Blood Moon Shop for 200,000 Sheckles or 599 Roblux.\n2. Gaining enough points during the Summer Harvest Event.",
     "mTrivia": "The Blood Banana is considered a \"Night Type Fruit\".\nIt is inspired by the Banana from the Exotic Seed Pack.\nOnce fully grown, players can harvest from 2 to 4 Blood Bananas per yield, with a similar concept of the Banana.\nBlood Bananas were inspired by fruits, named Banana Yucca.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -1354,7 +1606,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 75,
+    "mId": 89,
     "mName": "Celestiberry",
     "mNameIcon": "celestiberry.webp",
     "mTier": "Mythical",
@@ -1363,7 +1615,7 @@
     "mPrice": "15,000,000",
     "mPrice_Rb": "599",
     "mSell_value": "9,025",
-    "mObtainable_way": "The Celestiberry was previously obtained in the following ways:\n1. Purchased during the Night event after Update 1.07.1 in the Twilight Shop for 15,000,000 Coins or 599 Roblux.\nThe Celestiberry can still be obtained from the following ways:\n1. Gaining enough points during the Summer Harvest Event.",
+    "mObtainable_way": "The Celestiberry was previously obtained in the following ways:\n1. Purchased during the Night event after Update 1.07.1 in the Twilight Shop for 15,000,000 Sheckles or 599 Roblux.\nThe Celestiberry can still be obtained from the following ways:\n1. Gaining enough points during the Summer Harvest Event.",
     "mTrivia": "The Celestiberry was added as part of an apology for the poorly-received Update 1.07.0.\nThe fruit of the Celestiberry share the same model with the fruit of the Raspberry, and the plant shares the same model with the scrapped Crimson Vine Blood Moon Event crop. The only difference is that the Celestiberry models all use shades of blue.\nThe plant is the remastered version of the Crimson Vine.\nThe Celestiberry seed has the 3rd highest price, tied with Ember Lily and behind Moon Mango and Sugar Apple.\nThe Celestiberry is considered a \"Night type\" fruit.\nWhen the Berry Blusher Sprinkler first released, The Celestiberry was not boosted by it along with the Raspberry. This was fixed in a patch.\nThe word \"Celestiberry\" is a compound name, where there are 2 words are combined/mixed into one, those words that are combined into Celestiberry are \"Celestial\" and \"Berry\"",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -1372,7 +1624,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 76,
+    "mId": 90,
     "mName": "Nectarine",
     "mNameIcon": "nectarine.webp",
     "mTier": "Mythical",
@@ -1390,7 +1642,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 77,
+    "mId": 91,
     "mName": "Honeysuckle",
     "mNameIcon": "honeysuckle.webp",
     "mTier": "Mythical",
@@ -1408,7 +1660,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 78,
+    "mId": 92,
     "mName": "Suncoil",
     "mNameIcon": "suncoil.webp",
     "mTier": "Mythical",
@@ -1426,7 +1678,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 79,
+    "mId": 93,
     "mName": "Bendboo",
     "mNameIcon": "bendboo.webp",
     "mTier": "Mythical",
@@ -1444,7 +1696,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 80,
+    "mId": 94,
     "mName": "Cocovine",
     "mNameIcon": "cocovine.webp",
     "mTier": "Mythical",
@@ -1454,7 +1706,7 @@
     "mPrice_Rb": "N/A",
     "mSell_value": "60,166",
     "mObtainable_way": "The Cocovine seed can be obtained in the following ways:\n1. Opening any remaining Crafters Seed Packs 4.5%\n2. Opening any remaining Exotic Crafters Seed Packs 4.5%\n3. Rainbow Sack 8%",
-    "mTrivia": "The Cocovine is made of 2 different plants, which are Coconut and Grape.\nEvery Cocovine has a red block (Similar to an apple) in the middle that a user can see if the camera is zoomed in enough. The reason is unknown, probably because of testing.\nCocovine plants produce from one to six crops per yield, scattering around the vines.\nCocovine has the same minimum value as Moon Blossom and Ember Lily with 60,166 Coins.",
+    "mTrivia": "The Cocovine is made of 2 different plants, which are Coconut and Grape.\nEvery Cocovine has a red block (Similar to an apple) in the middle that a user can see if the camera is zoomed in enough. The reason is unknown, probably because of testing.\nCocovine plants produce from one to six crops per yield, scattering around the vines.\nCocovine has the same minimum value as Moon Blossom and Ember Lily with 60,166 Sheckles.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
@@ -1462,7 +1714,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 80,
+    "mId": 95,
     "mName": "Parasol Flower",
     "mNameIcon": "parasolflower.webp",
     "mTier": "Mythical",
@@ -1480,11 +1732,11 @@
     "mRb": "Yes"
   },
   {
-    "mId": 81,
+    "mId": 96,
     "mName": "Lily Of The Valley",
     "mNameIcon": "lilyofthevalley.webp",
     "mTier": "Mythical",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "Yes",
     "mPrice": "12 Summer Coins",
     "mPrice_Rb": "639",
@@ -1498,7 +1750,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 82,
+    "mId": 97,
     "mName": "Grape",
     "mNameIcon": "grape.webp",
     "mTier": "Divine",
@@ -1507,7 +1759,7 @@
     "mPrice": "850,000",
     "mPrice_Rb": "599",
     "mSell_value": "7,085",
-    "mObtainable_way": "Grape seed can be obtained in the following ways:\n1. A user can purchase a seed for 850,000 Coins in the Seed shop, or 599 Roblux.\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\nRarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Grape seed can be obtained in the following ways:\n1. A user can purchase a seed for 850,000 Sheckles in the Seed shop, or 599 Roblux.\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\nRarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "There was once a bug where the Grape could not mutate as shocked. This was patched in an update.\nAn overgrown Grape vine can enter another player's garden.\nGrape is the first Divine Seed in the Seed Shop and was introduced in the first update in the game along with the Easter event.\nIf a grape is above (presumably 4.00kg+) it will enter a different holding animation.\nThere is a glitch associated with the Grape called the \"Dead Grape Vine\". This is a rare glitch where a fully-grown Grape Vine doesn't produce Grapes. The Harvest Tool doesn't work with these. If this happens, its best to reclaim the vine and plant it again.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1516,7 +1768,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 83,
+    "mId": 98,
     "mName": "Loquat",
     "mNameIcon": "loquat.webp",
     "mTier": "Divine",
@@ -1525,7 +1777,7 @@
     "mPrice": "900,000",
     "mPrice_Rb": "629",
     "mSell_value": "7,220",
-    "mObtainable_way": "The Loquat seed was previously obtained in the following ways:\n1. Has a 0.75% (1 in 133) chance to be in stock in the Seed Shop. A user can purchase a seed for 900,000 Coins or 629 Roblux.\nThe Loquat seed can still be obtained in the following ways:\n1. Has a chance to be in stock in the Summer Traveling Merchant. A user can purchase a seed for  Sheckles or  Robux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed.",
+    "mObtainable_way": "The Loquat seed was previously obtained in the following ways:\n1. Has a 0.75% (1 in 133) chance to be in stock in the Seed Shop. A user can purchase a seed for 900,000 Sheckles or 629 Roblux.\nThe Loquat seed can still be obtained in the following ways:\n1. Has a chance to be in stock in the Summer Traveling Merchant. A user can purchase a seed for  Sheckles or  Robux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed.",
     "mTrivia": "The model of the Loquat is nearly identical to the model of the Cranberry.\nLoquat seed is extremely similar to the Mango Seed and is almost the same as Pumpkin Seed and Sunflower Seed.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1534,7 +1786,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 84,
+    "mId": 99,
     "mName": "Mushroom",
     "mNameIcon": "mushroom.webp",
     "mTier": "Divine",
@@ -1543,7 +1795,7 @@
     "mPrice": "150,000",
     "mPrice_Rb": "249",
     "mSell_value": "136,278",
-    "mObtainable_way": "Mushroom seed can be obtained in the following ways:\n1. Has a 1%(1/100) chance to be in stock in the Seed Shop. A user can purchase a seed for 150,000 Coins or 249 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Mushroom seed can be obtained in the following ways:\n1. Has a 1%(1/100) chance to be in stock in the Seed Shop. A user can purchase a seed for 150,000 Sheckles or 249 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "The various colors of the Mushroom do not affect the Mushroom's sell value in any way.\nAll colors of the Mushroom are equally common, meaning that there are no \"rare\" Mushroom colors.\nMushroom when its in stock comes with at least 16 or more seeds to buy, it is a compensation to the single harvest.\nMushroom has the fourth highest base price in the game, before the Bendboo , Parasol Flower, and Sunflower.\nWhen the Mushroom was first added, it was unable to gain the Shocked Mutation. This was fixed the following update.\nMushroom is the only single harvest crop to not exceed the seed price when selling.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1552,7 +1804,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 85,
+    "mId": 100,
     "mName": "Pepper",
     "mNameIcon": "pepper.webp",
     "mTier": "Divine",
@@ -1561,7 +1813,7 @@
     "mPrice": "1,000,000",
     "mPrice_Rb": "629",
     "mSell_value": "7,220",
-    "mObtainable_way": "The Pepper Seed was previously obtained in the following ways:\n1. Gained enough points during the Summer Harvest Event.\nPepper seed can be obtained in the following ways:\n1. Has a 0.75% (1/133) chance to be in stock in the Seed Shop. A user can purchase a seed for 1,000,000 Coins or 629 Roblux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed.",
+    "mObtainable_way": "The Pepper Seed was previously obtained in the following ways:\n1. Gained enough points during the Summer Harvest Event.\nPepper seed can be obtained in the following ways:\n1. Has a 0.75% (1/133) chance to be in stock in the Seed Shop. A user can purchase a seed for 1,000,000 Sheckles or 629 Roblux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed.",
     "mTrivia": "The Pepper is the first fruit that has special physical effects without mutations.\nThe Pepper has appeared in one of the thumbnails of the game with a raised value of 9,643,734,647 sheckles.\nPepper crops can produce up to 6 fruits, once it's fully grown, having three on each of its vines. This applies to the Dragon Pepper as well.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1570,7 +1822,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 86,
+    "mId": 101,
     "mName": "Cacao",
     "mNameIcon": "cacao.webp",
     "mTier": "Divine",
@@ -1579,7 +1831,7 @@
     "mPrice": "2,500,000",
     "mPrice_Rb": "679",
     "mSell_value": "10,830",
-    "mObtainable_way": "Cacao seed was previously obtained in the following ways:\n1. Had a ~0.75% ( 1 in 133 )chance to be in stock in the Seed Shop. A user can purchase a seed for 2,500,000 Coins or 679 Roblux.\nCacao seed can still be obtained in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\n5. Summer Harvest quests\n6. Rarely by a Squirrel while planting the same seed",
+    "mObtainable_way": "Cacao seed was previously obtained in the following ways:\n1. Had a ~0.75% ( 1 in 133 )chance to be in stock in the Seed Shop. A user can purchase a seed for 2,500,000 Sheckles or 679 Roblux.\nCacao seed can still be obtained in the following ways:\n1. Lucky Harvest\n2. Stolen by a Red Fox\n3. Snail, yield a seed when harvest\n4. Rarely dug up by a Dog or Golden Lab\n5. Summer Harvest quests\n6. Rarely by a Squirrel while planting the same seed",
     "mTrivia": "When fully grown, a player can collect up to 4 cacao fruits per yield, having 2 on each of its sides.",
     "mShop": 1,
     "mNameShop": "Sam's Shop",
@@ -1588,7 +1840,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 87,
+    "mId": 102,
     "mName": "Feijoa",
     "mNameIcon": "feijoa.webp",
     "mTier": "Divine",
@@ -1597,7 +1849,7 @@
     "mPrice": "2,750,000",
     "mPrice_Rb": "679",
     "mSell_value": "11,733",
-    "mObtainable_way": "The Feijoa seed can be obtained in the following ways:\n1. Has a ~0.15% (1/600¹) chance to be in stock in the Seed Shop. A user can purchase a seed for 2,750,000 Coins or 679 Roblux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.\n6. Rarely by a Squirrel while planting the same seed.",
+    "mObtainable_way": "The Feijoa seed can be obtained in the following ways:\n1. Has a ~0.15% (1/600¹) chance to be in stock in the Seed Shop. A user can purchase a seed for 2,750,000 Sheckles or 679 Roblux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.\n6. Rarely by a Squirrel while planting the same seed.",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1606,7 +1858,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 88,
+    "mId": 103,
     "mName": "Pitcher Plant",
     "mNameIcon": "pitcherplant.webp",
     "mTier": "Divine",
@@ -1615,7 +1867,7 @@
     "mPrice": "7,500,000",
     "mPrice_Rb": "715",
     "mSell_value": "28,880",
-    "mObtainable_way": "Pitcher Plant seed can be obtained in the following ways:\n1. Has a 0.05% (1/2000) chance to be in stock in the Seed Shop. A user can purchase a seed for 7,500,000 Coins or 715 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
+    "mObtainable_way": "Pitcher Plant seed can be obtained in the following ways:\n1. Has a 0.05% (1/2000) chance to be in stock in the Seed Shop. A user can purchase a seed for 7,500,000 Sheckles or 715 Roblux.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yield a seed when harvest\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely obtained by a Squirrel (dupes) while planting the same seed",
     "mTrivia": "",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1624,7 +1876,25 @@
     "mRb": "Yes"
   },
   {
-    "mId": 89,
+    "mId": 104,
+    "mName": "Grand Volcania",
+    "mNameIcon": "grandvolcania.webp",
+    "mTier": "Divine",
+    "mObtainable": "No",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "819",
+    "mSell_value": "63,676",
+    "mObtainable_way": "The Grand Volcania Seed can be crafted with following materials:\n2x Ember Lily\n1x Dinosaur Egg\n1x Ancient Seed Pack\n900,000 Sheckle\nCraft Time: 45 Minutes\nAlternatively, it can be purchased for  819 Robux.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Seed Shop",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 105,
     "mName": "Sunflower",
     "mNameIcon": "sunflower.webp",
     "mTier": "Divine",
@@ -1634,7 +1904,7 @@
     "mPrice_Rb": "N/A",
     "mSell_value": "144,400",
     "mObtainable_way": "The Sunflower seed can be obtained in the following ways:\n1. Flower Seed Packs 0.5%\n2. Opening any remaining Exotic Flower Seed Packs 0.5%\n3. Rainbow Sack 7%",
-    "mTrivia": "The Sunflower is the second type of sunflower in the game, the first one being Candy Sunflower.\nThe Sunflower plant takes approximately 30 minutes to fully grow.\nThe Sunflower seed is visually very similar to both the Pumpkin, Mango, Loquat, Pineapple and Hive Fruit seeds.\nUpon release, the Sunflower had the highest base price in the game at 200,000 Coins(similar to Parasol Flower), but was later reduced down to 135,000 Coins and then raised back up to 144,000 Coins, before being buffed again to  160,000 Coins.\nThe Sunflower has the third highest base price in the game, only surpassed by the Parasol Flower and the Bone Blossom.\nThe Sunflower is one of the only plants to have a Mutation exclusive to itself, besides the Sugar Apple, being the Dawnbound mutation, obtainable from the Sun God event.\nIf a Sunflower gets the Gold and Shocked Mutations, the Sunflower will look like the Dawnbound Mutation.\nThere is a glitch where sometimes a Sunflower will produce 2 crops.\nThe Sunflower is the first multi-harvest sunflower type plant in the game.",
+    "mTrivia": "The Sunflower is the second type of sunflower in the game, the first one being Candy Sunflower.\nThe Sunflower plant takes approximately 30 minutes to fully grow.\nThe Sunflower seed is visually very similar to both the Pumpkin, Mango, Loquat, Pineapple and Hive Fruit seeds.\nUpon release, the Sunflower had the highest base price in the game at 200,000 Sheckles(similar to Parasol Flower), but was later reduced down to 135,000 Sheckles and then raised back up to 144,000 Sheckles, before being buffed again to  160,000 Sheckles.\nThe Sunflower has the third highest base price in the game, only surpassed by the Parasol Flower and the Bone Blossom.\nThe Sunflower is one of the only plants to have a Mutation exclusive to itself, besides the Sugar Apple, being the Dawnbound mutation, obtainable from the Sun God event.\nIf a Sunflower gets the Gold and Shocked Mutations, the Sunflower will look like the Dawnbound Mutation.\nThere is a glitch where sometimes a Sunflower will produce 2 crops.\nThe Sunflower is the first multi-harvest sunflower type plant in the game.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
     "mStock": "1",
@@ -1642,11 +1912,29 @@
     "mRb": "Yes"
   },
   {
-    "mId": 90,
+    "mId": 106,
+    "mName": "Maple Apple",
+    "mNameIcon": "mapleapple.webp",
+    "mTier": "Divine",
+    "mObtainable": "No",
+    "mMultiharvest": "Yes",
+    "mPrice": "",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "70,194",
+    "mObtainable_way": "The Maple Apple can be obtained from the Zen Seed Pack or Exotic Zen Seed Pack, with a 0.5% of being obtained.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Seed Shop",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 107,
     "mName": "Fossilight",
     "mNameIcon": "fossilight.webp",
     "mTier": "Divine",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "Yes",
     "mPrice": "N/A",
     "mPrice_Rb": "N/A",
@@ -1660,7 +1948,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 91,
+    "mId": 108,
     "mName": "Cherry Blossom",
     "mNameIcon": "cherryblossom.webp",
     "mTier": "Divine",
@@ -1678,7 +1966,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 92,
+    "mId": 109,
     "mName": "Crimson Vine",
     "mNameIcon": "crimsonvine.webp",
     "mTier": "Divine",
@@ -1696,16 +1984,16 @@
     "mRb": "Yes"
   },
   {
-    "mId": 93,
+    "mId": 110,
     "mName": "Candy Blossom",
     "mNameIcon": "candyblossom.webp",
     "mTier": "Divine",
     "mObtainable": "No",
     "mMultiharvest": "Yes",
-    "mPrice": "10,000,000 Coins with seed chance: 4%",
+    "mPrice": "10,000,000 Sheckles with seed chance: 4%",
     "mPrice_Rb": "N/A",
     "mSell_value": "90,250",
-    "mObtainable_way": "The Candy Blossom seed was previously obtained in the following ways:\n1. The Candy Blossom seed could be purchased for 10,000,000 Coins from the Easter Event Shop with a chance of 4% every restock",
+    "mObtainable_way": "The Candy Blossom seed was previously obtained in the following ways:\n1. The Candy Blossom seed could be purchased for 10,000,000 Sheckles from the Easter Event Shop with a chance of 4% every restock",
     "mTrivia": "he Candy Blossom is one of four blossoms. The other three are the Moon Blossom, Cherry Blossom and Bone Blossom.\nIts seed is visually similar to Lotus' seed upside down, although the blue gradient is a little brighter.\nOnce fully grown, Candy Blossom gives up to 12 fruits per yield - six on each of its bushes.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1714,25 +2002,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 94,
-    "mName": "Candy Blossom",
-    "mNameIcon": "candyblossom.webp",
-    "mTier": "Divine",
-    "mObtainable": "No",
-    "mMultiharvest": "Yes",
-    "mPrice": "10,000,000 Coins with seed chance: 4%",
-    "mPrice_Rb": "N/A",
-    "mSell_value": "90,250",
-    "mObtainable_way": "The Candy Blossom seed was previously obtained in the following ways:\n1. The Candy Blossom seed could be purchased for 10,000,000 Coins from the Easter Event Shop with a chance of 4% every restock",
-    "mTrivia": "he Candy Blossom is one of four blossoms. The other three are the Moon Blossom, Cherry Blossom and Bone Blossom.\nIts seed is visually similar to Lotus' seed upside down, although the blue gradient is a little brighter.\nOnce fully grown, Candy Blossom gives up to 12 fruits per yield - six on each of its bushes.",
-    "mShop": 1,
-    "mNameShop": "Seed Shop",
-    "mStock": "1",
-    "mCoin": "No",
-    "mRb": "Yes"
-  },
-  {
-    "mId": 95,
+    "mId": 111,
     "mName": "Lotus",
     "mNameIcon": "lotus.webp",
     "mTier": "Divine",
@@ -1750,7 +2020,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 96,
+    "mId": 112,
     "mName": "Venus Fly Trap",
     "mNameIcon": "venusflytrap.webp",
     "mTier": "Divine",
@@ -1768,7 +2038,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 97,
+    "mId": 113,
     "mName": "Cursed Fruit",
     "mNameIcon": "cursedfruit.webp",
     "mTier": "Divine",
@@ -1786,7 +2056,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 98,
+    "mId": 114,
     "mName": "Soul Fruit",
     "mNameIcon": "soulfruit.webp",
     "mTier": "Divine",
@@ -1804,7 +2074,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 99,
+    "mId": 115,
     "mName": "Mega Mushroom",
     "mNameIcon": "megamushroom.webp",
     "mTier": "Divine",
@@ -1822,7 +2092,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 100,
+    "mId": 116,
     "mName": "Moon Blossom",
     "mNameIcon": "moonblossom.webp",
     "mTier": "Divine",
@@ -1832,7 +2102,7 @@
     "mPrice_Rb": "N/A",
     "mSell_value": "60,166",
     "mObtainable_way": "The Moon Blossom seed can be obtained in the following ways:\n1. Opening any remaining Night Seed Packs 0.5%\n2. Opening any remaining Premium Night Seed Packs 2.5%",
-    "mTrivia": "The Moon Blossom is one of four blossoms other than Candy Blossom, Cherry Blossom and Bone Blossom.\nThere are two possible colors of the Moon Blossom tree: purple and blue.\nTwo plants within the blossom plant variety contain biologically accurate details, such as containing stamens & anther, both used for reproduction. These two plants are the Moon Blossom and Cherry Blossom.\nThe Moon Blossom had gotten a fix to its size, as a bug made it, so it was covering the majority of the map a day into the update release.\nThe Moon Blossom got a buff from a minimum value of 55,000 Coins to a minimum value of 60,166 Coins.\nEach Moon Blossom crop has a randomized number and rotation of antennae.\nMoon Blossom is one of the very few crops to return to the game during the Summer Harvest Event.\nMoon Blossom is considered the weakest of all current seed pack's highest rarity fruit due to its low size variation and minimum value.",
+    "mTrivia": "The Moon Blossom is one of four blossoms other than Candy Blossom, Cherry Blossom and Bone Blossom.\nThere are two possible colors of the Moon Blossom tree: purple and blue.\nTwo plants within the blossom plant variety contain biologically accurate details, such as containing stamens & anther, both used for reproduction. These two plants are the Moon Blossom and Cherry Blossom.\nThe Moon Blossom had gotten a fix to its size, as a bug made it, so it was covering the majority of the map a day into the update release.\nThe Moon Blossom got a buff from a minimum value of 55,000 Sheckles to a minimum value of 60,166 Sheckles.\nEach Moon Blossom crop has a randomized number and rotation of antennae.\nMoon Blossom is one of the very few crops to return to the game during the Summer Harvest Event.\nMoon Blossom is considered the weakest of all current seed pack's highest rarity fruit due to its low size variation and minimum value.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
     "mStock": "1",
@@ -1840,7 +2110,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 101,
+    "mId": 117,
     "mName": "Moon Mango",
     "mNameIcon": "moonmango.webp",
     "mTier": "Divine",
@@ -1849,8 +2119,8 @@
     "mPrice": "1,000,000,000",
     "mPrice_Rb": "999",
     "mSell_value": "45,125",
-    "mObtainable_way": "The Moon Mango seed was previously obtained in the following ways:\n1. Purchased during the Night Event in the Twilight Shop for 1,000,000,000 Coins or 999 Roblux.\n2. Achieving 7000 points in the Summer Harvest Event.",
-    "mTrivia": "The Moon Mango was added as part of an apology for the poorly-received Update 1.07.0.\nThe Moon Mango is the most expensive crop in the game.\nAlthough the rarity of the Moon Mango is Divine (Orange), it will show Mythical (Purple) whenever a player hover to the Moon Mango plant. It is unsure whether they changed the rarity of the Moon Mango or if this a visual bug.\nThe Moon Mango is similar to the normal Mango, while being significantly smaller than a typical Mango tree and having a dark purple color scheme.\nThe Moon Mango is a slow growing crop.\nDuring night events, Moon Mangos will grow faster.\nWhen shoveling a Moon Mango, the text to confirm shows it's mythical, although it is originally divine.\nUpon release, the Moon Mango had a minimum value of 22,563 Coins and got increased to 45,125 Coins.\nThe Moon Mango seed icon in the Twilight Shop and the actual in-game model have different textures.\nThe Moon Mango Seed got a buff due to backlash caused by it having a high seed price with a low sell price.\nThe Moon Mango is known in the GAG community as a 'scam' and a 'meme fruit'\nThe Moon Mango is considered a \"Night type\" fruit.",
+    "mObtainable_way": "The Moon Mango seed was previously obtained in the following ways:\n1. Purchased during the Night Event in the Twilight Shop for 1,000,000,000 Sheckles or 999 Roblux.\n2. Achieving 7000 points in the Summer Harvest Event.",
+    "mTrivia": "The Moon Mango was added as part of an apology for the poorly-received Update 1.07.0.\nThe Moon Mango is the most expensive crop in the game.\nAlthough the rarity of the Moon Mango is Divine (Orange), it will show Mythical (Purple) whenever a player hover to the Moon Mango plant. It is unsure whether they changed the rarity of the Moon Mango or if this a visual bug.\nThe Moon Mango is similar to the normal Mango, while being significantly smaller than a typical Mango tree and having a dark purple color scheme.\nThe Moon Mango is a slow growing crop.\nDuring night events, Moon Mangos will grow faster.\nWhen shoveling a Moon Mango, the text to confirm shows it's mythical, although it is originally divine.\nUpon release, the Moon Mango had a minimum value of 22,563 Sheckles and got increased to 45,125 Sheckles.\nThe Moon Mango seed icon in the Twilight Shop and the actual in-game model have different textures.\nThe Moon Mango Seed got a buff due to backlash caused by it having a high seed price with a low sell price.\nThe Moon Mango is known in the GAG community as a 'scam' and a 'meme fruit'\nThe Moon Mango is considered a \"Night type\" fruit.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
     "mStock": "1",
@@ -1858,7 +2128,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 102,
+    "mId": 118,
     "mName": "Hive Fruit",
     "mNameIcon": "hivefruit.webp",
     "mTier": "Divine",
@@ -1868,7 +2138,7 @@
     "mPrice_Rb": "599",
     "mSell_value": "55,955",
     "mObtainable_way": "The Hive Fruit seed was previously obtained in the following ways:\n\nThe Hive Fruit seed could be bought from the Honey Shop for 40 Honey or 599 Roblux.",
-    "mTrivia": "Its unique tree structure requires strategic garden planning to maximize yield.\nThe Hive Fruit grows differently than other plants. As the Hive Fruit grows, it starts off small, then its size gradually increases as it grows. This is different because most fruit extend or add more parts as it grows.\nSometimes the Hive Fruit can stay extremely small while growing, this makes it very difficult to harvest without the use of a harvest tool.\nHive Fruit is currently the plant with the most changes in base value. Starting off at 6,400 Coins and then 2 days after the Bizzy Bees Update it got changed to 23,145 Coins. A few days later it got buffed to 45,125 Coins. As of the Working Bees Update the base value of Hive Fruit has once again changed, this time to 55,955 Coins.\nAs of Update 1.10.0 the Hive Fruit's unique ability to release bees when it has the Pollinated mutation has been properly implemented, as it was broken in prior versions.\nAfter being fully grown, Hive Fruit can produce from one to four crops, randomly distributing by its branches.\nThe Hive Fruit seed is visually very similar to both the Pumpkin, Mango, Loquat and Pineapple seeds.",
+    "mTrivia": "Its unique tree structure requires strategic garden planning to maximize yield.\nThe Hive Fruit grows differently than other plants. As the Hive Fruit grows, it starts off small, then its size gradually increases as it grows. This is different because most fruit extend or add more parts as it grows.\nSometimes the Hive Fruit can stay extremely small while growing, this makes it very difficult to harvest without the use of a harvest tool.\nHive Fruit is currently the plant with the most changes in base value. Starting off at 6,400 Sheckles and then 2 days after the Bizzy Bees Update it got changed to 23,145 Sheckles. A few days later it got buffed to 45,125 Sheckles. As of the Working Bees Update the base value of Hive Fruit has once again changed, this time to 55,955 Sheckles.\nAs of Update 1.10.0 the Hive Fruit's unique ability to release bees when it has the Pollinated mutation has been properly implemented, as it was broken in prior versions.\nAfter being fully grown, Hive Fruit can produce from one to four crops, randomly distributing by its branches.\nThe Hive Fruit seed is visually very similar to both the Pumpkin, Mango, Loquat and Pineapple seeds.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
     "mStock": "1",
@@ -1876,7 +2146,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 103,
+    "mId": 119,
     "mName": "Dragon Pepper",
     "mNameIcon": "dragonpepper.webp",
     "mTier": "Divine",
@@ -1894,7 +2164,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 104,
+    "mId": 120,
     "mName": "Rosy Delight",
     "mNameIcon": "rosydelight.webp",
     "mTier": "Divine",
@@ -1912,7 +2182,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 105,
+    "mId": 121,
     "mName": "Traveler Fruit",
     "mNameIcon": "travelerfruit.webp",
     "mTier": "Divine",
@@ -1930,7 +2200,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 106,
+    "mId": 122,
     "mName": "Beanstalk",
     "mNameIcon": "beanstalk.webp",
     "mTier": "Prismatic",
@@ -1939,7 +2209,7 @@
     "mPrice": "10,000,000",
     "mPrice_Rb": "715",
     "mSell_value": "25,270",
-    "mObtainable_way": "The Beanstalk seed is obtained in the following ways:\n1. Has a 0.48% (1/210) chance of being in stock in the Seed Shop. A user can purchase for 10,000,000 Coins or 715 Roblux in the Seed Shop.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yields a seed when harvested\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely given by a Squirrel while planting the same seed",
+    "mObtainable_way": "The Beanstalk seed is obtained in the following ways:\n1. Has a 0.48% (1/210) chance of being in stock in the Seed Shop. A user can purchase for 10,000,000 Sheckles or 715 Roblux in the Seed Shop.\n2. Lucky Harvest\n3. Stolen by a Red Fox\n4. Snail, yields a seed when harvested\n5. Rarely dug up by a Dog or Golden Lab\n6. Rarely given by a Squirrel while planting the same seed",
     "mTrivia": "The Beanstalk was the first Prismatic crop to be released in-game.\nThis Plant Got Inspired By A Fairy Tale Name \"Jack And The Beanstalk\"\nThere was a bug when the Beanstalk was first released, where if a player purchased it with Robux, it would instead give them a Dragon Fruit seed.\nThe in-game Beanstalk is very similar in appearance to the titular beanstalk from Jack and The Beanstalk, being large, spiraling plants that sprout podded beans.\nFor some reason, when the crop focus switches from one Beanstalk crop to another, the text will be replaced with a rainbow emoji (\"\uD83C\uDF08\") for a fraction of a second. This goes for every Prismatic plant. This is probably due to rainbow plants having the same text effect as Prismatic plants.\nThe beanstalk is the biggest showable crop (if it and the other plants are on normal size)\nThe fruits on a beanstalk can swap locations with other beanstalks on the same plant, making it more difficult to find a specific beanstalk the player wants to harvest.\nOnce fully grown, The Beanstalk produces at least 4 fruits per yield, which depends on the crop's height.",
     "mShop": 1,
     "mNameShop": "Seed Shop",
@@ -1948,7 +2218,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 107,
+    "mId": 123,
     "mName": "Ember Lily",
     "mNameIcon": "emberlily.webp",
     "mTier": "Prismatic",
@@ -1957,7 +2227,7 @@
     "mPrice": "15,000,000",
     "mPrice_Rb": "779",
     "mSell_value": "60,166",
-    "mObtainable_way": "The Ember Lily seed was previously obtained in the following ways:\n1. Had a 0.02% chance to be in the Seed Shop. A user can purchase a seed for 15,000,000 Coins or 779 Roblux.\nThe Ember Lily seed can still be obtained in the following ways:\n1. Lucky Harvest\n2. Snail, yield a seed when harvest\n3. Rarely dug up by a Dog or Golden Lab\n4. Summer rewards",
+    "mObtainable_way": "The Ember Lily seed was previously obtained in the following ways:\n1. Had a 0.02% chance to be in the Seed Shop. A user can purchase a seed for 15,000,000 Sheckles or 779 Roblux.\nThe Ember Lily seed can still be obtained in the following ways:\n1. Lucky Harvest\n2. Snail, yield a seed when harvest\n3. Rarely dug up by a Dog or Golden Lab\n4. Summer rewards",
     "mTrivia": "- The Ember Lily is one of the four Prismatic crops in the game.\n- The Ember Lily seed has the 3rd highest cost to purchase, behind Sugar Apple and Moon Mango, also tied with Celestiberry.\n- The Ember Lily's is based on the real-life Ember Lily flower.\n- The Ember Lily's chance to be in the Seed Shop is 1/5.000 (0.02%) - which means it was predicted to have 1 to 2 in-stock every day.\n- There is a bug where the Red Fox cannot steal an Ember Lily Seed.\n- The Ember Lily has an average weight of 10.60 kg\n- Ember Lilies in real life can change in color.",
     "mShop": 1,
     "mNameShop": "Lucky Harvest",
@@ -1966,7 +2236,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 108,
+    "mId": 124,
     "mName": "Sugar Apple",
     "mNameIcon": "sugarapple.webp",
     "mTier": "Prismatic",
@@ -1975,7 +2245,7 @@
     "mPrice": "25,000,000",
     "mPrice_Rb": "819",
     "mSell_value": "43,320",
-    "mObtainable_way": "Sugar Apple seed can be obtained in the following ways:\n1. Has a 0.34% (1/290) chance to be in stock in the Seed Shop. A user can purchase a Sugar Apple seed for 25,000,000 Coins or 819 Roblux.\n2. Lucky Harvest\n3. \"Stolen\" by a Red Fox\n4. SnaiI, rarely yielding a seed when harvesting\n5. Rarely dug up by a Dog or Golden Lab",
+    "mObtainable_way": "Sugar Apple seed can be obtained in the following ways:\n1. Has a 0.34% (1/290) chance to be in stock in the Seed Shop. A user can purchase a Sugar Apple seed for 25,000,000 Sheckles or 819 Roblux.\n2. Lucky Harvest\n3. \"Stolen\" by a Red Fox\n4. SnaiI, rarely yielding a seed when harvesting\n5. Rarely dug up by a Dog or Golden Lab",
     "mTrivia": "The Sugar Apple is the second Apple-Type plant added to the game. First was the red apple.\nBecause of this, if the player collects a golden Sugar Apple, it will award the \"God apple!\" badge.\nThe Sugar Apple is based on the actual sugar apple.\nThe Sugar Apple also has a chance to get ripe, which makes it turn a purplish color cosmetically.\nThe Sugar Apple is the 3rd most expensive crop at  25,000,000.\nWith most mutations, it adds a gradient to the apple.\nThe Sugar Apple gives 7 points during the Summer Harvest Event.",
     "mShop": 1,
     "mNameShop": "Lucky Harvest",
@@ -1984,7 +2254,7 @@
     "mRb": "Yes"
   },
   {
-    "mId": 109,
+    "mId": 125,
     "mName": "Burning Bud",
     "mNameIcon": "burningbud.webp",
     "mTier": "Prismatic",
@@ -1993,7 +2263,7 @@
     "mPrice": "40,000,000",
     "mPrice_Rb": "915",
     "mSell_value": "63,175",
-    "mObtainable_way": "The Burning Bud seed can be obtained in the following ways:\n1. Has a 0.29% (1/340) chance to be in stock in the Seed Shop and can be purchased for 40,000,000 Coins or 915 Roblux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.",
+    "mObtainable_way": "The Burning Bud seed can be obtained in the following ways:\n1. Has a 0.29% (1/340) chance to be in stock in the Seed Shop and can be purchased for 40,000,000 Sheckles or 915 Roblux.\n2. Lucky Harvest.\n3. Stolen by a Red Fox.\n4. Snail, yield a seed when harvest.\n5. Rarely dug up by a Dog or Golden Lab.",
     "mTrivia": "\"Burning Bud\" has a chance to grow more than one branch during the growth stage. Each branch can grow into a flower independently. The experiment can be repeated through repeated planting. The current highest record is that one plant has grown four branches.\n\"Burning Bud\" is one of the few plants that can grow quite large from a low kilo, even if the final price is not ideal.\nIn the first few moments of the Burning Bud's release, players discovered that the Toucan method worked on it, but it got patched after an hour.\nPrior to its official release, the Burning Bud only grew 1 flower but had twice the price it currently has.\nThe Burning Bud was originally intended to be released earlier than the Prehistoric Update, but its release was stalled due to Roblox UK's moderation flagging the plant name as \"inappropriate\". This has since been resolved.\nThere is currently a bug where if the player has a growing/fully grown Burning Bud fruit before joining a server, it might appear invisible.\nThere is a small feature where the bottom flower is consistently much larger than the top flower.\nOn July 8th, Burning Bud came on stock for the first time and came in twice, only 10 minutes apart from each other. The chances of this occurring (based on the 0.29% chance of an appearance) would be 0.000863% (1/115900).\nThere were also 2 Sugar Apples and 1 Ember Lily in stock on the same day.\nThis and July 7th also could be the record for the most Prismatic tiers in the shop in a day, without any admin restocks.",
     "mShop": 1,
     "mNameShop": "Lucky Harvest",
@@ -2002,7 +2272,61 @@
     "mRb": "Yes"
   },
   {
-    "mId": 110,
+    "mId": 126,
+    "mName": "Giant Pinecone",
+    "mNameIcon": "giantpinecone.webp",
+    "mTier": "Prismatic",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "55,000,000",
+    "mPrice_Rb": "929",
+    "mSell_value": "64,980",
+    "mObtainable_way": "The Giant Pinecone seed can be obtained for the first time in the following ways:\nHas a 0.29% (1/324) chance to be in stock in the Seed Shop and can be purchased for  55,000,000 or  929 robux.\nStolen by a Red Fox\nVery rarely dug up by a Dog, Golden Lab or Shiba Inu\nSnail yield when harvest\nLucky Harvest",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\nGiant Pinecone is the 2nd highest/most expensive seed from the Seed Shop, just behind the Elder Strawberry.\nThe Giant Pinecone’s first stock was on the 13th of July 2025.\nThere is currently a bug that prevents players from using items on Giant Pinecones unless the spray is aimed at the top of the Giant pinecone. (such as magnifying glasses, and mutation sprays.)\nGiant Pinecone base value was nerfed from  100,000 to  72577 which means a reduction of 27.42%.\nIf the player gets a Lucky Harvest on a Giant Pinecone, the seed will spin down to the ground.\n",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 127,
+    "mName": "Elder Strawberry",
+    "mNameIcon": "elderstrawberry.webp",
+    "mTier": "Prismatic",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "70,000,000",
+    "mPrice_Rb": "957",
+    "mSell_value": "81,225",
+    "mObtainable_way": "Has a 0.24% (1/405) chance to be in stock in the Seed Shop. A user can purchase a seed for  70,000,000 or  957.\nLucky Harvest.\nStolen by a Red Fox.\nSnail, yield a seed when harvested.\nVery rarely dug up by a Dog, Golden Lab or Shiba Inu.",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nWhen the Elder Strawberry was initially released, it had a bug where players who bought the seed with  did not receive it. The developers temporarily changed for  999,999,999 so that nobody would experience the bug until it got fixed.\nThe Elder Strawberry currently has a bug that makes it glow for a bit when it is moved with a trowel.\nThe fruit of the Elder Strawberry glows for a few seconds when a player touches it while the fruit is still on the plant.\nThe Elder Strawberry currently has a bug where it does not have shovel fruit prompt despite it's rarity.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 128,
+    "mName": "Tranquil Bloom",
+    "mNameIcon": "tranquilbloom.webp",
+    "mTier": "Prismatic",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "84,233",
+    "mObtainable_way": "The Tranquil Bloom can be obtained by the following ways:\n\nKitsune Chest with a 1% chance.\nExotic Kitsune Chest with a 1% chance.\nRainbow Sack with a 7% chance.",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nThe Tranquil Bloom is the second event exclusive prismatic crop, the other being the Elephant Ears.\nThe Tranquil Bloom has a base price of  93,333, making it the fourth highest base price of any multi-harvest crop in the game currently.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 129,
     "mName": "Elephant Ears",
     "mNameIcon": "elephantears.webp",
     "mTier": "Prismatic",
@@ -2020,17 +2344,199 @@
     "mRb": "Yes"
   },
   {
-    "mId": 111,
+    "mId": 130,
     "mName": "Bone Blossom",
     "mNameIcon": "boneblossom.webp",
     "mTier": "Transcendent",
-    "mObtainable": "Yes",
+    "mObtainable": "No",
     "mMultiharvest": "Yes",
     "mPrice": "N/A",
     "mPrice_Rb": "N/A",
     "mSell_value": "157,938",
     "mObtainable_way": "The Bone Blossom can be obtained by completing 21 Dino Quests. Quests can be skipped with  Robux, however, skipping quests does not skip the timer. Quests refresh every 12 hours, with 3 randomly generated quests every time, meaning players can obtain the bone blossom in 3.5 days if they are consistent.",
     "mTrivia": "The Bone Blossom is one of the four blossoms, other than Candy Blossom, Moon Blossom and Cherry Blossom.\nThe center part of the Bone Blossom fruit looks similar to a Peach and Nectarine.\nPrior to its release, Jandel hinted toward a new Blossom-type seed that is supposed to be better than Candy Blossom, known to be the best seed in the game. This seed is confirmed to be it, as stated by Jandel after its release.\nIt is currently the first \"Transcendent\" rarity crop introduced in the game.\nThe Bone Blossom is a slow growing crop.\nThe Bone Blossom was unobtainable without admin or tester permissions for 3 and a half days after the release of the prehistoric event, which is 84 hours.\nIt produce 4 crops at the time.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 131,
+    "mName": "Artichoke",
+    "mNameIcon": "artichoke.webp",
+    "mTier": "Uncommon",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "27,075",
+    "mObtainable_way": "The Artichoke can be obtained from Cooking Rewards.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 132,
+    "mName": "Onion",
+    "mNameIcon": "onion.webp",
+    "mTier": "Uncommon",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "9,025",
+    "mObtainable_way": "The Onion can be obtained from the Gourmet Seed Pack or Exotic Gourmet Seed Pack.",
+    "mTrivia": "",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 133,
+    "mName": "Twisted Tangle",
+    "mNameIcon": "twistedtangle.webp",
+    "mTier": "Rare",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "239",
+    "mSell_value": "22,562",
+    "mObtainable_way": "The plant itself appears similarly to a Cocovine, but with a Purple and Maroon colour scheme and thorns trailing the stem.\nThe fruit of a Twisted Tangle appears to be a spiky version of the lingonberry, with a dark-yellow body with a leaf on top.\nThe intended obtainment method of a Twisted Tangle is through crafting. It can be obtained by crafting it with 1x Cactus Seed, 1x Bamboo Seed, 1x Cactus, 1x Mango, and 50,000 Sheckles.",
+    "mTrivia": "The Twisted Tangle currently has a bug where only the thorns cast a shadow, rather than the entire plant and fruit.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  }
+,
+  {
+    "mId": 134,
+    "mName": "Jalapeno",
+    "mNameIcon": "jalapeno.webp",
+    "mTier": "Rare",
+    "mObtainable": "Yes",
+    "mMultiharvest": "No",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "27,075",
+    "mObtainable_way": "The Jalapeno can be obtained from the Gourmet Seed Pack or Exotic Gourmet Seed Pack. it will be obtainable till August 9, 2025",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\nThis seed takes 7 hours without watering cans, making it the slowest growing fruit in grow a garden",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 135,
+    "mName": "Veinpetal",
+    "mNameIcon": "veinpetal.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "459",
+    "mSell_value": "22,562",
+    "mObtainable_way": "The only way to obtain the Veinpetal is to craft it. It requires:\n\n1 Orange Tulip seed\n1 Daffodil seed\n1 Beanstalk\n1 Burning bud\n650k Sheckles",
+    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nThe concept for this plant originated from \"Spider Lily\" concept, a suggestion made by LetuChiyMbIsh in Grow A Garden Official Discord Server.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  }
+,
+  {
+    "mId": 136,
+    "mName": "Crown Melon",
+    "mNameIcon": "crownmelon.webp",
+    "mTier": "Legendary",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "45,125",
+    "mObtainable_way": "The Crown Melon can be obtained from the Gourmet Seed Pack or Exotic Gourmet Seed Pack.",
+    "mTrivia": "The Crown Melon takes an appearance similar to a Cantaloupe. It is a white spherical melon shape, with a green stem going two ways shortly.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 137,
+    "mName": "Tall Asparagus",
+    "mNameIcon": "tallasparagus.webp",
+    "mTier": "Mythical",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "90,250",
+    "mObtainable_way": "The Tall Asparagus can be obtained from the Gourmet Seed Pack or Exotic Gourmet Seed Pack with a 4.5% chance of getting it.",
+    "mTrivia": "The Tall Asparagus is a limited, multi-harvest, mythical crop obtainable in the Gourmet Seed Pack.\nIt appears to be a long, stalky-like crop that has many small spherical objects protruding from it.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 138,
+    "mName": "Sugarglaze",
+    "mNameIcon": "sugarglaze.webp",
+    "mTier": "Mythical",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "63,175",
+    "mObtainable_way": "The Sugarglaze can be obtained from the Gourmet Seed Pack or Exotic Gourmet Seed Pack with seed chance: 10%",
+    "mTrivia": "The Sugarglaze takes appearance to a blocky donut-shaped body, with what appears to be chocolate icing spread on top.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 139,
+    "mName": "Grand Tomato",
+    "mNameIcon": "grandtomato.webp",
+    "mTier": "Divine",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "79,420",
+    "mObtainable_way": "The Grand Tomato can be obtained from the Gourmet Seed Pack or Exotic Gourmet Seed Pack\nSeed chance: Gourmet Seed Pack 0.5% (1 in 200)\nRainbow Sack 7% (1 in 14)",
+    "mTrivia": "It appears to be a Tomato but significantly larger (About 10x). It resembles a cubic shape & is similar to an Apple, although having a green stem & a red ImageLabel gradient.\n\nThe seed is red (With the same red ImageLabel gradient as its produce) and has the same texture as the Sugar Apple. The seed also resembles a stem-like top, showing similarities to its predecessor, the Tomato.\n\nThe crop has a varying green appearance. The crop has an Inset Stud texture, and the stem has large, green leaves growing off of it.",
+    "mShop": 1,
+    "mNameShop": "Lucky Harvest",
+    "mStock": "1",
+    "mCoin": "Yes",
+    "mRb": "Yes"
+  },
+  {
+    "mId": 140,
+    "mName": "Taco Fern",
+    "mNameIcon": "tacofern.webp",
+    "mTier": "Divine",
+    "mObtainable": "Yes",
+    "mMultiharvest": "Yes",
+    "mPrice": "N/A",
+    "mPrice_Rb": "N/A",
+    "mSell_value": "67,688",
+    "mObtainable_way": "Taco Fern seed can be obtained by the following ways:\nPrismatic Cooking Rewards with a 3% chance",
+    "mTrivia": "The Taco Fern is based off of the Taco, which is also the theme of the music \"It's Raining Tacos\" by ParryGripp that appeared a lot on the game's background music while Admin events ran.\nThe Taco Fern shares the same seed picture with the Sugarglaze in the Chris P.'s Cooking Rewards tab. This was likely an oversight from the developers.\nThe Seed looks like the Bone Blossom's one.",
     "mShop": 1,
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
