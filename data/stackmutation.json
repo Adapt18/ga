@@ -1,125 +1,181 @@
 {
   "version": 1,
-  "data": [
+  "data": 
+  [
   {
     "mId": 1,
     "mName": "Shocked + Frozen",
-    "mCalculation": "1x • (1x + 99x + 9x)",
+    "mObtainable": "Yes",
+    "mCalculation": "1 x (1 + 100 + 10 - 2)",
     "mMultiple": "109x"
   },
   {
     "mId": 2,
     "mName": "Shocked + Frozen + Choc/Moonlit",
-    "mCalculation": "1x • (1x + 99x + 9x + 1x)",
-    "mMultiple": "200x"
+    "mObtainable": "Yes",
+    "mCalculation": "1 x (1 + 100 + 10 + 2 - 3)",
+    "mMultiple": "110x"
   },
   {
     "mId": 3,
-    "mName": "Golden + Wet/Chilled/Choc/Moonlit",
-    "mCalculation": "20x • (1x + 1x)",
-    "mMultiple": "40x"
+    "mName": "Shocked + Frozen + Celestrial",
+    "mObtainable": "Yes",
+    "mCalculation": "1 x (1 + 100 + 10 + 120 - 3)",
+    "mMultiple": "228x"
   },
   {
     "mId": 4,
-    "mName": "Golden + Frozen",
-    "mCalculation": "20x • (1x + 9x)",
-    "mMultiple": "200x"
+    "mName": "Golden + Wet/Chilled/Choc/Moonlit",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 2 - 1)",
+    "mMultiple": "40x"
   },
   {
     "mId": 5,
-    "mName": "Golden + Shocked",
-    "mCalculation": "20x • (1x + 99x)",
-    "mMultiple": "2000x"
+    "mName": "Golden + Frozen",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 10 - 1)",
+    "mMultiple": "200x"
   },
   {
     "mId": 6,
-    "mName": "Golden + Shocked + Frozen",
-    "mCalculation": "20x • (1x + 99x + 9x)",
-    "mMultiple": "2,180x"
+    "mName": "Golden + Shocked",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 100 - 1)",
+    "mMultiple": "2,000x"
   },
   {
     "mId": 7,
-    "mName": "Golden + Frozen + Choc/Moonlit",
-    "mCalculation": "20x • (10x + 2x)",
-    "mMultiple": "240x"
+    "mName": "Golden + Shocked + Frozen",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 100 + 10 - 2)",
+    "mMultiple": "2,180x"
   },
   {
     "mId": 8,
-    "mName": "Golden + Shocked + Wet/Chilled/Choc/Moonlit",
-    "mCalculation": "20x • (1x + 99x + 1x)",
-    "mMultiple": "2,020x"
+    "mName": "Golden + Frozen + Choc/Moonlit",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 10 + 2 - 2)",
+    "mMultiple": "220x"
   },
   {
     "mId": 9,
-    "mName": "Golden + Shocked + Frozen + Choc/Moonlit",
-    "mCalculation": "20x • (1x + 99x + 9x + 1x)",
-    "mMultiple": "2,200x"
+    "mName": "Golden + Shocked + Wet/Chilled/Choc/Moonlit",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 100 + 2 - 2)",
+    "mMultiple": "2,020x"
   },
   {
     "mId": 10,
-    "mName": "Rainbow + Wet/Chilled/Choc/Moonlit",
-    "mCalculation": "50x • (1x + 1x)",
-    "mMultiple": "100x"
+    "mName": "Golden + Shocked + Frozen + Choc/Moonlit",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 100 + 10 + 2 - 3)",
+    "mMultiple": "2,200x"
   },
   {
     "mId": 11,
-    "mName": "Rainbow + Frozen",
-    "mCalculation": "50x • (1x + 9x)",
-    "mMultiple": "500x"
+    "mName": "Golden + Shocked + Frozen + Celestrial",
+    "mObtainable": "Yes",
+    "mCalculation": "20 x (1 + 100 + 10 + 120 - 3)",
+    "mMultiple": "4,560x"
   },
   {
     "mId": 12,
-    "mName": "Rainbow + Shocked",
-    "mCalculation": "50x • (1x + 99x)",
-    "mMultiple": "5,000x"
+    "mName": "Rainbow + Wet/Chilled/Choc/Moonlit",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 2 - 1)",
+    "mMultiple": "100x"
   },
   {
     "mId": 13,
-    "mName": "Rainbow + Shocked + Frozen",
-    "mCalculation": "50x • (1x + 99x + 9x)",
-    "mMultiple": "5,450x"
+    "mName": "Rainbow + Frozen",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 10 - 1)",
+    "mMultiple": "500x"
   },
   {
     "mId": 14,
+    "mName": "Rainbow + Shocked",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 100 - 1)",
+    "mMultiple": "5,000x"
+  },
+  {
+    "mId": 15,
+    "mName": "Rainbow + Shocked + Frozen",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 100 + 10 - 2)",
+    "mMultiple": "5,450x"
+  },
+  {
+    "mId": 16,
     "mName": "Rainbow + Frozen + Choc/Moonlit",
+    "mObtainable": "Yes",
     "mCalculation": "50x • (1x + 9x + 1x)",
     "mMultiple": "550x"
   },
   {
-    "mId": 15,
+    "mId": 17,
     "mName": "Rainbow + Shocked + Wet/Chilled/Choc/Moonlit",
-    "mCalculation": "50x • (1x + 99x + 1x)",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 10 + 2 - 2)",
     "mMultiple": "5,050x"
   },
   {
-    "mId": 16,
+    "mId": 18,
     "mName": "Rainbow + Shocked + Frozen + Choc/Moonlit",
-    "mCalculation": "50x • (1x + 99x + 9x + 1x)",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 100 + 10 + 2 - 3)",
     "mMultiple": "5,500x"
   },
   {
-    "mId": 17,
+    "mId": 19,
     "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit",
-    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x)",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 100 + 10 + 2 + 2 - 4)",
     "mMultiple": "5,550x"
   },
   {
-    "mId": 18,
-    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial",
-    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x + 124x + 119x)",
-    "mMultiple": "17,700x"
-  },
-  {
-    "mId": 19,
-    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly",
-    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x + 124x + 119x + 3x + 24x + 4x + 2x + 4x + 134x + 4x)",
-    "mMultiple": "26,450x"
-  },
-  {
     "mId": 20,
-    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly + Dawnbound (Note: Can only be obtained on a Sunflower)",
-    "mCalculation": "50x • (1x + 99x + 9x + 1x + 1x + 124x + 119x + 3x + 24x + 4x + 2x + 4x + 134x + 4x + 149x)",
-    "mMultiple": "33,900x"
+    "mName": "Rainbow + Shocked + Frozen + Celestrial",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 100 + 10 + 120 - 3)",
+    "mMultiple": "11,400x"
+  },
+  {
+    "mId": 21,
+    "mName": "Golden + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly + Dawnbound + Cooked + Molten",
+    "mObtainable": "Yes",
+    "mCalculation": "20 × (1 + 100 + 10 + 2 + 2 + 125 + 120 + 4 + 25 + 5 + 3 + 5 + 135 + 5 + 150 + 10 + 25 - 16)",
+    "mMultiple": "14,360x"
+  },
+  {
+    "mId": 22,
+    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly",
+    "mObtainable": "Yes",
+    "mCalculation": "50 × (1 + 100 + 10 + 2 + 2 + 125 + 120 + 4 + 25 + 5 + 3 + 5 + 135 + 5 - 13)",
+    "mMultiple": "26,800x"
+  },
+  {
+    "mId": 23,
+    "mName": "Rainbow + Shocked + Frozen + Windstruck + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly + Cooked + Molten + Galactic + AlienLike + Sundried + Twisted + Paradisal + Aurora",
+    "mObtainable": "Yes",
+    "mCalculation": "50 × (1 + 100 + 10 + 2 + 2 + 2 + 125 + 120 + 4 + 25 + 5 + 3 + 5 + 135 + 5 + 10 + 25 + 120 + 100 + 85 + 5 + 90 - 20)",
+    "mMultiple": "47,950x"
+  },
+  {
+    "mId": 24,
+    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly + Cooked + Molten + Galactic + AlienLike + Sundried + Twisted + Paradisal + Aurora + AncientAmber",
+    "mObtainable": "Yes",
+    "mCalculation": "50 x (1 + 100 + 10 + 2 + 2 + 125 + 120 + 4 + 25 + 5 + 3 + 5 + 135 + 10 + 25 + 120 + 100 + 85 + 5 + 18 + 90 + 50 - 22)",
+    "mMultiple": "50,900x"
+  },
+  {
+    "mId": 25,
+    "mName": "Rainbow + Shocked + Frozen + Choc + Moonlit + Disco + Celestial + Bloodlit + Zombified + Plasma + Pollinated + HoneyGlazed + Voidtouched + Heavenly + Dawnbound + Cooked + Molten + Galactic + AlienLike + Sundried + Twisted + Paradisal + Aurora + AncientAmber",
+    "mObtainable": "Yes",
+    "mCalculation": "50 × (1 + 100 + 10 + 2 + 2 + 125 + 120 + 4 + 25 + 5 + 3 + 5 + 135 + 5 + 150 + 10 + 25 + 120 + 100 + 85 + 90 + 50 - 23)",
+    "mMultiple": "57,450x"
   }
  ]
 }
