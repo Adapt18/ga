@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "data": 
-[
+  "data": [
   {
     "mId": 1,
-    "mName": "Carrot(2)",
+    "mName": "Carrot",
     "mNameIcon": "carrot.webp",
     "mTier": "Common",
     "mObtainable": "Yes",
@@ -18,7 +17,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "5-25",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 2,
@@ -36,7 +36,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-6",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 3,
@@ -54,7 +55,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-6",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 4,
@@ -72,7 +74,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-6",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 5,
@@ -90,7 +93,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 6,
@@ -108,7 +112,8 @@
     "mNameShop": "Flower Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 7,
@@ -126,7 +131,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 8,
@@ -144,7 +150,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 9,
@@ -162,7 +169,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 10,
@@ -180,7 +188,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 11,
@@ -198,7 +207,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 12,
@@ -216,7 +226,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 13,
@@ -234,7 +245,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 14,
@@ -252,7 +264,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 15,
@@ -270,7 +283,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 16,
@@ -288,7 +302,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 17,
@@ -306,7 +321,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 18,
@@ -324,7 +340,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 19,
@@ -342,7 +359,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 20,
@@ -360,7 +378,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 21,
@@ -378,7 +397,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 22,
@@ -396,7 +416,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 23,
@@ -414,7 +435,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 24,
@@ -432,7 +454,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 25,
@@ -450,7 +473,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 26,
@@ -468,7 +492,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 27,
@@ -486,7 +511,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 28,
@@ -504,7 +530,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 29,
@@ -522,7 +549,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 30,
@@ -540,7 +568,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 31,
@@ -558,7 +587,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 32,
@@ -576,7 +606,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 33,
@@ -594,7 +625,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 34,
@@ -612,7 +644,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 35,
@@ -630,7 +663,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 36,
@@ -648,7 +682,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 37,
@@ -666,7 +701,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 38,
@@ -684,7 +720,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-6",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 39,
@@ -702,7 +739,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 40,
@@ -720,7 +758,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 41,
@@ -738,7 +777,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 42,
@@ -756,7 +796,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 43,
@@ -774,7 +815,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 44,
@@ -792,7 +834,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 45,
@@ -810,7 +853,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 46,
@@ -828,7 +872,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
 
   {
@@ -847,7 +892,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 48,
@@ -865,7 +911,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 49,
@@ -883,7 +930,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 50,
@@ -901,7 +949,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 51,
@@ -919,7 +968,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 52,
@@ -937,7 +987,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 53,
@@ -955,7 +1006,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 54,
@@ -973,7 +1025,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 55,
@@ -991,7 +1044,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 56,
@@ -1009,7 +1063,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 57,
@@ -1027,7 +1082,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 58,
@@ -1045,7 +1101,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 59,
@@ -1063,7 +1120,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 60,
@@ -1081,7 +1139,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 61,
@@ -1099,7 +1158,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 62,
@@ -1117,7 +1177,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 63,
@@ -1135,7 +1196,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 64,
@@ -1153,7 +1215,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 65,
@@ -1171,7 +1234,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 66,
@@ -1189,7 +1253,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 67,
@@ -1207,7 +1272,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 68,
@@ -1225,7 +1291,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 69,
@@ -1243,7 +1310,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 70,
@@ -1261,7 +1329,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 71,
@@ -1279,7 +1348,8 @@
     "mNameShop": "Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 72,
@@ -1297,7 +1367,8 @@
     "mNameShop": "Normal Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 73,
@@ -1315,7 +1386,8 @@
     "mNameShop": "Summer Harvest",
     "mStock": "1-25",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 74,
@@ -1333,7 +1405,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-4",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 75,
@@ -1351,7 +1424,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-3",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 76,
@@ -1369,7 +1443,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 77,
@@ -1387,7 +1462,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 78,
@@ -1405,7 +1481,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 79,
@@ -1423,7 +1500,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 79,
@@ -1441,7 +1519,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 80,
@@ -1459,7 +1538,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 81,
@@ -1477,7 +1557,8 @@
     "mNameShop": "Queen Bee Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 82,
@@ -1495,7 +1576,8 @@
     "mNameShop": "Summer Event",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 83,
@@ -1513,7 +1595,8 @@
     "mNameShop": "Summer Event",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 84,
@@ -1531,7 +1614,8 @@
     "mNameShop": "Summer Event",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 85,
@@ -1549,7 +1633,8 @@
     "mNameShop": "Summer Event",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 86,
@@ -1567,7 +1652,8 @@
     "mNameShop": "Summer Event",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 87,
@@ -1585,7 +1671,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 88,
@@ -1603,7 +1690,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 89,
@@ -1621,7 +1709,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 90,
@@ -1639,7 +1728,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 91,
@@ -1657,7 +1747,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 92,
@@ -1675,7 +1766,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 93,
@@ -1693,7 +1785,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 94,
@@ -1711,7 +1804,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 95,
@@ -1729,7 +1823,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1-5",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 96,
@@ -1747,7 +1842,8 @@
     "mNameShop": "Seed Pack",
     "mStock": "N/A",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 97,
@@ -1765,7 +1861,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 98,
@@ -1783,7 +1880,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 99,
@@ -1801,7 +1899,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 100,
@@ -1819,7 +1918,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 101,
@@ -1837,7 +1937,8 @@
     "mNameShop": "Sam's Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 102,
@@ -1855,7 +1956,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 103,
@@ -1873,7 +1975,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 104,
@@ -1891,7 +1994,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 105,
@@ -1909,7 +2013,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 106,
@@ -1927,7 +2032,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 107,
@@ -1945,7 +2051,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 108,
@@ -1963,7 +2070,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 109,
@@ -1981,7 +2089,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 110,
@@ -1999,7 +2108,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 111,
@@ -2017,7 +2127,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 112,
@@ -2035,7 +2146,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 113,
@@ -2053,7 +2165,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 114,
@@ -2071,7 +2184,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 115,
@@ -2089,7 +2203,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 116,
@@ -2107,7 +2222,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 117,
@@ -2125,7 +2241,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 118,
@@ -2143,7 +2260,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 119,
@@ -2161,7 +2279,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 120,
@@ -2179,7 +2298,8 @@
     "mNameShop": "Sumer pack",
     "mStock": "1",
     "mCoin": "yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 121,
@@ -2197,7 +2317,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 122,
@@ -2215,7 +2336,8 @@
     "mNameShop": "Seed Shop",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 123,
@@ -2233,7 +2355,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 124,
@@ -2251,7 +2374,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 125,
@@ -2269,7 +2393,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 126,
@@ -2287,7 +2412,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 127,
@@ -2305,7 +2431,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 128,
@@ -2323,7 +2450,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 129,
@@ -2341,7 +2469,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "No",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 130,
@@ -2359,7 +2488,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 131,
@@ -2377,7 +2507,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 132,
@@ -2395,7 +2526,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 133,
@@ -2413,7 +2545,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   }
 ,
   {
@@ -2432,7 +2565,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 135,
@@ -2450,7 +2584,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   }
 ,
   {
@@ -2469,7 +2604,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 137,
@@ -2487,7 +2623,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 138,
@@ -2505,7 +2642,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 139,
@@ -2523,7 +2661,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   },
   {
     "mId": 140,
@@ -2541,7 +2680,8 @@
     "mNameShop": "Lucky Harvest",
     "mStock": "1",
     "mCoin": "Yes",
-    "mRb": "Yes"
+    "mRb": "Yes",
+    "mValue": "0"
   }
 ]
 }
