@@ -1,10 +1,10 @@
 {
-  "version": 2,
+  "version": 1,
   "data":
   [
   {
     "mId": 1,
-    "mName": "Rain(2)",
+    "mName": "Rain",
     "mNameIcon": "rain.webp",
     "mTier": "Standard",
     "mEffect": "• Increases crop growth speed by 50%.\n• 50% chance to apply the Wet mutation.\n• Can combine with Chilled to create Frozen.",
