@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "data": 
   [
   {
@@ -10,10 +10,10 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Common Summer Egg",
     "mHatch_chance": "50%",
-    "mPassive": "Gains additional 5.85 XP per second (increases by 0.085 XP every age up from 1)",
-    "mGeneral": "The Starfish has five arms coming off of its body. It has a feminine face in the center which resembles a smile. It is mostly a coral-pink color with a lighter-colored vertical stripe down each of its arms.",
-    "mTrivia": "Starfish does not give bonus exp to other pets.\nStarfish gives approximal 3,600 exp every 10 minutes.\nStarfish gains experience even when its hunger is 0.",
-    "mValue": "5000000"
+    "mPassive": "You're a Star: Gains additional XP per second",
+    "mGeneral": "The Starfish is a common pet released in the Summer Update. It has a 50% chance to be obtained from the Common Summer Egg. It has 1,500 Hunger.",
+    "mTrivia": "Appearance\nThe Starfish has five arms coming off of its body. It has a feminine face in the center which resembles a smile. It is mostly a coral-pink color with a lighter-colored vertical stripe down each of its arms.\n\nTrait\nYou're a Star: Gains an additional ~6 xp per second!\nDoes not grant additional exp to other pets.\nStarfish gains experience even when its hunger is 0.\nIt outranks Brown and Grey Mouse as a sacrificial pet for leveling up fast and getting extra pet slots / egg slots / pet inventory space.\n\nIt is currently the best pet to age up and exchange for the extra slots.\n\nDepends on graphic quality settings, its face can changed from a joyful style look to a neutral like look when zooming out the camera.\nThis is one of the fastest growing Pets in the game.\n\nStarfish is one of the slowest pets in the entire game. This can be seen in game when the starfish is compared to other pets.",
+    "mValue": "300000000"
   },
   {
     "mId": 2,
@@ -24,9 +24,9 @@
     "mObtaining_method": "Common Summer Egg",
     "mHatch_chance": "25%",
     "mPassive": "Pinch Pocket: Occasionally goes to another player and pinches them and grants you a small amount of sheckles",
-    "mGeneral": "The Crab resembles a stereotypical cartoonish crab, having oversized claws and two eyes sticking out above its head. It's a vibrant red color and keeps this color all around. It also has three pairs of legs as well as a smile on the front of its face.\nPinch Pocket: Occasionally goes to another player and pinches them, granting sheckles.",
-    "mTrivia": "Pinched players do not lose their sheckles.\nCrab will still pinch the player from below if the player is high up. (on a plant, cosmetic, etc.)\nCrab does not seem to have a run time limit.",
-    "mValue": "10000000"
+    "mGeneral": "The Crab is a Common pet released in the Summer Update. It can be obtained from the Common Summer Egg. It has 3,000 Hunger.",
+    "mTrivia": "Appearance\nThe Crab resembles a stereotypical cartoonish crab, having oversized claws and two eyes sticking out above its head. It's a vibrant red color and keeps this color all around. It also has three pairs of legs as well as a smile on the front of its face.\n\nTrait\nPinch Pocket: Occasionally goes to another player and pinches them, granting sheckles. Pinched players do not lose their sheckles. Crab does not seem to have a run time limit.\nThe Crab will still pinch the player from below if the player is high up. (on a plant, cosmetic, etc.)\nThe Crab cannot fall down of the map.\n\nThe Crab is one of the few pets that can interact directly with players. The other pets are the Raccoon, the Fennec Fox, the Kitsune and the Red Fox.\n\nThe Crab is the only pet that interacts with other players, and not with its owner.",
+    "mValue": "15000000"
   },
   {
     "mId": 3,
@@ -36,10 +36,10 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Common Summer Egg",
     "mHatch_chance": "25%",
-    "mPassive": "Scavenger: Shoveling plants have a percent chance to drop the equivalent seed. Does not work on fruits.",
-    "mGeneral": "The Seagull resembles that of a real bird having a pair of wings and feet as well as a long beak. It is mostly white with tuft of feathers on its head as well as a beak which fades from burnt orange to amber in color. It has two small feet that are a candy-pink. It also has two large black eyes on the front of its face.\nScavenger: Shoveling plants have a chance to drop the equivalent seed. Does not work on limited fruits like Candy Blossom.",
-    "mTrivia": "The Seagull flies slightly crooked\nThe Seagull is the first pet to modify the shovel.\nThe Seagulls trait closely resembles the gear, Reclaimer.\nThe Seagull was added in the same update as the gear, Reclaimer.",
-    "mValue": "10000000"
+    "mPassive": "When the player get a Lucky Harvest: There is a 4 percent chance to get a extra seed!",
+    "mGeneral": "The Seagull is a Common pet released in the Summer Update. It can be obtained from the Common Summer Egg for   1,000,000 or  29. It has 3,500 Hunger.",
+    "mTrivia": "Appearance\nThe Seagull resembles that of a real bird having a pair of wings and feet as well as a long beak. It is mostly white with tuft of feathers on its head as well as a beak which fades from burnt orange to amber in color. It has two small feet that are a candy-pink. It also has two large black eyes on the front of its face.\n\nTrait\nWhen the player get a Lucky Harvest: There is a 4 percent chance to get a extra seed!\n\n(Formerly) Scavenger: Shoveling plants have a percent chance to drop the equivalent seed. Does not work on fruits.\nThe Seagull flies slightly crooked.\n\nThe Seagull was the first pet to modify the Shovel.\n\nThe Seagull ability is lost like the Squirrel, due to an exploit people abused.",
+    "mValue": "87000000"
   },
   {
     "mId": 4,
@@ -51,8 +51,8 @@
     "mHatch_chance": "33.33%",
     "mPassive": "Every 40s, eats a carrot at a 1.5x value bonus.",
     "mGeneral": "The Bunny is a Common Pet added in the Animal Update. It can be obtained by hatching the Common Egg with a chance of 33.33%. The Bunny has 1,100 hunger.",
-    "mTrivia": "- Every 40 seconds, the Bunny searches for a carrot or chocolate carrot on the garden and eats it, automatically selling it at a marked up price of 1.5x value. The sell value multiplier increases as the Bunny ages.\n- If no carrots are planted in the garden, Bunnies will wander around aimlessly.",
-    "mValue": "50000"
+    "mTrivia": "Appearance\nThe Bunny is a white bunny with pink inner-ears, black facial features, and white ears, head, body, limbs, and tail.\n\nTrait\nEvery ~40 seconds, the Bunny searches for a Carrot, Chocolate Carrot or Wild Carrot on the garden and eats it, automatically selling it at a marked up price of 1.5x value. The sell value multiplier increases as the Bunny ages.\n\nIf no Carrots are planted in the garden or the only ones available have been favorited, Bunnies will wander around aimlessly.\nThe Bunny's passive is similar to the Black Bunny and the Bagel Bunny.\n\nIt is also similar to the Panda. Instead of eating Carrots, the Panda eats Bamboo.\n\nThis pet doesn’t give money upon eating a carrot similar to the Panda.",
+    "mValue": "10000000"
   },
   {
     "mId": 5,
@@ -63,9 +63,9 @@
     "mObtaining_method": "Common Egg",
     "mHatch_chance": "33.33%",
     "mPassive": "Every 60s, 5% chance to dig up a random seed.",
-    "mGeneral": "The Dog is a Common Pet added in the Animal Update. It can be obtained by hatching the Common Egg with a chance of 33.33%.",
-    "mTrivia": "Every ~60 seconds, the Dog will attempt to dig up a random seed (only Seed Shop plants), with a ~5% chance to succeed.",
-    "mValue": "50000"
+    "mGeneral": "The Dog is one of the 23 pets added in the Grow a Garden Update 1.04.0. It can be obtained by hatching a Common Egg with a 33.33% chance. The Dog has 1,000 hunger. Its ability is identical to the Golden Lab but with a ~5% chance instead of a ~10% chance like the Golden Lab.",
+    "mTrivia": "Appearance\nThe Dog is a predominantly white dog with brown ears and a brown spot over its left eye with black facial features. It shares the same model as the Golden Lab.\n\nTrait\nEvery ~60 seconds, the Dog will attempt to dig up a random seed (only Seed Shop plants), with a ~5% chance to succeed.\nThe Dog and the Frog are the only pets that have another variant from the same egg with an increased ability chance/cooldown.\n\nThe probability of a Dog actually triggering its trait is half that of the Golden Lab, even though they perform the same function.\n\nThe Dog, Golden Lab, and Shiba Inu all have similar abilities, which is digging.",
+    "mValue": "10000000"
   },
   {
     "mId": 6,
@@ -75,10 +75,10 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Common Egg",
     "mHatch_chance": "33.33%",
-    "mPassive": "Every 60s, 5% chance to dig up a random seed.",
-    "mGeneral": "The Golden Lab is a Common Pet added in the Animal Update. It can be obtained by hatching the Common Egg with a chance of 33.33%. The Golden Lab has 1,000 hunger. Every few minutes, it naps for about 3 - 4 seconds (does nothing special while sleeping).",
-    "mTrivia": "Every 60 seconds, the Golden Lab will attempt to dig up a random seed (only Seed Shop plants), with a 10% chance to succeed.",
-    "mValue": "50000"
+    "mPassive": "Digging friend: ~10% chance to dig up a random Seed Shop seed every 60 seconds.",
+    "mGeneral": "The Golden Lab is a common pet added in Update 1.04.0. It can be obtained by hatching the Common Egg with a chance of 33.33%. The Golden Lab has 1,200 hunger.",
+    "mTrivia": "Appearance\nThe Golden Lab is a recolor of the Dog, having brown ears and a beige body, and lacks spots on its body & face. It also has a stud-like texture on its entire body.\n\nTrait\nEvery 60 seconds, the Golden Lab will attempt to dig up, with a 10% chance to succeed, a random seed that can be found in the Seed Shop, regardless of if it's on stock or not. Higher rarity seeds have a lower chance of being dug up.\nThe Golden Lab is based off the Labrador Retriever in real life.\n\nThe Golden Lab's trait has a 2x higher chance of succeeding than the Dog's, even though they are from the same egg with the same chances.",
+    "mValue": "10000000"
   },
   {
     "mId": 7,
@@ -88,75 +88,75 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Bee Egg",
     "mHatch_chance": "65%",
-    "mPassive": "Every 24:45m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation. (The time is reduced when the pet is leveled up.)",
-    "mGeneral": "The Bee is a common Pet added in the Bizzy Bee Event update.\nThe Bee can be obtained from the Bee Egg, which can be purchased for  18.\nThe Bee has 25,000 hunger.",
-    "mTrivia": "Every 24:45m, the Bee flies to a nearby fruit and pollinates it, applying the Pollinated mutation. When pollination occurs, the following message appears: Bee applied Pollinated mutation to the [Plant].",
-    "mValue": "25000000000"
+    "mPassive": "Every ~25m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation.",
+    "mGeneral": "The Bee is an Uncommon Pet introduced in the Bizzy Bee Event update. There is a 65% chance of hatching it from the Bee Egg, which could be previously purchased for  30,000,000 Sheckles or 129 Roblux, until it was added in the Honey Merchant for 18 Honey. The Bee has 25,000 hunger.",
+    "mTrivia": "Appearance\nThe Bee's model resembles the Honey Bee and Disco Bee, but features a mostly yellow body with black stripes, black antennae, and light gray wings.\n\nTrait\nEvery ~25 minutes, the Bee flies to a nearby fruit and pollinates it, applying the Pollinated Mutation. When pollination occurs, the following message appears: Bee applied Pollinated mutation to [Fruit].\nFavorite Foods\nThe following foods fill Bee's hunger by large increase. The Bee prefers flowers type foods. Mutated food versions increase the amount of hunger points.\n\nRose (Around 10%)\nPink Lily (Around 60%)\nLilac (Around 80%)\n\nThe Bee is one of the pets with the highest cooldown in the game.",
+    "mValue": "1000000000000"
   },
   {
     "mId": 8,
     "mName": "Black Bunny",
     "mNameIcon": "black_bunny.webp",
     "mTier": "Uncommon",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Uncommon Egg",
     "mHatch_chance": "25%",
     "mPassive": "Every 40 seconds, the Black Bunny searches for a Carrot on the garden and eats it, automatically selling it at a marked up price of 1.5x value.",
     "mGeneral": "The Black Bunny is an Uncommon pet added in the Animal Update. It can be obtained from hatching the Uncommon Egg with a chance of 25%, and is a variant of the Bunny. The Black Bunny has 1,300 hunger.",
-    "mTrivia": "- Every 40 seconds, the Black Bunny searches for a Carrot or Chocolate Carrot on the garden and eats it, automatically selling it at a marked up price of 1.5x value. The sell value multiplier increases as the Bunny ages.\n- If no Carrot is available, the Black Bunny will roam around the garden without taking action.",
-    "mValue": "200000"
+    "mTrivia": "Appearance\nThe Black Bunny is a recolor of the Bunny, having a black body, pink inner ears, and a pink nose.\n\nTrait\nEvery ~40 seconds, the Black Bunny searches for a Carrot, Chocolate Carrot or Wild Carrot on the garden and eats it, automatically selling it at a marked up price of ~1.5x value.\n\nThe Black Bunny's passive is similar to the Bunny and the Bagel Bunny.\nIt is also similar to the Panda. Instead of eating Carrots, the Panda eats Bamboo.\n\nAlthough Black Bunny is ranked as uncommon, its passive is worse than the Bagel Bunnys, which is ranked as Common.",
+    "mValue": "35000000"
   },
   {
     "mId": 9,
     "mName": "Cat",
     "mNameIcon": "cat.webp",
     "mTier": "Uncommon",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Uncommon Egg",
     "mHatch_chance": "25%",
     "mPassive": "Every 80 seconds, the Cat will nap for 10 seconds. New fruit within 10 studs will be 1.25x larger.",
-    "mGeneral": "The Cat has a grey body, with dark grey whiskers and markings. The inner ears and nose are both pink, and the eyes and mouth are both black. It shares the same model with the Orange Tabby.",
-    "mTrivia": "Every 80 seconds, the Cat naps for 10 seconds. Nearby plants within 10 studs will have their new fruit grow 1.25x larger.",
-    "mValue": "400000"
+    "mGeneral": "The Cat is an Uncommon pet added in the Animal Update. It has a 25% chance of hatching from an Uncommon Egg.",
+    "mTrivia": "Appearance\nThe Cat has a gray body, with dark gray whiskers and markings. The inner ears and nose are both pink, and the eyes and mouth are both black. It shares the same model with the Orange Tabby and the Moon Cat.\n\nTrait\nEvery 80 seconds, the Cat naps for 10 seconds. Nearby plants within 10 studs will have their new fruit grow 1.25x larger.",
+    "mValue": "200000000"
   },
   {
     "mId": 10,
     "mName": "Chicken",
     "mNameIcon": "chicken.webp",
     "mTier": "Uncommon",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Uncommon Egg",
     "mHatch_chance": "25%",
     "mPassive": "Increases egg hatch speed by 10%.",
-    "mGeneral": "The Chicken is an Uncommon pet added in the Animal Update. It can be obtained from hatching the Uncommon Egg with a chance of 25%. Its maximum hunger is 3,400. When paired with a Rooster, it grants an 11.45% chance for the Chicken to lay an egg.",
-    "mTrivia": "The Chicken passively increases egg hatch speed by approximately 10%. This boost can stack with other pets as well as Roosters ,kiwi or the Blood Kiwi.",
-    "mValue": "400000"
+    "mGeneral": "The Chicken is an Uncommon pet added in the Animal Update. It can be obtained from hatching the Uncommon Egg with a chance of 25%. Its maximum hunger is 3,400.",
+    "mTrivia": "Appearance\nThe Chicken has a yellow body, orange feet and beak, and a red comb.\n\nTrait\nThe Chicken passively increases egg hatch speed by approximately 10%. This boost can stack with other pets as well as the Rooster, Kiwi and the Blood Kiwi.",
+    "mValue": "25000000"
   },
   {
     "mId": 11,
     "mName": "Deer",
     "mNameIcon": "deer.webp",
     "mTier": "Uncommon",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Uncommon Egg",
     "mHatch_chance": "25%",
     "mPassive": "Gives a 3% chance for berry plants to stay when harvested.",
-    "mGeneral": "The Deer is an Uncommon Pet added in the Animal Update. It can be obtained by hatching the Uncommon Egg with a chance of 25%. The Deer has 2,500 hunger",
-    "mTrivia": "The Deer has a passive trait which gives a 3% chance for berry plants which are (Blueberries, Strawberries, Raspberries, and Celestiberries) to replant themselves when harvested.",
-	"mValue": "200000"
+    "mGeneral": "The Deer is an Uncommon Pet added in the Animal Update. It can be obtained by hatching the Uncommon Egg with a chance of 25%. The Deer has 2,500 hunger.",
+    "mTrivia": "Appearance\nThe Deer is a brown deer with beige antlers and black eyes. It has dark hooves, a beige patch below its mouth, and a beige underside. It shares its model with the Spotted Deer.\n\nTrait\nThe Deer has a passive trait which gives a 3% chance for berry plants to replant themselves when harvested.",
+	"mValue": "10000000"
   },
   {
     "mId": 12,
-    "mName": "Shiba Inu",
-    "mNameIcon": "shibainu.webp",
+    "mName": "Jackalope",
+    "mNameIcon": "jackalope.webp",
     "mTier": "Uncommon",
-    "mObtainable": "No",
-    "mObtaining_method": "Zen Egg",
-    "mHatch_chance": "40%",
-    "mPassive": "Man's Best Tomodachi: Every ~60s, ~15% chance to dig up a random seed from the seed shop with lower chances for higher tiers (eg prismatic)",
-    "mGeneral": "The Shiba Inu was an uncommon, pet, obtainable from the Zen Egg with a 40% chance.\nThe Shiba Inu resembles its real life counterpart.\nMan's Best Tomodachi: Every ~1 Minute, ~15% chance to dig up a random seed!",
-    "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nThe Shiba Inu also resembles the Dog or the Golden Lab, sharing same traits and being the Man's Best Friend.\nLike the Dog and Golden Lab counterpart, it cannot dig up event/limited seeds.\nThe Shiba Inu was inspired by developer Nush's dog named Cadence.",
-	"mValue": "500000000"
+    "mObtainable": "Yes",
+    "mObtaining_method": "Sprout Egg",
+    "mHatch_chance": "31%",
+    "mPassive": "Every 100 seconds, thumps its feet and has a ~15% chance to mutate a nearby fruit, applying the Sandy mutation!",
+    "mGeneral": "The Jackalope is an obtainable, limited time pet, that was released on the Beanstalk Event Update.",
+    "mTrivia": "Appearance\nThe appearance of the Jackalope is similar to the mythical animal which goes by the same name, it features a full light brownish body with a pink nose and dark brown antelope horns.\n\nTrait\nEvery 100 seconds, thumps its feet and has a 15% chance to mutate a nearby fruit, applying the Sandy mutation.",
+	"mValue": "400000000"
   },
   {
     "mId": 13,
@@ -177,12 +177,12 @@
     "mName": "Monkey",
     "mNameIcon": "monkey.webp",
     "mTier": "Rare",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Rare Egg",
     "mHatch_chance": "8.33%",
-    "mPassive": "Selling fruit has a chance to refund it to your inventory (2.5%). Rarer fruits have a lower refund chance.",
-    "mGeneral": "The Monkey is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 8.33%.",
-    "mTrivia": "The Monkey has a passive trait that gives a ~2.5% chance of refunding a fruit back to the player when selling it. Rarer fruits have a lower refund chance.",
+    "mPassive": "~2.5% to refund fruit back to your inventory. Rarer plants have a lower chance to refund.",
+    "mGeneral": "The Monkey is a rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 8.33%.",
+    "mTrivia": "Appearance\nThe Monkey closely resembles that of a real monkey, having two large ears, two arms and legs, and a long, curly tail. It is mostly a dark, chocolaty brown with a bright and paler brown color for its inner ears, face, underbelly, hands, and feet. It has rectangular black eyes and a dark brown smile.\n\nTrait\nThe Monkey has a passive trait that gives a ~2.5% chance of refunding a plant back to the player when selling. Rarer plants have a lower refund chance.",
 	"mValue": "15000000"
   },
   {
@@ -190,52 +190,52 @@
     "mName": "Orange Tabby",
     "mNameIcon": "orange_tabby.webp",
     "mTier": "Rare",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Rare Egg",
     "mHatch_chance": "33.33%",
     "mPassive": "Every 90 seconds, naps for 15 seconds and causes new fruit within 15 studs to grow 1.5x larger.",
     "mGeneral": "The Orange Tabby is a Rare pet added in the Animal Update. It can be obtained from hatching the Rare Egg with a chance of 33.33%. The Orange Tabby has 1,500 hunger.",
-    "mTrivia": "Every 90 seconds, the Orange Tabby takes a 15 second nap. After the nap, any new fruit within 15 studs will grow 1.5x larger.",
-	"mValue": "8000000000000"
+    "mTrivia": "Appearance\nThe Orange Tabby is a recolor of the Cat, having an orange body and pink inner ears & nose.\n\nTrait\nEvery 90 seconds, the Orange Tabby takes a 15 second nap. After the nap, any new fruit within 15 studs will grow 1.5x larger.\n\nThis pet shares a similar ability with Moon Cat and Cat.\n",
+	"mValue": "150000000000"
   },
   {
     "mId": 14,
     "mName": "Pig",
     "mNameIcon": "pig.webp",
     "mTier": "Rare",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Rare Egg",
     "mHatch_chance": "16.67%",
     "mPassive": "Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.",
-    "mGeneral": "The Pig is an Uncommon pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.",
-    "mTrivia": "The Pig has a passive trait which allows it to emit a 15 second aura every 118 seconds that grants a 2x chance for the nearest plant within 15 studs to grow mutated fruits. This trait can only affect fruits that have not fully grown.",
-	"mValue": "10000000"
+    "mGeneral": "The Pig is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.",
+    "mTrivia": "Appearance\nThe Pig has a pink body, ears, and snout, and brown hooves. The Pig's face is on one end of the body rather than a head.\n\nTrait\nEvery 118 seconds, emits an aura for 15 seconds granting 2x chance for new fruit to grow as variants within 15 studs! (Rainbow and Gold)",
+	"mValue": "60000000000"
   },
   {
     "mId": 15,
     "mName": "Rooster",
     "mNameIcon": "rooster.webp",
     "mTier": "Rare",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Rare Egg",
     "mHatch_chance": "16.67%",
     "mPassive": "Increases egg hatch speed by ~20%.",
-    "mGeneral": "The Rooster is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.",
-    "mTrivia": "The Rooster has a passive trait that increases egg hatch speed by ~20%.",
-	"mValue": "8000000"
+    "mGeneral": "The Rooster is a rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.",
+    "mTrivia": "Appearance\nThe Rooster has a blue base with an orange head along with orange feet, a red beak, and a red comb. It shares most of its model with the Chicken.\n\nTrait\nThe Rooster has a passive trait that increases egg hatch speed by ~20%.\nIf the user holds 8 roosters, eggs hatch in 16.77% of the time they would normally need (example: Bug Egg: Base time = 8 hours -> 1.34 hours, which is roughly 1 hour 20 minutes.",
+	"mValue": "75000000000"
   },
   {
     "mId": 16,
     "mName": "Spotted Deer",
     "mNameIcon": "spotteddeer.webp",
     "mTier": "Rare",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Rare Egg",
     "mHatch_chance": "25%",
     "mPassive": "Gives a 5% chance for berry plants to stay when harvested.",
     "mGeneral": "The Spotted Deer is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 25%. The Spotted Deer has 2,500 hunger.",
-    "mTrivia": "The Spotted Deer has a passive trait which gives a 5% chance for berry plants to not disappear when harvested.",
-	"mValue": "5000000"
+    "mTrivia": "Appearance\nThe Spotted Deer is a recolor of the Deer, with white spots on its snout and forehead.\n\nTrait\nGives a 5% chance for berry plants to stay when harvested.",
+	"mValue": "50000000000"
   },
   {
     "mId": 17,
@@ -259,9 +259,9 @@
     "mObtaining_method": "Rare Summer Egg",
     "mHatch_chance": "30%",
     "mPassive": "Flamboyance: Occasionally stands on one legs and all nearby plants will grow incredibly fast",
-    "mGeneral": "The Flamingo resembles a stereotypical cartoonish flamingo. It has a long neck, legs, and beak. It is mostly a bubblegum pink, having its entire body that color as well as most of its beak and pair of wings. Its long, curved legs are more of a salmon pink color and its beak has a black tip on the end of it. Its face consists of two large eyes with a white sclera and black pupils.\nFlamboyance: Every ~4 minutes, stands on one leg for ~15 seconds. All plants and fruits/crops within ~13 studs grows ~15x faster.",
-    "mTrivia": "Ability does not make fruits/crops grow larger.\nUseful for fruits/crops that takes time to grow such as Moon Mango, Sunflower, and more.\nUseless for growing plants because watering can is significantly better.\nMoving plants using Trowel close to Flamingo works.",
-	"mValue": "15000000000"
+    "mGeneral": "The Flamingo is an obtainable, rare pet released in the Summer Update and is obtainable in the Rare Summer Egg with a 17% of being in the egg shop.",
+    "mTrivia": "Appearance\nThe Flamingo resembles a stereotypical cartoonish flamingo. It has a long neck, legs, and beak. It is mostly a bubblegum pink, having its entire body the same color, as well as most of its beak and pair of wings. Its long, curved legs are more of a salmon pink color and its beak has a black tip on the end of it. Its face consists of two large eyes with a white sclera and black pupils.\n\nTrait\nFlamboyance: Every ~4 minutes, stands on one leg for ~15 seconds. All crops and produces within ~13 studs grow ~15x faster.\n\nMoving plants using Trowel close to Flamingo works.",
+	"mValue": "1500000000000"
   },
   {
     "mId": 19,
@@ -272,8 +272,8 @@
     "mObtaining_method": "Rare Summer Egg",
     "mHatch_chance": "25%",
     "mPassive": "Tropical Lover: Makes all nearby Tropical type plants have increased variant chance and grow bigger",
-    "mGeneral": "The appearance of the Toucan is similar to that of the Seagull's, being a bird. It is mostly black with an overall stubby appearance. It has small wings and feet, but a large beak. Its feet are cerulean, and its beak is a scarlet color on top that fades into a sunset orange. It also has two white circles around its light brown and black eyes.\nTropical Lover: Grants all tropical plants within 25.77 studs, a 1.70x size bonus!\n\nGrants all tropical plants within 25.77 studs, a 1.18x variant chance bonus! (Rainbow and Gold)",
-    "mTrivia": "Works similarly like Praying Mantis, but it only works to tropical type plants, and Praying Mantis does not make fruits/crops grow bigger.\nTropical refers to Banana, Coconut, Dragon Fruit, Durian, Honeysuckle, Mango, Papaya, Parasol Flower, Passionfruit, Pineapple, and Pitcher Plant.\nMoving plants closer to Toucan with Trowel does not work. The plant must be existing already.\n\"Increased Variant Chance\" means higher chance of getting Growth Mutations (Gold or Rainbow). Does not affect chances of getting Environmental Mutations (Frozen, Wet, Chilled, etc.)",
+    "mGeneral": "The Toucan is a rare pet released in the Summer Update.",
+    "mTrivia": "Appearance\nThe appearance of the Toucan is similar to that of the Seagull's, being a bird. It is mostly black with an overall stubby appearance. It has small wings and feet, but a large beak. Its feet are cerulean, and its beak is a scarlet color on top that fades into a sunset orange. It also has two white circles around its light brown and black eyes.\n\nTrait\nTropical Lover: Grants all tropical plants within ~25 studs, a ~1.2x size bonus and a ~1.18x variant chance bonus!\n\nMoving plants closer to Toucan with Trowel does not work. The plant must be existing already.\n\nThe Toucan makes a chirping sound occasionally.",
 	"mValue": "650000000000"
   },
   {
@@ -284,9 +284,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Rare Summer Egg",
     "mHatch_chance": "20%",
-    "mPassive": "Shell Share: Occasionally shares its wisdom to a random active pet granting bonus experience & Water Splash: Occasionally has a chance to Wet a nearby fruit",
-    "mGeneral": "The Sea Turtle has a simple shape. It is flat with four flippers, a large head and a dome-shaped shell. Its body is a grassy green, and its shell is a dark, foresty green. It has one black eye on either side of its face and doesn't appear to have a mouth.\nShell Share: Every ~10 minutes, shares its wisdom with a random pet, granting ~1000 bonus experience!\n\nWater Splash: Every ~118 seconds, splashes water at a nearby fruit and it has a 10% chance to become Wet!",
-    "mTrivia": "The splashed water does not make the growing plants and growing fruits/crops grow bigger nor faster. It can only affect fully grown Fruits/Crops nearby.",
+    "mPassive": "Every ~11minutes, shares its wisdom with a random pet, granting 1k bonus experience!\nEvery 150seconds, splashes water at a nearby fruit and it has some chance to get Wet mutation!",
+    "mGeneral": "The Sea Turtle is an obtainable, rare pet released in the Summer Update",
+    "mTrivia": "Appearance\nThe Sea Turtle has a simple shape. It is flat with four flippers, a large head and a dome-shaped shell. Its body is a grassy green, and its shell is a dark, foresty green. It has one black eye on either side of its face and doesn't appear to have a mouth.\n\nTrait\nShell Share: Every ~12 minutes, shares its wisdom with a random pet, granting ~1000 bonus experience!\n\nWater Splash: Every ~118 seconds, water splashes at a nearby fruit and it has a 10% chance to become Wet!\n\nThe splashed water does not make the growing plants and growing fruits/crops grow bigger nor faster. It can only affect fully grown Fruits/Crops nearby.\n\nSea turtle can try to apply wet mutation to fruits with drenched or frozen mutation, the fruits however wont get it even if applied successfully\n\nIf players want to make crops become Frozen from Sea Turtle and Polar Bear/Sushi Bear, it's recommended to put down Sea Turtle first, then Polar Bear/Sushi Bear after player's crop got the Wet mutation. It prevent player's fruits from being splash by Sea Turtle after gotten Frozen on a fruit",
 	"mValue": "200000000000"
   },
   {
@@ -298,9 +298,9 @@
     "mObtaining_method": "Rare Summer Egg",
     "mHatch_chance": "15%",
     "mPassive": "Helping Hands: When crafting, each material has a chance for it not to be consumed",
-    "mGeneral": "The Orangutan has a more complex build than many pets. It has a round face, two large arms, and two legs behind it. It also has noticeable hands and feet with them being smaller in diameter than its arms and legs. Its back is a subtle orange color, and the rest of its \"fur\" is a burnt orange color. Its face, ears, and paws are an ashy gray. Its face has two black eyes, two large ears, and a snout with two nostrils and a smile.",
-    "mTrivia": "Helping Hands: When crafting, each material has a (3.49%) chance for it not to be consumed.",
-	"mValue": "30000000000"
+    "mGeneral": "The Orangutan is a rare pet released in the Summer Update.",
+    "mTrivia": "Appearance\nThe Orangutan has a more complex build than many pets. It has a round face, two large muscular arms, and two legs behind it. It also has noticeable hands and feet with them being smaller in diameter than its arms and legs. Its back is a subtle orange color, and the rest of its \"fur\" is a burnt orange color. Its face, ears, and paws are an ashy gray. Its face has two black eyes, two large ears, and a snout with two nostrils and a smile, noticeably, the orangutan has flanges, meaning all Orangutans in grow a garden are exclusively male.\n\nTrait\nHelping Hands: When crafting, each material has a ~3.49% chance for it not to be consumed.",
+	"mValue": "20000000000000"
   },
   {
     "mId": 22,
@@ -310,9 +310,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Rare Summer Egg",
     "mHatch_chance": "10%",
-    "mPassive": "Seal the Deal: When selling pets, has a 2.42% chance to get the pet back as its egg equivalent",
-    "mGeneral": "The Seal has a fairly simple appearance. Its entire body is one color, being a slightly brownish gray. It has its head picked up by its neck, two flippers, on either side of it towards the front of its body, and a tail. On its face, it has a black eye on each side of its face and a snout that pops out the front that has a small brown nose.",
-    "mTrivia": "Seal the Deal: When selling pets, has a 2.42% chance to get the pet back as its egg equivalent.",
+    "mPassive": "Seal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent!",
+    "mGeneral": "The Seal is an obtainable, rare pet released in the Summer Update.",
+    "mTrivia": "Appearance\nThe Seal has a fairly simple appearance. Its entire body is one color, being a slightly brownish gray. It has its head picked up by its neck, two flippers, on either side of it towards the front of its body, and a tail. On its face, it has a black eye on each side of its face and a snout that pops out the front that has a small brown nose.\n\nTrait\nSeal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent ( cap at 8% ). Cannot refund rainbow/exotic/premium eggs.\n\nMedium Toy boosts the passive by 0.5 %\n\nSmall Toy boosts the passive by 0.25 %\nThe Seal has percentage cap of 8% max, meaning the best possible egg return outcome with maxed seals and all unlocked pet slots is 64% .\n\nThe seal can't recover exotic/premium/rainbow eggs because of a bug people found.\n\nPreviously, Nihonzaru has a maximum buff of 1.32 % on this pet before it was nerfed,",
 	"mValue": "18000000000"
   },
   {
@@ -324,12 +324,12 @@
     "mObtaining_method": "Rare Egg",
     "mHatch_chance": "25%",
     "mPassive": "Every ~20 minutes flies to a nearby fruit and pollinates it, giving it a pollinated mutation",
-    "mGeneral": "The Honey Bee is a rare Pet introduced in the Bizzy Bee Event update.\nThe Honey Bee can be obtained in the Bee Egg for  18.\nThe Honey Bee has 25,000 hunger.",
-    "mTrivia": "Every ~20m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation. This trait is exactly same with Bee, but with shorter cooldown.",
+    "mGeneral": "The Honey Bee is a rare Pet introduced in the Bizzy Bee Event update.\n\nThe Honey Bee can be obtained in the Bee Egg, which can be bought for 18 Honey or 129 Roblux.\n\nThe Honey Bee has 25,000 hunger.",
+    "mTrivia": "Appearance\nSharing the same model as a Bee, but with an overall honey glazed appearance. The Honey Bee features yellow-gold wings, a more orange-tinted look and falling honey particles.\n\nTrait\nEvery ~20m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation. This trait is exactly same with Bee, but with shorter cooldown.\nThe Honey Bee is sometimes confused with the Golden Bee, because of its similar appearance.\n\nThis pet is an upgrade of the Bee.",
 	"mValue": "200000000000"
   },
   {
-    "mId": 24,
+     "mId": 24,
     "mName": "Wasp",
     "mNameIcon": "wasp.webp",
     "mTier": "Rare",
@@ -337,8 +337,8 @@
     "mObtaining_method": "Anti Bee Egg",
     "mHatch_chance": "55%",
     "mPassive": "Every 30m, the Wasp flies to a nearby fruit and pollinates it, applying the Pollinated mutation.\nEvery 10m, the Wasp stings a random pet and advances its ability cooldown by 60s.",
-    "mGeneral": "The Wasp can be obtained from the Anti Bee Egg, which can be bought from the Limited Time Shop for  149 or crafted at the Bizzy Bear for:\n25 Honey + 1x Bee Egg = 1x Anti Bee Egg\nThe Wasp has a yellow and brown body with 4 beige wings and 2 antennas. Its face looks angry like it wants to sting the player.",
-    "mTrivia": "Every 30 minutes, the Wasp flies to a nearby fruit and pollinates it, applying the Pollinated mutation. When pollination occurs, the following message appears: Wasp applied Pollinated mutation to the [Plant].\nEvery 10 minutes, the Wasp stings a random pet and advances its ability cooldown by 60 seconds.",
+    "mGeneral": "The Wasp is a rare pet introduced in the Friendship Update. The Wasp has 28,000 hunger. It can be obtained from the Anti Bee Egg with a 55% chance, which could be bought from the Limited Time Shop for 149 Roblux, or crafted with 1 Bee Egg and 25 Honey.",
+    "mTrivia": "Appearance\nThe Wasp has a curved figure, with a darkened yellow body and a brighter yellow-black striped abdomen, sporting two pairs of dark yellow wings and an aggressive face.\n\nTrait\nEvery 30 minutes, the Wasp flies to a nearby fruit and pollinates it, applying the Pollinated mutation. When pollination occurs, the following message appears: Wasp applied Pollinated mutation to the Plant.\nEvery 10 minutes, the Wasp stings a random pet and advances its ability cooldown by 60 seconds.",
 	"mValue": "150000000000"
   },
   {
@@ -375,9 +375,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Mythical Egg",
     "mHatch_chance": "35.71%",
-    "mPassive": "Gains 500 bonus experience every 10 minutes. Increases the player's movement speed by 10%.",
-    "mGeneral": "The Grey Mouse is a Mythical pet added in the Blood Moon Event Update. It can be obtained from hatching the Mythical Egg with a chance of 35.71%. It has 15,000 hunger.",
-    "mTrivia": "The Grey Mouse's passive trait allows it to gain 500 bonus experience every 10 minutes and increase the player's movement speed by 10%.",
+    "mPassive": "Whisker Wisdom - Gains 500 bonus experience every 10 minutes. Increases the player's movement speed by 10% (Slightly increases as the player's pet(s) get(s) older).",
+    "mGeneral": "The Grey Mouse is a Legendary pet added in the Blood Moon Event Update. It can be obtained with a 35.71% chance from hatching the Mythical Egg. It has 15,000 hunger.",
+    "mTrivia": "Appearance\nThe Grey Mouse has gray fur, pink inner ears, and black facial features.\n\nTrait\nThe Grey Mouse's passive trait allows it to gain ~500 bonus experience every ~10 minutes and increase the player's movement speed by ~10%.\n\nNote: The ~500 bonus XP only applies to itself and does not affect other pets.\n\nThe Grey Mouse, Brown Mouse, Starfish, Mochi Mouse and Tanuki (when it rolls for experience) are the only pets that gain bonus experience.",
 	"mValue": "2000000000"
   },
   {
@@ -386,11 +386,11 @@
     "mNameIcon": "tarantulahawk.webp",
     "mTier": "Legendary",
     "mObtainable": "Yes",
-    "mObtaining_method": "Anti Bee Egg",
+    "mObtaining_method": "Anti Bee Egg - Premium Anti Bee Egg",
     "mHatch_chance": "30%",
-    "mPassive": "Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate.\nRaptor Dance: Grants additional 14% - 14.5% increase to player movement speed!",
-    "mGeneral": "The Raptor seems to look like the Jurassic Park Raptors, but with green skin, and a long tail. (Not to be confused with the T-Rex's appearance)\n Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate. (+0.0475% mutation chance per level up.)\nRaptor Dance: Grants additional 14% - 14.5% increase to player movement speed! (+0.0475% player movement speed per level up.)\n",
-    "mTrivia": "Every 25 minutes, the Tarantula Hawk flies to a nearby fruit and pollinates it, applying the Pollinated mutation. When pollination occurs, the following message appears: Tarantula Hawk applied Pollinated mutation to the plant.\n\nEvery 5 minutes, the Tarantula Hawk stings a random pet and advances its ability cooldown by 80 seconds.",
+    "mPassive": "Wasp Pollinator - Every 25m, the Tarantula Hawk flies to a nearby fruit and pollinates it, applying the Pollinated mutation.\nTarantula Stinger - Every 5m, the Tarantula Hawk stings a random pet and advances its ability cooldown by ~ 80s.",
+    "mGeneral": "The Tarantula Hawk is a legendary Pet introduced in the Friendship Update.\n\nThe Tarantula Hawk has 28,000 hunger.\n\nThe Tarantula Hawk can be obtained from the Anti Bee Egg, which can be bought from the Limited Time Shop for  149 or crafted at the Cosmetics Shop for:\n1 Bee egg\n 25 Honey",
+    "mTrivia": "Appearance\nThe Tarantula Hawk resembles the Wasp, but has a different texture with a blue body and red-yellow wings. It's based off of its real-life counterpart, being the tarantula hawk.\n\nTrait\nRarer than the Wasp, the Tarantula Hawk shares its traits but is better, with a 25-minute pollination cooldown (vs. 30), a 5-minute sting cooldown (vs. 10), and an ability cooldown reduced by 80 seconds (vs. 60).\n\nThe ability \"Tarantula Stinger\" can reduce the cooldown of pet mutation abilities, if the pet already doesn't have an active ability.\n\nWhen the Tarantula Hawk first released, the ability \"Tarantula Stinger\" used to target pets without an active ability. This was later patched.",
 	"mValue": "400000000000"
   },
   {
@@ -466,9 +466,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Bug Egg 40%\nExotic Bug Egg 25%",
     "mHatch_chance": "40%",
-    "mPassive": "Leaf lover passive : Leafy Plants grow 2.42x faster.",
-    "mGeneral": "The Caterpillar is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a chance of 40%.\nThe Caterpillar is a short, green caterpillar with 8 dark green legs. Its body is made up of several small segments with various shades of green.",
-    "mTrivia": "The Caterpillar has a passive trait which makes all leafy plants grow 1.65x faster. This only applies to plants directly from seeds.",
+    "mPassive": "Leaf lover passive : Leafy Plants grow 1.5x-2.5x faster.",
+    "mGeneral": "The Caterpillar is a legendary Pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a chance of 40%.",
+    "mTrivia": "Appearance\nThe Caterpillar is a short, green insect with 6 dark green legs and 2 light green ones. Its body is made up of two large black eyes and several small segments with mainly light and dark green body parts.\n\nTrait\nThe Caterpillar has a passive trait which makes all leafy plants grow 1.5x-2.5x faster. This only applies to plants directly from seeds.",
 	"mValue": "250000000000"
   },
   {
@@ -477,11 +477,11 @@
     "mNameIcon": "snail.webp",
     "mTier": "Legendary",
     "mObtainable": "Yes",
-    "mObtaining_method": "Bug Egg",
+    "mObtaining_method": "Bug Egg 30%\nExotic Bug Egg 40%",
     "mHatch_chance": "40%",
-    "mPassive": "Extra 5% chance harvested plants drop seeds.",
-    "mGeneral": "The Snail is a Mythical pet added in the Animal Update. It has a 40% chance of being hatched from a Bug Egg. The Snail has 12,000 hunger.",
-    "mTrivia": "The Snail provides an additional 5% chance (Lower chance for rarer plants) for a harvested plant to yield a seed. Its trait can stack with other Snails.",
+    "mPassive": "Extra 5.08% chance harvested plants drop seeds. Rarer plants have a lower chance to drop seeds",
+    "mGeneral": "The Snail is a legendary pet added in the Animal Update. It has a 30% chance of being hatched from a Bug Egg. The Snail has 12,000 hunger.",
+    "mTrivia": "Appearance\nThe Snail has a beige body and eye stalks, as well as a brown shell with a swirl pattern. Its eyes and mouth are both black.\n\nTrait\nThe Snail provides an additional 5.08% chance for a harvested plant to yield a \nHistory\nUpdate 1.04.0 - The Snail was released.\nUpdate 1.14.0 - The Snail's tier was changed from Mythical to Legendary.",
 	"mValue": "8000000000"
   },
   {
@@ -492,9 +492,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Bee Egg",
     "mHatch_chance": "4%",
-    "mPassive": "Every 24:46m flies to a nearby fruit and pollinates it, applying Pollinated mutation! 1.17% chance Flower type fruit stays after harvest!",
-    "mGeneral": "The Petal Bee is a Legendary Pet added in the Bizzy Bee Event update.\nThe Petal Bee can be obtained in the Bee Egg for which can be purchased for  18.\nThe Petal Bee has 25,000 hunger.",
-    "mTrivia": "Every 24:46m flies to a nearby fruit and pollinates it, applying Pollinated mutation! 1.17% chance Flower type fruit stays after harvest!",
+    "mPassive": "Every ~25 minutes, it flies to a nearby fruit and pollinates it, applying Pollinated mutation. ~1% chance Flower type fruit stays after harvest.",
+    "mGeneral": "in: Pages with broken file links, Pets, Legendary, Mutation-Applying Pets\nPetal Bee\nView source\n\nPetal Bee\n\nThe Petal Bee\nInfo\nTier\n\nObtaining method\nBee Egg\nHatch Chance\n4%\nPassive\nEvery ~25 minutes, it flies to a nearby fruit and pollinates it, applying Pollinated mutation. ~1% chance Flower type fruit stays after harvest.\nObtainable?\nYes\nDate Added\nMay 31, 2025\n\n\n\nContents\n1\tOverview\n2\tAppearance\n3\tTrait\n4\tGallery\n\nUnmute\n\nAdvanced Settings\n\nFullscreen\n\nPause\n\nRewind 10 Seconds\n\nUp Next\n\n\nOverview\nThe Petal Bee is a Legendary Pet added in the Bizzy Bee Event update.\n\nThe Petal Bee can be obtained from the Bee Egg with a 4% hatch chance, which can be purchased for 18 Honey or 129 Roblux (From the Honey Merchant).\n\nThe Petal Bee has 25,000 hunger.",
+    "mTrivia": "Appearance\nThe Petal Bee resembles the Bee, but it's recolored as white with pink stripes and antennae. It also has a pink flower trail.\n\nTrait\nEvery ~25 minutes, flies to a nearby fruit and pollinates it, applying Pollinated mutation.\n\n~1% chance Flower type fruit stays after harvest.",
 	"mValue": "700000000000"
   },
   {
@@ -503,11 +503,11 @@
     "mNameIcon": "moth.webp",
     "mTier": "Legendary",
     "mObtainable": "Yes",
-    "mObtaining_method": "Anti Bee Egg",
+    "mObtaining_method": "Anti Bee Egg\nPremium Anti Bee Egg",
     "mHatch_chance": "13,75%",
     "mPassive": "Silk song:\nEvery ~13 minutes, restores 100% hunger of a random pet by singing to it",
-    "mGeneral": "The Moth can be obtained from the Anti Bee Egg, which can be bought from the Limited Time Shop for  149 or crafted at the Bizzy Bear for:\n25 + 1x Bee Egg = 1x Anti Bee Egg",
-    "mTrivia": "Every ~13 minutes, restores 100% hunger of a random pet by singing to it.\nHaving two active moths can totally restore the entire pets' hunger so they don't have to be fed anymore.",
+    "mGeneral": "The Moth is a legendary Pet introduced in the Friendship Update.\n\nThe Moth has 25.000 hunger.\n\nObtainment\nThe Moth can be obtained from the Anti Bee Egg, which can be bought from the Limited Time Shop for 149 Roblux or crafted at the Bizzy Bear for:\n\n 25 Honey + 1x Bee Egg = 1x Anti Bee Egg",
+    "mTrivia": "Appearance\nIt is a light blue color with large black square eyes and a small smiling mouth. It has two short black antennae on top of its head, six stubby legs, and a pair of long translucent wings. Looks something like a honeybee just a grey variant and a smaller body.\n\nTrait\nEvery ~13 minutes, restores 100% hunger of a random pet by singing to it.\nHaving two active moths can totally restore the entire pets' hunger so they don't have to be fed anymore.",
 	"mValue": "2000000000000"
   },
   {
@@ -518,9 +518,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Paradise Egg",
     "mHatch_chance": "8%",
-    "mPassive": "Verdant Bird: Every 12:00m, 16% chance to mutate a nearby fruit, applying the Verdant mutation.",
-    "mGeneral": "The Scarlet Macaw is an obtainable Legendary pet from the Summer Update.\nThe appearance of the Scarlet Macaw closely resembles the Toucan in terms of proportions and build. It has a pair of wings, two feet, and a small beak. It has a vibrant red body that covers most of it. It has a bright yellow stripe on its wings, followed by a blue tip on the rest of its wings. It has pale yellow feet, white circles around its eyes and a black beak.",
-    "mTrivia": "Verdant Bird: Every ~9:00m, 16.00% chance to mutate a nearby fruit (chance can vary by age), applying the Verdant mutation.\n\nWhen performing this, the Scarlet Macaw will have a rainbow aura with feathers surrounding it.\nWhen There Is no nearby fruits, the Scarlet Macaw skips its ability and the Cooldown starts again. This is similar to other pets that give mutations to nearby fruits like Dragonfly, Butterfly, Disco Bee, Chicken Zombie, Cooked Owl, and Hyacinth Macaw.\nThe Scarlet Macaw Has Another Variant Called Hyacinth Macaw, Which Instead of Giving the Verdant Mutation, It gives the Cloudtouched Mutation.",
+    "mPassive": "Verdant Bird: Every 8:00m, 16% chance to mutate a nearby fruit, applying the Verdant mutation.",
+    "mGeneral": "The Scarlet Macaw is an obtainable Legendary pet from the Summer Update.",
+    "mTrivia": "Appearance\nThe appearance of the Scarlet Macaw closely resembles the Toucan in terms of proportions and build. It has a pair of wings, two feet, and a small beak. It has a vibrant red body that covers most of it. It has a bright yellow stripe on its wings, followed by a blue tip on the rest of its wings. It has pale yellow feet, white circles around its eyes and a black beak.\n\nIts shape is identical to the Hyacinth Macaw pet, but the colors are much different.\n\nTrait\nVerdant Bird: Every ~8:00m, 16.00% chance to mutate a nearby fruit (chance can vary by age), applying the Verdant mutation.\n\nWhen performing this, the Scarlet Macaw will have a rainbow aura with feathers surrounding it.\n\nWhen there are no nearby fruits, the Scarlet Macaw skips its ability and the cooldown starts again.\nThe Scarlet Macaw has another variant, called Hyacinth Macaw, that instead of giving the Verdant Mutation, gives the Cloudtouched Mutation.\n\nIn the new updated Pet Menu, the Scarlet Macaw appears to have two cooldowns. One is ~8 seconds and appears to do nothing, and the second one is its normal ability.",
 	"mValue": "25000000000000"
   },
   {
@@ -532,8 +532,8 @@
     "mObtaining_method": "Paradise Egg",
     "mHatch_chance": "40%",
     "mPassive": "Eggsperience: Grants pets hatched from eggs an age bonus",
-    "mGeneral": "The appearance of the Ostrich is unique to most other pets. It has a long neck and slightly long legs. It also has two wings and a puffy tail in the back. Its body is black as well as most of its wings and tail, but its wings and tail are tipped white. Its face, neck, and feet are of a neutral beige color. Its face has two black eyes, a large, pale orange beak, and pink cheeks.",
-    "mTrivia": "Eggsperience: Grants pets hatched from eggs an age bonus.",
+    "mGeneral": "The Ostrich is an obtainable legendary pet released in the Summer Update.",
+    "mTrivia": "Appearance\nThe appearance of the Ostrich is unique to most other pets. It has a long neck and slightly long legs. It also has two wings and a puffy tail in the back. Its body is black as well as most of its wings and tail, but its wings and tail are tipped white. Its face, neck, and feet are of a neutral beige color. Its face has two black eyes, a large, pale orange beak, and pink cheeks.\n\nTrait\nEggsperience: Grants pets hatched from eggs an age bonus.\n\nThis trait can be stacked with other active ostriches.\n\nThere was a bug where Ostrich does not increase pet weight according to their level. This is a massive nerf because usually, when pets levels up, their weight increases too.\n\nPet Stats (Ability Cooldown, Ability Chance, etc) actually depends on pet weight, not level (although there are Pet Stats which stays the same no matter the level and weight, such as Triceratops).\n\nThis bug was patched after a while.\n\nThe Ostrich's maximum age bonus per hatch is capped at 10, beyond this point, weight nor age affects the ability further. This makes it ill advised to continue leveling the Ostrich or hatching a Giant variant once the cap is reached.\n\nAlthough the Ostrich's maximum age bonus is limited, stacking multiple ostriches together can increase the pet's age beyond 10, making it possible to instantly hatch a pet with up to level 80 (8 maxed age bonus ostriches at once.\n\nDespite being the most common pet in the Paradise Egg, it can be considered to be immensely useful under certain conditions due to its unique ability.",
 	"mValue": "500000000000"
   },
   {
@@ -545,8 +545,8 @@
     "mObtaining_method": "Paradise Egg",
     "mHatch_chance": "30%",
     "mPassive": "Utter Beauty: Occasionally fans its feathers and all nearby pets will advance ability cooldowns",
-    "mGeneral": "The Peacock is a very colorful pet. It is built very uniquely, and has a long neck, a crest on its head, a long beak, two wings, two legs, and a feathery tail. Its body and most of its crest is a royal blue, and its wings, tail, and crest tips are a vibrant green. Its beak is a sandy tan color as well as some specks on the top and bottom of each feather on its tail. Its legs are a sunny yellow as well as its eyes. It has a feminine pupil shape with the eyelashes on each eye.",
-    "mTrivia": "Utter Beauty: Occasionally fans its feathers every ~10 minutes and all nearby pets will advance ability cooldowns by ~60 seconds.",
+    "mGeneral": "The Peacock is a legendary pet released in the Summer Update. It can be obtained with a 30% chance by hatching a Paradise Egg.",
+    "mTrivia": "Appearance\nThe Peacock is a very colorful pet like its real-life counterpart. It is built very uniquely with a long neck, a crest on its head, a long beak, two wings, two legs, and a feathery tail. Its body and most of its crest are a royal blue, and its wings, tail, and crest tips are a vibrant green. Its beak is a sandy tan color as well as some specks on the top and bottom of each feather on its tail. Its legs are a sunny yellow as well as the spots around its eyes. It has a feminine pupil shape with eyelashes on each eye.\n\nTrait\nUtter Beauty: Occasionally fans its feathers every ~10 minutes and all nearby pets will advance ability cooldowns by ~60 seconds.\n\nMax buff can gain from a Nihonzaru are:\n\nCooldown : -36 seconds.\nRange : +1.2 studs.\nTime Advanced : +3.6 seconds.\nMedium Toy buff are:\n\nCooldown: -121 seconds.\nRange: +4 studs.\nTime Advanced : +13 seconds.\nSmall Toy is the same as Medium toy but equal 1/2 it.\n\nAs of v1747, Minimum cooldown is now 15 seconds.",
 	"mValue": "330000000000"
   },
   {
@@ -558,8 +558,8 @@
     "mObtaining_method": "Paradise Egg",
     "mHatch_chance": "21%",
     "mPassive": "Chill Zone: All pets within 15.48 studs won`t lose hunger and will gain 3.48xp every second.",
-    "mGeneral": "The appearance of the Capybara is quite simple. It has a large head and snout as well as a chubby body. It has little feet as well as small ears on the top of its head. It's a cocoa-colored brown with darker brown ears, front of its snout, and bottom of its feet. Each of its feet have three small toes on it. The front of its snout also has a smile.\nChill Zone: Nearby pets' hunger will not go down and they will gain additional exp per second.\n",
-    "mTrivia": "Ability is always active. Once another pet gets close to the Capybara, they will immediately gain extra exp per second and they will not lose hunger.\nIf the other pet has zero hunger, it will not gain bonus exp from Capybara — similar to how Owls work.",
+    "mGeneral": "The Capybara is an obtainable legendary pet released in the Summer Update.",
+    "mTrivia": "Appearance\nThe appearance of the Capybara is quite simple. It has a large head and snout as well as a chubby body. It has little feet as well as small ears on the top of its head. It's a cocoa-colored brown with darker brown ears, front of its snout, and bottom of its feet. Each of its feet have three small toes on it. The front of its snout also has a smile.\n\nTrait\nChill Zone: All pets within ~15.5 studs won't lose hunger and will gain ~3XP every second before aging. The boost increases as the Capybara ages.\nAbility is always active. Once another pet gets close to the Capybara, they will immediately gain extra XP per second, and they will not lose hunger.\n\nUnlike how Owls work, the Capybara's ability affects pets with no hunger remaining.\n\nCapybara's ability will stack with other capybaras if they are in the same area of effect.\n\nBefore zen update part 2. Capybara's ability stop from time to time when either having multiple players. or when unequipping and equipping pets. As of now it has been fixed.",
 	"mValue": "1500000000000"
   },
   {
@@ -619,12 +619,12 @@
     "mName": "Sea Otter",
     "mNameIcon": "seaotter.webp",
     "mTier": "Legendary",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Legendary Egg",
     "mHatch_chance": "10.64%",
-    "mPassive": "Every ~30 seconds, sprays water on a nearby plant!",
-    "mGeneral": "The Sea Otter is a Legendary pet added in the Animal Update.\nIt can be obtained by hatching the Legendary Egg with a chance of 10.64%. It has 30,000 hunger.\nThe Sea Otter has dark grey fur, white lower body, black facial features, and brown paws.",
-    "mTrivia": "Every ~30 seconds, the Sea Otter sprays water on the nearest plant within ~15 studs.\n\nThe Sea Otter does not apply any Crop Mutations to the affected plant - it only speeds up growth similar to the Watering Can. The ability is completely random, there is no higher or lower chances for specific rarities.",
+    "mPassive": "Every ~24.70 seconds, sprays water on a nearby plant!",
+    "mGeneral": "The Sea Otter is a Legendary pet added in the Animal Update.\n\nIt can be obtained by hatching the Legendary Egg with a chance of 10.64%. It has 30,000 hunger.",
+    "mTrivia": "Appearance\nThe Sea Otter has dark grey fur, white lower body, black facial features, and brown paws.\n\nTrait\nEvery ~24.70 seconds, the Sea Otter sprays water on the nearest plant within ~15 studs.\n\nThe Sea Otter does not apply any Crop Mutations to the affected plant — it only speeds up growth, similar to the Watering Can. The ability is completely random; there are no higher or lower chances for specific rarities.",
 	"mValue": "800000000"
   },
   {
@@ -632,12 +632,12 @@
     "mName": "Silver Monkey",
     "mNameIcon": "silvermonkey.webp",
     "mTier": "Legendary",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Legendary Egg",
     "mHatch_chance": "42.55%",
     "mPassive": "8% chance to refund crops.",
-    "mGeneral": "The Silver Monkey is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 42.55%. It has 8,000 hunger.\nThe Silver Monkey is a recolor of the Monkey with light and dark gray fur.",
-    "mTrivia": "The Silver Monkey gives an 8% chance to refund crops back to a player's inventory. Rarer crops have a lower chance of receiving these refunds. For example, a Carrot has a higher chance of being refunded than a Candy Blossom.\nThis chance stacks with other Silver Monkeys, as well as Monkeys.",
+    "mGeneral": "The Silver Monkey is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 42.55%. It has about 8,000 hunger.",
+    "mTrivia": "Appearance\nThe Silver Monkey is a recolor of the Monkey with light and dark gray fur.\n\nTrait\nThe Silver Monkey gives an 8% chance to refund crops back to a player's inventory. Rarer crops have a lower chance of receiving these refunds. For example, a Carrot has a higher chance of being refunded than a Candy Blossom.\n\nThis chance stacks with other Silver Monkeys, as well as Monkeys.\nWhen in the Pet Mutator, the Silver Monkey will appear as a regular Monkey. This is most likely a bug.\n\nIf a Silver Monkey that is actively placed in the player's garden has the Inverted mutation, only the eyes invert color. The rest of the model stays the same. This is most likely a bug, as the pet icon for the Inverted Silver Monkey shows the entire pet model with inverted colors.\n\nSame with the Golden mutation. The Silver Monkey will only have golden rays radiating from it instead of the golden color.",
 	"mValue": "600000000000"
   },
   {
@@ -726,9 +726,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Mythical Egg",
     "mHatch_chance": "26.79%",
-    "mPassive": "Gains 750 bonus experience every 8 minutes. Increases the player's jump height by 10%.",
-    "mGeneral": "The Brown Mouse is a Mythical Pet added in the Blood Moon Event Update. It can be obtained from hatching the Mythical Egg with a chance of 26.79%. It has 15,000 hunger.",
-    "mTrivia": "The Brown Mouse's passive trait allows it to gain 750 bonus experience every 8 minutes and increase the player's jump height by 10%.",
+    "mPassive": "Gains 750 bonus experience every 8 minutes. Increases the player's jump height by 12%.",
+    "mGeneral": "The Brown Mouse is a Mythical Pet added in the Blood Moon Event Update. It can be obtained with a 26.79% chance from hatching the Mythical Egg. It has 15,000 hunger.",
+    "mTrivia": "Appearance\nThe Brown Mouse is a recolor of the Grey Mouse with brown fur.\n\nTrait\nThe Brown Mouse's passive trait allows it to gain ~750 bonus experience every ~8 minutes and increases the player's jump height by ~12%.\n\nNote: The ~750 bonus XP only applies to itself and does not affect other pets.\n\nThe Brown Mouse, Grey Mouse, Starfish, Mochi Mouse, and Tanuki (when it rolls for experience) are the only pets that grant bonus experience for themselves.\n\nThe Brown Mouse’s ability stops when they reach zero hunger.\n\nThe Brown Mouse used to be the fastest aging pet with its passive trait, but the Starfish has taken its role as the best pet to use for pet/egg/pet-storage upgrades.",
 	"mValue": "6000000000"
   },
   {
@@ -737,11 +737,11 @@
     "mNameIcon": "giant_ant.webp",
     "mTier": "Mythical",
     "mObtainable": "Yes",
-    "mObtaining_method": "Bug Egg",
-    "mHatch_chance": "30%",
-    "mPassive": "~10% chance for harvested crops to duplicate. +~5% chance to duplicate candy type plant. Rarer fruits duplicate less often.",
-    "mGeneral": "The Caterpillar is a Mythical Pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a chance of 25%.",
-    "mTrivia": "The Giant Ant's first passive trait gives a 10% chance to duplicate a fruit being harvested. The more rare a fruit is, the less likely the fruit is to duplicate.\nThe Giant Ant's second passive trait gives an extra ~5% chance for candy crops to be duplicated when harvested.",
+    "mObtaining_method": "Bug Egg 25%\nExotic Bug Egg 30%",
+    "mHatch_chance": "Bug Egg 25%\nExotic Bug Egg 30%",
+    "mPassive": "~10% chance for harvested crops to duplicate. Rarer fruits duplicate less often. ~5% extra chance for Candy type fruit to duplicate!",
+    "mGeneral": "The Giant Ant is a Mythical Pet added in the Animal Update. The Giant Ant can be obtained by hatching the Bug Egg with a chance of 25% to hatch. The Giant Ant has 18,000 hunger.",
+    "mTrivia": "Appearance\nThe Giant Ant has a blue body and head, as well as 6 dark blue legs and an antennae. It has two body segments: a torso and an abdomen.\n\nTraits\nThe Giant Ant's first passive trait gives a ~10% chance to duplicate a fruit being harvested (If the crop is mutated, then all the mutations will also be copied and transferred to the crop duplicated by the Giant Ant). The rarer a fruit is, the less likely the fruit is to duplicate.\n\nThe Giant Ant's second passive trait gives an extra ~5% chance for candy type plants to be duplicated when harvested.\n\nUpon testing, The Giant Ant gains more hunger points when fed Lilac or Candy Blossom,as opposed to other fruit. -(A base Candy Blossom will usually give about 90-100% hunger.)",
 	"mValue": "450000000000"
   },
   {
@@ -750,11 +750,11 @@
     "mNameIcon": "praying_mantis.webp",
     "mTier": "Mythical",
     "mObtainable": "Yes",
-    "mObtaining_method": "Bug Egg",
-    "mHatch_chance": "4%",
-    "mPassive": "Every 80s, prays for 10.30s granting a 1.51x variant chance to crops within 10.30 studs.",
+    "mObtaining_method": "Bug Egg 4%\nExotic Bug Egg 4%",
+    "mHatch_chance": "Bug Egg 4%\nExotic Bug Egg 4%",
+    "mPassive": "The Praying Mantis is a Mythical Pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a 4% chance and has a hunger bar of 55,000.",
     "mGeneral": "The Praying Mantis is a Mythical Pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a 4% chance and have 55,000 hunger bar.",
-    "mTrivia": "Every ~80 seconds, the Praying Mantis will pray for ~10 seconds, granting a ~1.5x chance to mutate crops within ~10 studs of the Praying Mantis. This trait applies to already existing plants.\nIt can give any type of mutation to crops within the 10 stud range except for developer or event special mutations.",
+    "mTrivia": "Appearance\nIt has 4 small green legs and 2 big green claws. On its head, there are 2 black square eyes, big dark green mouth, and 2 antennas with light neon dots on it.\n\nTrait\nEvery ~80 seconds, prays for ~10 seconds, granting ~1.5x variant chance within ~10 studs! (Rainbow, Gold and Silver)\nThe Praying Mantis increases variant chance of a growing fruit/crop in an already existing plant. This means using Trowel to move plants will not work.\n\nIncreased Variant Chance means increased chance of getting Growth Mutations (Gold or Rainbow).\n\nThe Praying Mantis does not magically give growth mutations to fully grown fruits/crops unlike Butterfly and Dragonfly.",
 	"mValue": "450000000000"
   },
   {
@@ -767,7 +767,7 @@
     "mHatch_chance": "8.93%",
     "mPassive": "5% chance harvested crops duplicate! Rarer crops have lower chance to duplicate. 5% extra chance for Fruit type crops to duplicate!",
     "mGeneral": "The Red Giant Ant is a Mythical pet added in the Blood Moon Event Update. It can be obtained from hatching the Mythical Egg with a chance of 8.93%. It has 15,000 hunger.",
-    "mTrivia": "The Red Giant Ant's passive trait grants a 5% chance to duplicate crops when harvesting, with lower odds for rarer crops. Fruit-type crops have an extra 5% chance to duplicate.",
+    "mTrivia": "Appearance\nThe Red Giant Ant is a recolor of the Giant Ant with a red integument.\n\nTrait\nThe Red Giant Ant's passive trait grants a 5% chance to duplicate crops when harvesting, with lower odds for rarer crops. Fruit-type crops have an extra 5% chance to duplicate.",
 	"mValue": "450000000000"
   },
   {
@@ -778,9 +778,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Mythical Egg",
     "mHatch_chance": "26.79%",
-    "mPassive": "Grants a 2.5% chance to keep a seed when planting.",
-    "mGeneral": "The Squirrel is a Mythical Pet added in the Blood Moon Event Update. It can be obtained by hatching the Mythical Egg with a chance of 26.79%. It has 15,000 hunger.",
-    "mTrivia": "The Squirrel's trait grants a 2.5% chance to keep a seed when planting, with this chance decreasing for rarer crops.",
+    "mPassive": "Seed Stash: Small chance to not consume a use when using the Reclaimer. Gains additional XP per second.",
+    "mGeneral": "The Squirrel is a Mythical Pet added in the Blood Moon Event Update. It can be obtained by hatching the Mythical Egg, with a chance of 26.79%. It has 15,000 hunger.",
+    "mTrivia": "Appearance\nThe Squirrel has brown fur, a beige underside, short ears, black eyes, and a black nose, closely resembling a real-life squirrel.\n\nTrait\nThe Squirrel's trait grants a small chance for a use to not be consumed when using the Reclaimer tool. Also gains additional XP per second.\n\nThis section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nIn versions 1385 and earlier, squirrels gave players a 2.5% chance to keep a seed after planting. People exploited this to duplicate exclusive seeds. This is an intentional feature and still works, just not for exclusive seeds anymore.\n\nThe Squirrel lost its ability to duplicate seeds and was given the replacement ability which now save Reclaimed uses- presumably due to seed duplication exploiting.\nThe Squirrel is one of the 5 pets that can gain additional XP. (The 5 pets are, Starfish, Grey Mouse, Brown Mouse, Mochi Mouse, and Squirrel)",
 	"mValue": "275000000000"
   },
   {
@@ -791,9 +791,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Bee Egg",
     "mHatch_chance": "5%",
-    "mPassive": "Every 25 minutes it turns a crop Honey Glazed",
-    "mGeneral": "The Bear Bee is a mythical Pet added in the Bizzy Bee Event update.\nThe Bear Bee can be obtained in the Bee Egg for 18 Honey.\nThe Bear Bee has 45,000 hunger.",
-    "mTrivia": "Every 25:00 minutes, it approaches a nearby fruit, causing it to mutate into Honey Glazed.\nIt is a reference to the Bee Swarm Simulator Bear Bee.",
+    "mPassive": "Wanna-bee:\nEvery 25 minutes applies the HoneyGlazed mutation to a random fruit",
+    "mGeneral": "The Bear Bee is a mythical Pet added in the Bizzy Bee Event update. It can be obtained in the Bee Egg for 30,000,000 Sheckles or 129 Roblux.\n\nThe Bear Bee has 45,000 hunger.",
+    "mTrivia": "Appearance\nThe Bear Bee resembles a brown bear, wearing a bee costume.\n\nTrait\nWanna-Bee: Every 25:00 minutes, goes to a nearby fruit and applies the HoneyGlazed mutation on that said fruit. Every level decreases the cooldown by ~3 seconds.\n\nIt is a reference to the Bear Bee from Bee Swarm Simulator.\n\nThis is the only pet in the game that gives the mutation HoneyGlazed.",
 	"mValue": "16000000000000"
   },
   {
@@ -802,11 +802,11 @@
     "mNameIcon": "butterfly.webp",
     "mTier": "Mythical",
     "mObtainable": "Yes",
-    "mObtaining_method": "Anti Bee Egg",
+    "mObtaining_method": "Anti Bee Egg\nPremium Anti Bee Egg",
     "mHatch_chance": "1%",
-    "mPassive": "Rainbow flutter:\nEvery ~30m, flies to a nearby fruit with 5+ mutations, removes all mutations from it and turns it rainbow! Ignores favorited fruit.",
-    "mGeneral": "The Butterfly can be obtained from the Anti Bee Egg, which can be bought from the Limited Time Shop for  149 or crafted at the Bizzy Bear for:\n5 Honey + 0.36kg Pollinated Strawberry: 1x Egg\n13 Honey + 3.6kg Pollinated Nectarine: 1x Egg\n28 Honey + 1.65kg HoneyGlazed Rose: 1x Egg\n37 Honey + 15.8kg HoneyGlazed Beanstalk: 2x Egg",
-    "mTrivia": "Every ~30m, flies to a nearby fruit with 5+ mutations, removes all mutations from it and turns it rainbow! Ignores favorited fruit.\nGold is a variation not a mutation so it won't work if it has only 4 mutations and 1 variation.",
+    "mPassive": "Rainbow Flutter:\nEvery ~30m, flies to a nearby fruit with 5+ mutations, removes 5 mutations from it and turns it rainbow! Ignores favorited fruit.",
+    "mGeneral": "The Butterfly is a Mythical Pet introduced in the Friendship Update.\n\nThe Butterfly has 26,000 hunger.",
+    "mTrivia": "Obtainment\nThe Butterfly can be obtained from the Anti Bee Egg, which can be crafted at the Cosmetics Shop in 2 hours for:\n\n1 Bee Egg + 25 = 1 Anti Bee Egg\nBee Egg is still obtainable by the Honey Merchant. So players cannot get it until they have more honey or buy it with Robux.\nAlternatively, the butterfly used to be obtainable by purchasing the Premium Anti Bee Egg for  149\n\nAppearance\nThe Butterfly has a long, narrow purple body with a slightly rounded head and several small, evenly spaced black legs underneath. Its wings are large and angular, extending outward in a symmetrical \"V\" shape. Each wing is light purple and decorated with two vertical black rectangles near the center and four orange circular markings closer to the tips. The wings are flat and wide, with sharp corners and a stepped, block-like shape. The entire model has a clean, geometric design that emphasizes symmetry and stylized detail.\n\nTrait\nEvery ~30m, flies to a nearby fruit with 5+ mutations, removes all Crop Mutations from it and turns it Rainbow! (Ignores favorited fruit).\n\nGold and Silver are Variants, not an Environmental Mutation so it won't work if it has only 4 Environmental Mutation and 1 Variant.\nThe Butterfly is one of the only three pets that can apply growth-variant mutations to plants. The second one being the Dragonfly and the third one being the Golden Bee.\n\nDespite having an \"only\" 50x multiplier, Rainbow is the best mutation in the game. All Environmental Mutations are multiplied by Variants, meaning that the the 50x Rainbow value of the fruit acts as it's base value, and all other Mutations therefore become 50x more valuable as well.",
 	"mValue": "950000000000000"
   },
   {
@@ -828,11 +828,11 @@
     "mNameIcon": "packbee.webp",
     "mTier": "Mythical",
     "mObtainable": "Yes",
-    "mObtaining_method": " method\nCrafted by adding a Anti Bee Egg, Sunflower, Purple Dahlia and 250 Honey",
-    "mHatch_chance": "N/A",
+    "mObtaining_method": " Crafted by adding an Anti Bee Egg, Sunflower, Purple Dahlia, and  250 Honey",
+    "mHatch_chance": "Crafted",
     "mPassive": "Increases backpack size by ~25 and pollinates a plant every ~25 minutes",
-    "mGeneral": "The Pack Bee is a Mythical pet, which can be purchased for 799 Roblux or crafted with Anti Bee Egg, Sunflower, Purple Dahlia and 250 Honey in the crafting station.",
-    "mTrivia": "The Pack Bee has an incredibly similar look to a Working Bee yet isn't multicolored.\nBefore the Mega Harvest update, the Pack Bee only had a passive ability to increase item storage.",
+    "mGeneral": "The Pack Bee is a Mythical pet, which can be purchased for 799 Roblux or crafted with Anti Bee Egg, Sunflower, Purple Dahlia, and 250 Honey in the crafting station.",
+    "mTrivia": "Appearance\nThe Pack Bee resembles a normal Bee, but with a workers helmet and a crate hanging under it.\n\nTrait\nThe Pack Bee increases backpack size for holding fruits, plants, seeds, and tools by ~25. As it ages, the size increases for how much more the player can store. It does not increase the pet storage size, however.\n\nThe Pack Bee has an incredibly similar look to a Working Bee, yet isn't multicolored.\n\nBefore the Mega Harvest update, the Pack Bee only had a passive ability to increase item storage.",
 	"mValue": "7000000000000"
   },
   {
@@ -843,8 +843,8 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Paradise Egg",
     "mHatch_chance": "1%",
-    "mPassive": "Mimicry: Every 20m mimics and copies an ability from another pet and performs its ability",
-    "mGeneral": "The appearance of the Mimic Octopus resembles a purple octopus. It does not look like a real Mimic Octopus, but instead just purple with lavender accents. The Octopus also has yellow eyes with slanted pupils, it also has a small smile.",
+    "mPassive": "Mimicry: Every 20m mimics and copies an ability from another pet and performs its ability!",
+    "mGeneral": "The Mimic Octopus is a mythical pet added during the Summer Harvest Event, which can be obtained from the Paradise Egg.",
     "mTrivia": "If a Mimic Octopus copies a pet with two abilities like Queen Bee, it will only perform the first ability.\nThe copied pet's cooldown doesn't continue, instead it will restart. This is a huge nerf to its mimic ability.\nDespite being an \"Octo\"pus, the Mimic octopus only has 6 tentacles.\nMimicry ability cooldown is reset upon joining a new server.\nMimicry is closely similar to Queen Bee's For The Queen Ability. The only difference is the one performing the ability.\nDespite having 1% chance from the Paradise Egg, Mimic Octopus’s tier is mythical not divine unlike raccoon, queen bee, or dragonfly.",
 	"mValue": "700000000000000"
   },
@@ -997,11 +997,11 @@
     "mNameIcon": "redfox.webp",
     "mTier": "Divine",
     "mObtainable": "Yes",
-    "mObtaining_method": "Mythical Egg",
-    "mHatch_chance": "1.79%",
-    "mPassive": "Attempts to steal a seed from another user's plot every ~10 minutes. But the chance to successfully steal a seed is rarer due to the seed the fox steal's rarity.",
-    "mGeneral": "The Red Fox is a Mythical Pet added in the Blood Moon Update. It has a 1.79% chance of being hatched from a Mythical Egg.",
-    "mTrivia": "Every ~10 minutes the Red Fox goes to a random player's garden and attempts to steal a seed (only Seed Shop plants).\nThe Red Fox can NOT steal any event seeds, tested multiple times with only event plants in other peoples plots.\nThe Red Fox shares the same model with the Raccoon, but colored differently.",
+    "mObtaining_method": "Mythical Egg with 8,000,000 Sheckles or 199 Roblux",
+    "mHatch_chance": "1.5%",
+    "mPassive": "Scoundrel: Attempts to steal (duplicate) a seed from another user's plot every ~6 minutes if it successfully steals a seed it will try to steal another one",
+    "mGeneral": "The Red Fox is a divine pet added in the Blood Moon Update. It has a 1.69% chance of being hatched from a Mythical Egg.",
+    "mTrivia": "Appearance\nThe Red Fox has a blocky appearance (studs) with a bright orange-red body. It has large, triangular ears with white insides, square black eyes, and a white snout. Its legs are black, and the tip of its tail is white, matching the white fur under its neck.\n\nTrait\nScoundrel: Every 6:50 minutes the Red Fox goes to a random player's garden and attempts to steal (duplicate) the seed to give to the owner. If succeeded, it will attempt to steal a seed again. It works only with Seed Shop plants and does not work on event/unobtainable plants.\n\nThe Red Fox, Kitsune, Kappa, and Queen Bee are the only pets to have a higher rarity than their eggs rarity.\n\nThe Red Fox is one of the few pets that can interact directly with players. The other pets are the Crab, the Kitsune and the Raccoon.\nThe Red Fox does not steal single-harvest plants.",
 	"mValue": "58000000000000"
   },
   {
@@ -1023,11 +1023,11 @@
     "mNameIcon": "dragonfly.webp",
     "mTier": "Divine",
     "mObtainable": "Yes",
-    "mObtaining_method": "Bug Egg",
-    "mHatch_chance": "1%",
-    "mPassive": "Every ~5 minutes, one random crop will turn gold.",
-    "mGeneral": "The Dragonfly is a Divine pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a 1% chance.",
-    "mTrivia": "Once every ~5 minutes, the Dragonfly will turn a random crop Gold.\nIt is the first Divine pet to be released into the game, followed by the Night Owl, Raccoon and Blood Owl.\nWhen being held by the player, the Dragonfly is not in their hand, and rather few studs away from hand and has their head at ground. This is most likely a visual bug as pet flies normally once placed.",
+    "mObtaining_method": "Bug Egg 1%\nExotic Bug Egg 1%",
+    "mHatch_chance": "Bug Egg 1%\nExotic Bug Egg 1%",
+    "mPassive": "Transmutation: Every ~5 minutes, one random crop will turn gold. (Does not work on produce with existing variants. This includes weaker variants, such as Silver)",
+    "mGeneral": "The Dragonfly is a divine pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a 1% chance.",
+    "mTrivia": "Appearance\nThe Dragonfly is a completely golden version of a real dragonfly, but its eyes, wing tips, and tail are neon. The Dragonfly flaps its wings every client frame. It uses the same texture as the Gold mutation.\n\nTrait\nEvery ~5 minutes, turns one random fruit Gold.\nThe Dragonfly is based off the real-life dragonfly, Anisoptera, although it more closely resembles the carboniferous creature Meganeura.\nIt is the first Divine pet to be released into the game.\n\nWhen being held by the player, the Dragonfly is not in their hand, and rather few studs away from hand and has its head at ground. This is most likely due to the Dragonfly's true hitbox being placed at ground level and it's model being offset upwards for the hovering effect.\n\nThe Dragonfly is one of the only three pets that can apply growth-variant mutations to plants. The second one being the Butterfly and the third one being the Golden Bee.\n\nAs of now, the Dragonfly has the highest hunger count, with 100,000 hunger points.",
 	"mValue": "580000000000000"
   },
   {
@@ -1038,9 +1038,9 @@
     "mObtainable": "Yes",
     "mObtaining_method": "Bee Egg",
     "mHatch_chance": "1%",
-    "mPassive": "Every ~25 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nEvery ~30 Minutes, a random pet will refresh its cooldown.",
-    "mGeneral": "The Queen Bee is a Divine pet added in the Bizzy Bee Event update. It can be obtained in the Bee Egg. It has 65,000 hunger.",
-    "mTrivia": "Every ~25 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nEvery ~30 Minutes, a random pet will refresh its cooldown.",
+    "mPassive": "Every ~20 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nEvery ~23 Minutes, the pet with the highest cooldown refreshes its ability! Does not refresh pet mutation abilities.",
+    "mGeneral": "The Queen Bee is a divine pet added in the Bizzy Bee Event update. It can be obtained in the Bee Egg, which can be purchased for  30,000,000 Sheckles, 18 Honey or 129 Roblux with a 1% chance. It has 65,000 hunger.",
+    "mTrivia": "Appearance\nThe Queen Bee is very large, towering over the player. It has a blush on her face, a crown on her head, a huge abdomen. She is identical in appearance to the NPC Queen Bee.\n\nTrait\nQueen Pollinator: Every ~20 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nFor the Queen: Every ~23 Minutes, the pet with the highest cooldown will refresh its ability! Does not refresh pet mutation abilities or French Fry Ferret's ability.\n\nThe Queen Bee can refresh another Queen Bee's ability, resulting in a potentially endless loop. It can only stop when there is another pet with a higher cooldown.\n\nWhen holding the Queen Bee, the crown will occasionally sparkle with the same effect as Celestial mutation.\n\nThe Queen Bee's crown is very similar to the Coat of Arms of the New Zealand Crown, the birthplace of Jandel, one of the main developers.\n\nThis pet is one of the only pets to refresh another pet's cooldown.",
 	"mValue": "460000000000000"
   },
   {
@@ -1049,11 +1049,11 @@
     "mNameIcon": "discobee.webp",
     "mTier": "Divine",
     "mObtainable": "Yes",
-    "mObtaining_method": "Anti Bee Egg",
+    "mObtaining_method": "Anti Bee Egg\nPremium Anti Bee Egg",
     "mHatch_chance": "0.25%",
-    "mPassive": "Every 20m, 12% chance a nearby fruit becomes Disco!",
-    "mGeneral": "The Raccoon has a slightly complex build. It has a large face with a snout, pentagonal ears, four small legs, and a small tail. Most of its body is a plain silver. It has a \"mask\" over its face that is a darker gray, similar in color to its ears and the stripes on its tail. Its inner ears, paws, and tail are a darker gray that gets fairly near black. It also has a white tuft on its chest, eyebrows, and snout. Its snout has a nose, but no visible mouth and appears expressionless.\nEvery 15 minutes, the Raccoon goes to another player's plot and duplicates their fruit, then gives it to the pet owner.",
-    "mTrivia": "Once every 15 minutes, the Disco Bee will have a 12% chance to add Disco Mutations to a fruit.\nIt is the only pet that is able to give out the Disco Mutation currently, as it is not possible to get it through any other means outside of a Disco Event caused by an admin.",
+    "mPassive": "Every ~10 minutes, has a ~20% chance a nearby fruit becomes Disco!",
+    "mGeneral": "The Disco Bee is a Divine Pet added inside the Friendship Update.\n\nThe Disco Bee has 25,000 hunger.",
+    "mTrivia": "Obtainment\nThe Disco Bee can be obtained from the Anti Bee Egg with an hatch chance of 0.25%, which can be crafted or bought for 149 Roblux.\n\nAppearance\nThe Disco Bee has a model of the Bee with glasses on. The Disco Bee's wings flap every client frame. Disco Bee's body coloring fluctuates through the rainbow, just like the Disco mutation.\n\nTrait\nDisco Disco: Every ~15 minutes, has a 14% + weight (in kg) chance a nearby fruit becomes Disco! (As of v1706 Ability Chance and Cooldown got Buffed/9 hours before the update/admin abuse)\nAmongst all pets with ability of applying a crop mutation (Disco), The Disco Bee applies the mutation with the 2nd highest multiplier, tied with Lobster Thermidor (Meteoric) right behind HarmonisedFoxfireChackra\n\nThe Disco Bee only has 1 eye under its glasses.\nUpon being hatched from an Anti Bee Egg, the Disco Bee will fly up.",
 	"mValue": "1000000000000000"
   },
   {
