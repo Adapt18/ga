@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "data": 
   [
   {
@@ -160,16 +160,16 @@
   },
   {
     "mId": 13,
-    "mName": "Maneki-neko",
-    "mNameIcon": "manekineko.webp",
+    "mName": "Elk",
+    "mNameIcon": "elk.webp",
     "mTier": "Uncommon",
-    "mObtainable": "No",
-    "mObtaining_method": "Zen Egg",
-    "mHatch_chance": "40%",
-    "mPassive": "Fortune Cat: Every 2 minutes, waves and invites good fortune that grants 8% chance to refund fruit back to player’s inventory for 10s! Rarer fruit have rarer chance to refund.",
-    "mGeneral": "The Maneki-neko is an uncommon pet, obtained from the Kitsune Chest (during the Zen Event) or from the Exotic Kitsune Chest.\nThe Maneki-neko is a pure white cat with a red collar and gold bell. Its left paw is raised in a beckoning manner and has a Gold (Koban) coin on its forehead.",
-    "mTrivia": "Every 2 minutes, waves and invites good fortune that grants 8% chance to refund fruit back to player’s inventory for 10s! Rarer fruit have rarer chance to refund.",
-	"mValue": "75000000000"
+    "mObtainable": "Yes",
+    "mObtaining_method": "Skyroot Chest",
+    "mHatch_chance": "N/A",
+    "mPassive": "2% chance berry fruit stays after collecting! Rarer plants have a rarer chance to stay.",
+    "mGeneral": "The Elk is an obtainable pet that released in the second part of the Beanstalk Event.",
+    "mTrivia": "Appearance\nThe Elk resembles a real-life Elk, sporting some similarities with Deer, & Spotted Deer.\n\nTrait\n2% chance berry fruit stays after collecting! Rarer plants have a rarer chance to replant.\nThe Elk's Trait is related to the Spotted Deer's Trait.",
+	"mValue": "100000000000"
   },
 
   {
@@ -274,7 +274,7 @@
     "mPassive": "Tropical Lover: Makes all nearby Tropical type plants have increased variant chance and grow bigger",
     "mGeneral": "The Toucan is a rare pet released in the Summer Update.",
     "mTrivia": "Appearance\nThe appearance of the Toucan is similar to that of the Seagull's, being a bird. It is mostly black with an overall stubby appearance. It has small wings and feet, but a large beak. Its feet are cerulean, and its beak is a scarlet color on top that fades into a sunset orange. It also has two white circles around its light brown and black eyes.\n\nTrait\nTropical Lover: Grants all tropical plants within ~25 studs, a ~1.2x size bonus and a ~1.18x variant chance bonus!\n\nMoving plants closer to Toucan with Trowel does not work. The plant must be existing already.\n\nThe Toucan makes a chirping sound occasionally.",
-	"mValue": "650000000000"
+	"mValue": "10000000000000"
   },
   {
     "mId": 20,
@@ -329,7 +329,7 @@
 	"mValue": "200000000000"
   },
   {
-     "mId": 24,
+    "mId": 24,
     "mName": "Wasp",
     "mNameIcon": "wasp.webp",
     "mTier": "Rare",
@@ -450,12 +450,12 @@
     "mName": "Turtle",
     "mNameIcon": "turtle.webp",
     "mTier": "Legendary",
-    "mObtainable": "No",
+    "mObtainable": "Yes",
     "mObtaining_method": "Legendary Egg",
     "mHatch_chance": "2.13%",
     "mPassive": "All sprinklers last ~20% longer.",
-    "mGeneral": "The Silver Monkey is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 42.55%. It has 8,000 hunger.",
-    "mTrivia": "The Silver Monkey gives an 8% chance to refund crops back to a player's inventory. Rarer crops have a lower chance of receiving these refunds. For example, a Carrot has a higher chance of being refunded than a Beanstalk. This chance stacks with other Silver Monkeys, as well as Monkeys.",
+    "mGeneral": "The Turtle is a Legendary pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 2.13%. It has 10 000 hunger.",
+    "mTrivia": "Appearance\nThe Turtle has a green head and limbs, a dark green shell with green spots, and a yellow belly. Its eyes and nostrils are black.\n\nTrait\nThe Turtle has a trait that simply amplifies the duration of sprinklers, making them last ~20% longer than its usual duration.\nTurtle is the first pet to modify gear in any way.\n\nTurtle affects every sprinkler in-game, including the ones added in the Update 1.10.0.\n\nPlayers cannot get the turtle since the Summer update June 21, ended on July 5th but as of now 23/08/2025 its obtainable and got added back in the Beanstalk Part 2.",
 	"mValue": "200000000000"
   },
   {
@@ -564,15 +564,15 @@
   },
   {
     "mId": 42,
-    "mName": "Sand Snake",
-    "mNameIcon": "sandsnake.webp",
+    "mName": "Mandrake",
+    "mNameIcon": "mandrake.webp",
     "mTier": "Legendary",
     "mObtainable": "No",
-    "mObtaining_method": "Oasis Egg\nPremium Oasis Egg With 149 Roblux",
-    "mHatch_chance": "34,5%",
-    "mPassive": "Has a 1.31% - 3% to duplicate an item or seed when purchasing from the gear or seed shop.",
-    "mGeneral": "The Sand Snake closely resembles its real-life counterpart, except for the fact it is made of cuboids. It is a tan color, with a darker back. It has 2 fangs and a red tongue visible.",
-    "mTrivia": "Buying from the seed/gear shop has a 1.45% to duplicate the bought item.",
+    "mObtaining_method": "Skyroot Chest",
+    "mHatch_chance": "14,5%",
+    "mPassive": "Harvesting Mandrake crops have a 3% chance to apply Rot mutation to a random fruit in your garden!",
+    "mGeneral": "The Mandrake is a legendary pet, that was released in the second part of the Beanstalk Event. It is found within the Skyroot Chest and/or the Exotic Skyroot Chest.\n\nThe Mandrake has 10,000 Hunger.",
+    "mTrivia": "Appearance\nThe Mandrake has the same model as the Mandrake Crop, although it's slightly adjusted.\n\nTrait\nHarvesting Mandrake crops have a 3% chance to apply Rot mutation to a random fruit in your garden!\nThe Mandrake closely resembles it's crop counterpart that was added in the first part of the Beanstalk Event.\nThe Mandrake is the second pet to share its name with a crop, the first being the Kiwi.",
 	"mValue": "700000000000"
   },
   {
@@ -597,8 +597,8 @@
     "mObtaining_method": "Legendary Egg",
     "mHatch_chance": "42,55%",
     "mPassive": "Causes all plants within 8 studs to grow 1.12x faster.",
-    "mGeneral": "The Cow is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 42.55%. The Cow has 9,500 hunger.\nThe Cow is white with orange horns and black eyes. It has dark hooves, a pink muzzle, and a patch of orange hair on its left eye.",
-    "mTrivia": "The Cow has a passive trait which causes all plants within 8 studs to grow 1.12x faster.",
+    "mGeneral": "The Cow is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 42.55%. The Cow has 9,500 hunger.",
+    "mTrivia": "Appearance\nThe Cow is white with orange horns and black eyes. It has dark hooves, a pink muzzle, and a patch of orange hair on its left eye.\n\nTrait\nThe Cow has a passive trait which causes all plants within 8 studs to grow 1.12x faster.\n\nAchievments where the cow is needed\nplant 500 crops while the cow is placed in the players garden",
 	"mValue": "3000000000"
   },
   {
@@ -610,8 +610,8 @@
     "mObtaining_method": "Legendary Egg",
     "mHatch_chance": "2.13%",
     "mPassive": "Every ~90s, ~10% chance to turn a nearby crop chilled or frozen.",
-    "mGeneral": "The Polar Bear is a Legendary pet added in the Animal Update. It can be obtained by hatching a Legendary Egg with a 2.13% chance.\nThe Polar bear has a white body and ears, and a slightly yellow-tinted snout. Its paws and facial features are black.",
-    "mTrivia": "Every ~90 seconds, ~10% chance a nearby fruit becomes Chilled or Frozen.",
+    "mGeneral": "The Polar Bear is a Legendary pet added in the Animal Update. It can be obtained by hatching a Legendary Egg with a 2.13% chance.",
+    "mTrivia": "Appearance\nThe Polar bear has a white body and ears, and a slightly yellow-tinted snout. Its paws and facial features are black.\n\nTrait\nEvery ~90 seconds, ~10% chance a nearby fruit becomes Chilled or Frozen.",
 	"mValue": "4000000000000"
   },
   {
@@ -850,15 +850,15 @@
   },
   {
     "mId": 64,
-    "mName": "Hyacinth Macaw",
-    "mNameIcon": "hyacinthmacaw.webp",
+    "mName": "Golem",
+    "mNameIcon": "golem.webp",
     "mTier": "Mythical",
-    "mObtainable": "No",
-    "mObtaining_method": "Oasis Egg\n149 Robux or 10 points at the Harvest Shop",
+    "mObtainable": "Yes",
+    "mObtaining_method": "Sprout Egg",
     "mHatch_chance": "5%",
-    "mPassive": "Every 8:00m, 15.63% chance to mutate a nearby fruit, applying the Cloudtouched mutation!",
-    "mGeneral": "The Hyacinth Macaw resembles its real-life counterpart but it's much chunkier.",
-    "mTrivia": "Every 8:00m, 15.63% chance to mutate a nearby fruit, applying the Cloudtouched mutation.",
+    "mPassive": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
+    "mGeneral": "The Golem is an obtainable, mythical pet, that was released in the Beanstalk Event Update.",
+    "mTrivia": "Appearance\nThe Golem is a stack of stones resembling a tiny rock snowman with stubby legs, long arms, beady black eyes with a unibrow, and is covered with patches of moss.\n\nTrait\nEvery ~6 minutes, goes to the mutation machine and tinkers with it and advances its time by 50 seconds!\n\nMax buff can gain from a Nihonzaru are:\n\nCooldown : -6 seconds.\nTime Advanced : +3 seconds.\nMedium Toy buff are:\n\nCooldown: -80 seconds.\nTime Advanced : +8 seconds.\nSmall Toy is the same as Medium toy but equal 1/2 it.\nThis is the first pet to help with Pet Mutations, by advancing its time.\n\nA Golem takes ~80 seconds to run from the first slot to the Mutation Machine and return.\n\nA Golem takes ~40 seconds to run from the last slot to the Mutation Machine and return.\n\nIt plays a ~ 12 seconds animation at the mutation machine",
 	"mValue": "4000000000000"
   },
   {
@@ -1058,28 +1058,28 @@
   },
   {
     "mId": 80,
-    "mName": "Fennec Fox",
-    "mNameIcon": "fennecfox.webp",
+    "mName": "Golden Goose",
+    "mNameIcon": "goldengoose.webp",
     "mTier": "Divine",
-    "mObtainable": "No",
-    "mObtaining_method": "Oasis Egg 10 Summer Coins\nPremium Oasis Egg 149 Roblux",
-    "mHatch_chance": "0.5%",
-    "mPassive": "Sly: Every 22:12m, goes to another player's random fruit, copies 1 mutation from it and applies it to a random fruit the pet owner owns! The higher mutation multiplier the rarer chance to copy.",
-    "mGeneral": "The Fennec Fox's appearance resembles that of a real-life Fennec Fox.",
-    "mTrivia": "Every 22:12m, the Fennec Fox goes to a random fruit in a player's garden, copies one mutation from it, then applies it to any fruit in the pet owner's garden. The higher a mutation's multiplier is, the rarer it will be for the pet to succeed in copying said mutation. Cannot put mutations on favorited plants.",
+    "mObtainable": "Yes",
+    "mObtaining_method": "Sprout Egg",
+    "mHatch_chance": "1%",
+    "mPassive": "Every 13 minutes, lays a Golden Egg plant that starts with the Fortune mutation. It can be harvested and mutates like other plants. Selling it may apply Fortune mutation to a fruit in the player's garden!",
+    "mGeneral": "The Golden Goose is a divine pet that was released in the Beanstalk Event Update.\n\nObtainment\nThe Golden Goose is obtainable from the Sprout Egg with a 1% chance.",
+    "mTrivia": "Appearance\nThe Golden Goose appears to be a golden goose with blue squares resembling diamonds on its chest and along its back and emitting golden sparkles.\n\nTrait\nEvery 13 minutes, lays a Golden Egg plant that starts with the Fortune mutation. It can be harvested and mutates like other plants. Selling it may apply the Fortune mutation to a fruit in the player's garden.\nThis is the first pet to give out an exclusive crop with a mutation.\n\nThe T-Rex, Spinosaurus, Fennec Fox, Seedling, and Mimic Octopus’s passive can spread the Fortune mutation on the Golden Egg to other plants!\n\nThe Golden Goose lays different sizes of Golden Eggs, with an average weight of 8kg and a huge chance of 2%.\n\nThe Golden Goose can be spotted wandering around at the cloud of the beanstalk near the Giant [NPC].\n\nA second smaller Golden Goose can also be spotted walking near the larger one. It's either a bug or a random addition from a bug fix.",
 	"mValue": "1400000000000000"
   },
   {
     "mId": 82,
-    "mName": "Blood Owl",
-    "mNameIcon": "bloodowl.webp",
+    "mName": "Griffin",
+    "mNameIcon": "griffin.webp",
     "mTier": "Divine",
-    "mObtainable": "No",
-    "mObtaining_method": "60,000,000 Coins in Blood Moon Shop",
+    "mObtainable": "Yes",
+    "mObtaining_method": "Skyroot Chest",
     "mHatch_chance": "",
-    "mPassive": "All active pets gain >0.50 XP per second.",
-    "mGeneral": "The Blood Owl is a divine pet added in the Blood Moon Event update. The Blood Owl is one of the nine pets added in the update, also known as Update 1.06.0.\nThe Blood Owl could be obtained in the Blood Moon Shop for 60,000,000 Coins. The Blood Owl has 50,000 hunger.",
-    "mTrivia": "The Blood Owl shares the same model as the Owl. However, it is recolored in various shades of red. It is one of the 3 owl mutations, along with the Night Owl and Cooked Owl.\nAll active pets gain an additional >0.50 XP per second.",
+    "mPassive": "Glorious Wings: Every 15 minutes, flaunts its wings and releases a Cyclone. Pets struck have their cooldown advanced by 60 seconds and fruits struck have a 10% chance to get the Cyclonic mutation!",
+    "mGeneral": "The Griffin is a Divine pet obtainable from the Skyroot Chest with a 1% chance upon hatching. It was released on the second update of the Beanstalk Event.",
+    "mTrivia": "Appearance\nThe Griffin resembles the description of the Griffin from various mythologies with some discrepancies. It has the head, wings, and talons of an eagle while its body and tail is that of a lion.\n\nTrait\nGlorious Wings: Every 15 minutes, flaunts its wings and releases a Cyclone. Pets struck have their cooldown advanced by 66 seconds and fruits struck have a 10% chance to get the Cyclonic mutation!\nThe Griffin has a Cosmetic statue of itself. This cosmetic is the Griffin Statue.\n\nIf the Griffin gets Cyclonic on a fruit that already has Tempestuous, then the mutations will merge into the Maelstrom mutation.\n\nThe Griffin's cyclone can also advance the cooldown of itself.",
 	"mValue": "32000000000000"
   },
   {
@@ -1107,6 +1107,32 @@
     "mGeneral": "The appearance of the French Fry Ferret has a French Fry on his head with the \"Letter G\" which might mean \"Gourmet\" as a reference to the event and a French Fry bag on top of their head.\nFriendly Frier: Every ~60:32m, increases a random pet's level by 1! Ability cannot be mimicked or refreshed.",
     "mTrivia": "This section is a trivia section. Please relocate any relevant information into other sections of the article.\n\nThe Mimic Octopus cannot mimic the French Fry Ferret's ability.\nPets that decrease the cooldown of abilities such as Wasp, Tarantula Hawk, Queen Bee cannot target this pets main ability.\nThe French Fry Ferret has the longest minimum cooldown cap of 20:00. Most pets has 1:00 minimum cooldown cap.",
 	"mValue": "1700000000000000"
+  },
+  {
+    "mId": 85,
+    "mName": "Dairy Cow",
+    "mNameIcon": "dairycow.webp",
+    "mTier": "Common",
+    "mObtainable": "Yes",
+    "mObtaining_method": "Sprout Egg",
+    "mHatch_chance": "50%",
+    "mPassive": "All plants within 10 studs grow 1.3x faster! When selling this pet: Has a small chance to get a Beanstalk seed!",
+    "mGeneral": "The Dairy Cow is an obtainable common pet which could be obtained in the Sprout Egg in the Beanstalk Event.",
+    "mTrivia": "Appearance\nThe Dairy Cow shares a similar appearance to the Cow but instead has a patch of black hair around its left eye, black hooves, eyebrows and a pinkish snout along with a golden cowbell.\n\nTrait\nAll plants within 10 studs grow 1.3x faster. When selling this pet: Has a small chance to get a Beanstalk seed.\n\nThe Dairy Cow uses the same model as the regular Cow.\n\nThis is the first pet that has a ability when selling it (In this case, it can give a Beanstalk seed when sold.)\n\nGetting a Beanstalk seed from selling it is a reference to the original Jack & The Beanstalk where he sells his cow for a Beanstalk seed.",
+    "mValue": "0"
+  },
+  {
+    "mId": 86,
+    "mName": "Bacon Pig",
+    "mNameIcon": "baconpig.webp",
+    "mTier": "Common",
+    "mObtainable": "Yes",
+    "mObtaining_method": "Culinarian Chest\nExotic Culinarian Chest\nRainbow Sack",
+    "mHatch_chance": "Culinarian Chest 34.5%\nExotic Culinarian Chest 34.5%\nRainbow Sack 28%",
+    "mPassive": "Bacon Frenzy: Every 5s to 120s, emits an aura for >15s granting >2x chance for new fruit to grow as variants within >15 studs!",
+    "mGeneral": "The Bacon Pig is an uncommon pet, released in the second part of the Cooking Update.",
+    "mTrivia": "Appearance\nThe Bacon Pig takes the shape of a normal Pig, but has strips of bacon in replacement to the normal texture.\n\nTrait\nBacon Frenzy: Every 5s to 120s, emits an aura for >15s granting >2x chance for new fruit to grow as variants within >15 studs!\n\nThe Bacon Pig has the same design as the regular Pig.",
+    "mValue": "100000000000"
   }
 ]
 }
